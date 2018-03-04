@@ -1,0 +1,166 @@
+"ConditionsEvent/Operation:Permit Linear Footage8563Elements of OccupancyMoving from utility pole to utility pole placing aerialstrand and fiber optic cable. Work will not exceed30min per location.From:8/15/2016 7:00AMStart Time7:00AMTo:8/26/2016 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signNSpecial Traffic permit requiredNFood:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,30TH AVE,TARAVAL ST,ULLOA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,ULLOA ST,VICENTE ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,VICENTE ST,"ESCOLTAWAY",Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,ESCOLTA WAY,WAWONA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+9,31ST AVE,TARAVAL ST,ULLOA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,ULLOA ST,VICENTE ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,VICENTE ST,"ESCOLTAWAY",Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+14,32ND AVE,TARAVAL ST,ULLOA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+16,,ULLOA ST,VICENTE ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+17,33RD AVE,TARAVAL ST,ULLOA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+19,,ULLOA ST,VICENTE ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+21,,VICENTE ST,WAWONA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+6,ESCOLTA WAY,30TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+29,,31ST AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+28,,30TH AVE,31ST AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+30,,31ST AVE,WAWONA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+2,ULLOA ST,30TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+10,,31ST AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+15,,32ND AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+18,,33RD AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+4,VICENTE ST,30TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+12,,31ST AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+20,,33RD AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+27,WAWONA ST,28TH AVE,30TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+23,,28TH AVE,30TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+24,WAWONA ST,30TH AVE,"ESCOLTAWAY",Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+26,,ESCOLTA WAY,33RD AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+8,,30TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+25,,ESCOLTA WAY,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+22,,33RD AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+""
+"",
+""
+""
+"",
+""
+"",
+""
+Job #,Activity,Contact,,
+15EXC-4413,"Shaw Pipeline Inc. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","(415) 740-8008 - (415)740-8008",,
+Your Notes:,,,,
+Streets:,33RD AVE / TARAVAL ST - ULLOA ST -,,,
+16EXC-4741,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,30TH AVE / TARAVAL ST - ULLOA ST -,,,
+16EXC-4944,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,30TH AVE / ULLOA ST - VICENTE ST -,,,
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+30TH AVE,,,,,,
+"",TARAVAL ST,ULLOA ST -,"Banners are allowed on thisstreet",,,
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",11SMF-0066,"Refer to Agent -Refer to Agent",
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",12ECN-0698,"800-743-5000 -800-743-5000",Jun 15 2012-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",12ECN-1084,"Refer toAgent5504900 -Refer toAgent5504900",Nov  1 2012-
+"",VICENTE ST,Intersection,"Conflict with existing Street UsePermit.",12TS-0220,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",13ECN-1460,"800-743-5000 -800-743-5000",Dec  2 2013-
+"",VICENTE ST,ESCOLTA WAY -,"Conflict with existing Street UsePermit.",13ECN-1471,"Refer to Agent -Refer to Agent",Dec 12 2013-
+"",VICENTE ST,Intersection,"Conflict with existing Street UsePermit.",13TS-0005,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",14wr-0170,"Refer to Agent -Refer to Agent",
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",15WR-0592,"Refer to Agent -Refer to Agent",
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",16ECN-0507,"415-695-3500 -415-695-3500",Jul 15 2016-
+"",ULLOA ST,VICENTE ST -,"Please see special pavingrequirements for MoratoriumStreets.",2274J,,Oct 18 2013-Oct 18 2018
+"",TARAVAL ST,ULLOA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 30 2012-Mar 30 2017
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",ESCOLTA WAY,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",WAWONA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"",VICENTE ST,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",VICENTE ST,ESCOLTA WAY -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",VICENTE ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+31ST AVE,,,,,,
+"",TARAVAL ST,ULLOA ST -,"Banners are allowed on thisstreet",,,
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",12ECN-0271,"Refer toAgent5504900 -Refer toAgent5504900",Mar 12 2012-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",12ECN-0726,"800-743-5000 -800-743-5000",Jun 26 2012-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",12ECN-1160,"Refer toAgent5504900 -Refer toAgent5504900",Dec  3 2012-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",13ECN-1352,"Refer toAgent5504900 -Refer toAgent5504900",Nov 25 2013-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",15ECN-0032,"800-743-5000 -800-743-5000",Jan 13 2015-
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",16ECN-0549,"Refer to Agent415-550-4900 -415-550-4900",Jul 26 2016-
+"",ULLOA ST,VICENTE ST -,"Please see special pavingrequirements for MoratoriumStreets.",2274J,,Aug 15 2013-Aug 15 2018
+"",TARAVAL ST,ULLOA ST -,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",ESCOLTA WAY,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",VICENTE ST,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+32ND AVE,,,,,,
+"",TARAVAL ST,ULLOA ST -,"Banners are allowed on thisstreet",,,
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",12ECN-0990,"800-743-5000 -800-743-5000",Sep 22 2012-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",13ECN-0336,"800-743-5000 -800-743-5000",Mar 18 2013-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",13ECN-0808,"800-743-5000 -800-743-5000",Jul 27 2013-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",16IE-0702,"415-822-8384 -415-822-8384",Aug  8 2016-Sep  8 2016
+"",TARAVAL ST,ULLOA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,May 31 2012-May 31 2017
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+33RD AVE,,,,,,
+"",TARAVAL ST,ULLOA ST -,"Banners are allowed on thisstreet",,,
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",11SMF-0025,"Refer to Agent -Refer to Agent",
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",14ECN-0739,"800-743-5000 -800-743-5000",Jul  1 2014-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",15ECN-0979,"Refer to Agent415-550-4900 -415-550-4900",Oct 13 2015-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",15ECN-1007,"Refer to Agent415-550-4900 -415-550-4900",Oct 27 2015-
+"",VICENTE ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1787J,,Nov 14 2011-Nov 14 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,VICENTE ST -,"Please see special pavingrequirements for MoratoriumStreets.",2635J,,Jun  7 2016-Jun  7 2021
+"",VICENTE ST,WAWONA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",TARAVAL ST,ULLOA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",VICENTE ST,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",VICENTE ST,WAWONA ST -,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",WAWONA ST,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",VICENTE ST,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"ESCOLTAWAY",,,,,,
+"",31ST AVE,WAWONA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",30TH AVE,31ST AVE -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",30TH AVE,31ST AVE -,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",30TH AVE,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",31ST AVE,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",31ST AVE,WAWONA ST -,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",WAWONA ST,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+ULLOA ST,,,,,,
+"",30TH AVE,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",31ST AVE,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",32ND AVE,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",30TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",32ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+VICENTE ST,,,,,,
+"",30TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",31ST AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",33RD AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",30TH AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0220,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",30TH AVE,Intersection,"Conflict with existing Street UsePermit.",13TS-0005,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",33RD AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1787J,,Nov 14 2011-Nov 14 2016
+"",33RD AVE,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",30TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"",31ST AVE,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"",33RD AVE,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"",30TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"WAWONAST",,,,,,
+"",28TH AVE,30TH AVE -,"Conflict with existing Street UsePermit.",16ECN-0376,"415-695-3500 -415-695-3500",May 26 2016-
+"",30TH AVE,ESCOLTA WAY -,"Conflict with existing Street UsePermit.",16ECN-0402,"415-695-3500 -415-695-3500",Jun  7 2016-
+"",30TH AVE,ESCOLTA WAY -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",ESCOLTA WAY,33RD AVE -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",33RD AVE,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",ESCOLTA WAY,33RD AVE -,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",ESCOLTA WAY,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2017-Dec 31 2017
+"",30TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020

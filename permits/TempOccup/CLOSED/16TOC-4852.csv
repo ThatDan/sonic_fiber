@@ -1,0 +1,102 @@
+"ConditionsEvent/Operation:Permit Linear Footage6300Elements of OccupancyMoving from utility pole to utility pole placing aerialstrand and fiber optic cable. Work will not exceed30min per location.From:8/8/2016 7:00AMStart Time7:00AMTo:8/12/2016 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, call(415) 554-5824 a minimum of 72 hours prior tooccupancy.  To tow a vehicle call the Tow Desk at(415) 553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+11,37TH AVE,TARAVAL ST,ULLOA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,ULLOA ST,VICENTE ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+15,,VICENTE ST,WAWONA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+17,,WAWONA ST,YORBA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+19,,YORBA ST,SLOAT BLVD,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+4,38TH AVE,TARAVAL ST,ULLOA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,ULLOA ST,VICENTE ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+8,38TH AVE,VICENTE ST,WAWONA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+10,,WAWONA ST,YORBA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+1,39TH AVE,TARAVAL ST,ULLOA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,ULLOA ST,VICENTE ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+12,ULLOA ST,37TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,38TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+2,,39TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+14,VICENTE ST,37TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+7,VICENTE ST,38TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+16,WAWONA ST,37TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+9,,38TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+18,YORBA ST,37TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+""
+"",
+""
+""
+"",
+""
+"",
+""
+Job #,Activity,Contact,,
+15EXC-4413,"Shaw Pipeline Inc. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","(415) 740-8008 - (415)740-8008",,
+Your Notes:,,,,
+Streets:,37TH AVE / TARAVAL ST - ULLOA ST -,,,
+16EXC-2484,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,37TH AVE / WAWONA ST - YORBA ST -,,,
+2748J,"Transition Plan Curb Ramps FY 15-16 - Curb ramp project atintersection, see contact information for required coordination.",Anastastia Disbrow -,,
+Your Notes:,,,,
+Streets:,38TH AVE / VICENTE ST - Intersection,,,
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+37TH AVE,,,,,,
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",11SMF-0032,"Refer to Agent -Refer to Agent",
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",13ECN-1182,"800-743-5000 -800-743-5000",Oct 18 2013-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",15ECN-1188,"415-695-3500 -415-695-3500",Dec 11 2015-
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",16ie-0186,"Refer to Agent -Refer to Agent",
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",16sw-0010,"Refer to Agent -Refer to Agent",
+"",TARAVAL ST,ULLOA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",WAWONA ST,YORBA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",ULLOA ST,VICENTE ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",YORBA ST,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2016-Dec 31 2016
+"",YORBA ST,SLOAT BLVD -,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2016-Dec 31 2016
+"",VICENTE ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"",VICENTE ST,WAWONA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"",WAWONA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"",WAWONA ST,YORBA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"",YORBA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"",YORBA ST,SLOAT BLVD -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+38TH AVE,,,,,,
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",12ECN-1138,"Refer to Agent550-4900 -Refer to Agent550-4900",Nov 24 2012-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",15ECN-1013,"415-695-3500 -415-695-3500",Oct 30 2015-
+"",ULLOA ST,VICENTE ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  3 2017-Jun 29 2018
+"",VICENTE ST,WAWONA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  3 2017-Jun 29 2018
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Dec  1 2016-Dec  2 2018
+"",WAWONA ST,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Dec  1 2016-Dec  2 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",VICENTE ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","AnastastiaDisbrow -",Aug  7 2015-Dec 31 2016
+"",VICENTE ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+39TH AVE,,,,,,
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",13ECN-1479,"800-743-5000 -800-743-5000",Dec  5 2013-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",16ECN-0409,"415-695-3500 -415-695-3500",Jun 10 2016-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",16SW-0034,"Refer to Agent -Refer to Agent",
+ULLOA ST,,,,,,
+"",38TH AVE,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Dec  1 2016-Dec  2 2018
+VICENTE ST,,,,,,
+"",37TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",38TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",37TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"",38TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","AnastastiaDisbrow -",Aug  7 2015-Dec 31 2016
+"",38TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"WAWONAST",,,,,,
+"",38TH AVE,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Dec  1 2016-Dec  2 2018
+"",37TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+YORBA ST,,,,,,
+"",37TH AVE,Intersection,Proposed Excavation.,PG&E,Jesse Lee -,Jan  1 2016-Dec 31 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",37TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018

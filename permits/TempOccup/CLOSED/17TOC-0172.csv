@@ -1,0 +1,76 @@
+"ConditionsEvent/Operation:Permit Linear Footage6441Elements of OccupancyAerial line truck roving from utility pole to utility poleplacing strand and fiber optic cable.  Roving work notto exceed 30 minutes at each location.From:1/30/2017 07:00AMStart Time7:00AMTo:2/3/2017 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, followthe tow-away sign activation and photo uploadprocess.  To tow a vehicle call the Tow Desk at (415)553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)SHOTWELL ST: 20TH ST to 21ST ST (600 - 699)01/30/2017 thru 02/03/2017 (5 days) SHOTWELL ST:21ST ST to 22ND ST (700 - 799) 01/30/2017 thru02/03/2017 (5 days) SHOTWELL ST: 22ND ST to23RD ST (800 - 899) 01/30/2017 thru 02/03/2017 (5days) SHOTWELL ST: 23RD ST to 24TH ST (900 -999) 01/30/2017 thru 02/03/2017 (5 days) SHOTWELLST: 24TH ST to 25TH ST (1000 - 1099) 01/30/2017thru 02/03/2017 (5 days)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+8,SHOTWELL ST,14TH ST,15TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+9,,15TH ST,16TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+10,,16TH ST,17TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,17TH ST,18TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+12,,18TH ST,19TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+2,,19TH ST,20TH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,19TH ST,20TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+3,SHOTWELL ST,20TH ST,21ST ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,21ST ST,22ND ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,22ND ST,23RD ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,23RD ST,24TH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+1,,24TH ST,25TH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+12EXC-4998,"Esquivel Grading & Paving, Inc. - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","(415) 354-4870 - (415)354-4870",,
+Your Notes:,,,,
+Streets:,SHOTWELL ST / 17TH ST - 18TH ST -,,,
+13EXC-0028,"Esquivel Grading & Paving, Inc. - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","(415) 354-4870 - (415)354-4870",,
+Your Notes:,,,,
+Streets:,SHOTWELL ST / 17TH ST - 18TH ST -,,,
+13EXC-1324,"Esquivel Grading & Paving, Inc. - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","(415) 354-4870 - (415)354-4870",,
+Your Notes:,,,,
+Streets:,SHOTWELL ST / 17TH ST - 18TH ST -,,,
+16EXC-7512,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","1-415-695-3500 - 1-415-695-3500",,
+Your Notes:,,,,
+Streets:,SHOTWELL ST / 14TH ST - 15TH ST -,,,
+"",
+"",
+"",
+"",
+""
+""
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"SHOTWELLST",,,,,,
+"",14TH ST,15TH ST -,"Banners are allowed on thisstreet",,,
+"",15TH ST,16TH ST -,"Banners are allowed on thisstreet",,,
+"",16TH ST,17TH ST -,"Banners are allowed on thisstreet",,,
+"",17TH ST,18TH ST -,"Banners are allowed on thisstreet",,,
+"",18TH ST,19TH ST -,"Banners are allowed on thisstreet",,,
+"",19TH ST,20TH ST -,"Banners are allowed on thisstreet",,,
+"",20TH ST,21ST ST -,"Banners are allowed on thisstreet",,,
+"",23RD ST,24TH ST -,"Banners are allowed on thisstreet",,,
+"",24TH ST,25TH ST -,"Banners are allowed on thisstreet",,,
+"",18TH ST,19TH ST -,"Conflict with existing Street UsePermit.",09V-0025,"Refer to Agent -Refer to Agent",
+"",18TH ST,19TH ST -,"Conflict with existing Street UsePermit.",12BW-0049,"Refer to Agent -Refer to Agent",
+"",20TH ST,21ST ST -,"Conflict with existing Street UsePermit.",12ECN-0435,"Refer to Agent5504900 - Referto Agent5504900",Apr 16 2012-
+"",23RD ST,24TH ST -,"Conflict with existing Street UsePermit.",12ECN-0494,"Refer toAgent5504900 -Refer toAgent5504900",May  2 2012-
+"",20TH ST,21ST ST -,"Conflict with existing Street UsePermit.",13ECN-0820,"800-743-5000 -800-743-5000",Jul 29 2013-
+"",20TH ST,21ST ST -,"Conflict with existing Street UsePermit.",13ECN-1481,"800-743-5000 -800-743-5000",Dec  4 2013-
+"",19TH ST,20TH ST -,"Conflict with existing Street UsePermit.",14ECN-0230,"800-743-5000 -800-743-5000",Feb 21 2014-
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",14ECN-0357,"Refer to Agent -Refer to Agent",Mar 24 2014-
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",14ECN-0452,"800-743-5000 -800-743-5000",Apr 17 2014-
+"",19TH ST,20TH ST -,"Conflict with existing Street UsePermit.",14ECN-0828,"800-743-5000 -800-743-5000",Jul 29 2014-
+"",23RD ST,24TH ST -,"Conflict with existing Street UsePermit.",15CN-0031,"415-626-8868 -415-626-8868",
+"",19TH ST,20TH ST -,"Conflict with existing Street UsePermit.",15ECN-0213,"Oscar Delgadillo@ 510-867-0073 &Inspector Jerry- (415) 337-2934",Feb 20 2015-
+"",23RD ST,24TH ST -,"Conflict with existing Street UsePermit.",15ECN-0406,"800-743-5000 -800-743-5000",Apr 23 2015-
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",15ECN-0698,"415-695-3500 -415-695-3500",Jul 14 2015-
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",15IE-0212,"Refer to Agent -Refer to Agent",
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",15V-0014,"Refer to Agent -Refer to Agent",
+"",17TH ST,18TH ST -,"Conflict with existing Street UsePermit.",16ECN-0090,"415-695-3500 -415-695-3500",Jan 27 2016-
+"",16TH ST,17TH ST -,"Conflict with existing Street UsePermit.",16IE-0043,"415-994-7293 -415-994-7293",
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",16MFF-0017,"Ana Goulart:650-278-0401 -Ana Goulart:650-278-0401",Mar  4 2016-Mar 15 2017
+"",17TH ST,18TH ST -,"Conflict with existing Street UsePermit.",16TC-0354,"415-215-9760 -415-215-9760",Jul 25 2016-Nov 15 2017
+"",24TH ST,25TH ST -,"Please see special pavingrequirements for MoratoriumStreets.",2274J,,May  8 2014-May  8 2019
+"",23RD ST,24TH ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Apr 13 2012-Apr 13 2017
+"",22ND ST,23RD ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Apr 16 2012-Apr 16 2017
+"",18TH ST,19TH ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Chung Linh -,Oct 31 2018-Apr 29 2022

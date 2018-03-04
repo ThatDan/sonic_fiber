@@ -1,0 +1,6 @@
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,25TH ST,DOUGLASS ST,"HOMESTEADST",Even,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,
+"",Total,,,,,0,9,20,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+25TH ST,,,,,,
+"",DOUGLASS ST,HOMESTEAD ST -,Proposed Paving.,PAVING,Allison Nguyen -,Oct 31 2016-Oct 30 2018

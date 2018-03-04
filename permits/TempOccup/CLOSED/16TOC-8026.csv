@@ -1,0 +1,56 @@
+"ConditionsEvent/Operation:Cougar BB01 Aerial Fiber Optic PlacementPermit Linear Footage900Elements of OccupancyLine truck & Bucket TruckFrom:12/12/2016 7:00AMStart Time7:00AMTo:12/19/2016 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, call(415) 554-5824 a minimum of 72 hours prior tooccupancy.  To tow a vehicle call the Tow Desk at(415) 553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+9,JOOST AVE,BROMPTON AVE,LIPPARD AVE,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+8,,LIPPARD AVE,ACADIA ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+10,,ACADIA ST,BADEN ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,140,
+7,,BADEN ST,CONGO ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,120,
+6,,CONGO ST,DETROIT ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,100,
+3,,DETROIT ST,EDNA ST,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,120,
+5,,EDNA ST,EDNA ST,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,60,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+4,JOOST AVE,EDNA ST,FOERSTER ST,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,60,
+2,,FOERSTER ST,"GENNESSEEST",North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,100,
+1,,GENNESSEE ST,"RIDGEWOODAVE",North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,100,
+"",Total,,,,,0,0,860,
+Job #,Activity,Contact,,
+16EXC-5765,"Bureau of Street & Sewer Repair - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","Mike Kelly 415 725-1501 - Mike Kelly 415725-1501",,
+Your Notes:,,,,
+Streets:,JOOST AVE / BADEN ST - CONGO ST -,,,
+16EXC-6053,"Precision Engineering, Inc. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","(415) 760-8744 - (415)760-8744",,
+Your Notes:,,,,
+Streets:,JOOST AVE / CONGO ST - DETROIT ST -,,,
+16EXC-7840,"San Francisco Water Department - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","stephanie 415 9204032 - stephanie 415920 4032",,
+Your Notes:,,,,
+Streets:,JOOST AVE / EDNA ST - FOERSTER ST -,,,
+"",
+""
+""
+""
+"",
+""
+"",
+""
+permit,Dates,Agency,Contact,
+6610216,12/16/16 - 12/16/16,BSES,Linda Lee 695-2144,
+StreetSpace,,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+JOOST AVE,,,,,,
+"",GENNESSEE ST,RIDGEWOOD AVE -,"Conflict with existing Street UsePermit.",12ECN-1001,"800-743-5000 -800-743-5000",Sep 26 2012-
+"",DETROIT ST,EDNA ST -,"Conflict with existing Street UsePermit.",13ECN-0831,"800-743-5000 -800-743-5000",Aug  1 2013-
+"",EDNA ST,FOERSTER ST -,"Conflict with existing Street UsePermit.",13ECN-1099,"800-743-5000 -800-743-5000",Oct  7 2013-
+"",DETROIT ST,EDNA ST -,"Conflict with existing Street UsePermit.",13ECN-1196,"800-743-5000 -800-743-5000",Oct 22 2013-
+"",FOERSTER ST,GENNESSEE ST -,"Conflict with existing Street UsePermit.",13ECN-1231,"800-743-5000 -800-743-5000",Oct 25 2013-
+"",DETROIT ST,EDNA ST -,"Conflict with existing Street UsePermit.",13ECN-1394,"Refer to Agent -Refer to Agent",Dec  4 2013-
+"",EDNA ST,FOERSTER ST -,"Conflict with existing Street UsePermit.",14ECN-0332,"Refer to Agent -Refer to Agent",Mar 17 2014-
+"",FOERSTER ST,GENNESSEE ST -,"Conflict with existing Street UsePermit.",14ECN-0888,"800-743-5000 -800-743-5000",Aug 13 2014-
+"",FOERSTER ST,GENNESSEE ST -,"Conflict with existing Street UsePermit.",14ECN-0928,"800-743-5000 -800-743-5000",Aug 22 2014-
+"",EDNA ST,FOERSTER ST -,"Conflict with existing Street UsePermit.",15ECN-0421,"800-743-5000 -800-743-5000",Apr 27 2015-
+"",CONGO ST,DETROIT ST -,"Conflict with existing Street UsePermit.",16ECN-0234,"Refer to Agent -Refer to Agent",Mar 24 2016-
+"",CONGO ST,DETROIT ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Brass Disk,,
+"",EDNA ST,FOERSTER ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Brass Disk,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",FOERSTER ST,GENNESSEE ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Brass Disk,,
+"",EDNA ST,FOERSTER ST -,Proposed Paving.,PAVING,Richard Lee -,Aug 10 2015-Sep  7 2017
+"",LIPPARD AVE,ACADIA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,

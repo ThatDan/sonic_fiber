@@ -1,0 +1,609 @@
+"ConditionsEvent/Operation:Permit Linear Footage14900Elements of OccupancyWork will be placing aerial strand moving from pole topole. The work will not exceed 30mins at any givenlocation.From:2/10/2016 7:00AMStart Time7:00AMTo:2/23/2016 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signNSpecial Traffic permit requiredNFood:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+95,30TH AVE,ANZA ST,BALBOA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+1,ANZA ST,ARGUELLO BLVD,02ND AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,02ND AVE,03RD AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,03RD AVE,04TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,04TH AVE,05TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+9,,05TH AVE,06TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,06TH AVE,07TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+13,ANZA ST,07TH AVE,08TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+15,,08TH AVE,09TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+17,,09TH AVE,10TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+19,,10TH AVE,11TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+21,,11TH AVE,12TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+23,,12TH AVE,"FUNSTONAVE",North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+25,,FUNSTON AVE,"PARKPRESIDIOBLVD",North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+27,,"PARK PRESIDIOBLVD",14TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+29,,14TH AVE,15TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+31,ANZA ST,15TH AVE,16TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+33,,16TH AVE,17TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+35,,17TH AVE,18TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+37,,18TH AVE,19TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+39,,19TH AVE,20TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+41,,20TH AVE,21ST AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+43,,21ST AVE,22ND AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+45,,22ND AVE,23RD AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+47,,23RD AVE,24TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+49,ANZA ST,24TH AVE,25TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+51,,25TH AVE,26TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+53,,26TH AVE,27TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+55,,27TH AVE,28TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+57,,28TH AVE,29TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+59,,29TH AVE,30TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+2,,02ND AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,03RD AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,04TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+8,ANZA ST,05TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+10,,06TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+12,,07TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+14,,08TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+16,,09TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+18,,10TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+20,,11TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+22,,12TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+28,,14TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+30,ANZA ST,15TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+32,,16TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+34,,17TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+36,,18TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+38,,19TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+40,,20TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+42,,21ST AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+44,,22ND AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+46,,23RD AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+48,ANZA ST,24TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+50,,25TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+52,,26TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+54,,27TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+56,,28TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+58,,29TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+60,BALBOA ST,30TH AVE,31ST AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+62,,31ST AVE,32ND AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+64,,32ND AVE,33RD AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+66,BALBOA ST,33RD AVE,34TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+68,,34TH AVE,35TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+70,,35TH AVE,36TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+72,,36TH AVE,37TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+74,,37TH AVE,38TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+76,,38TH AVE,39TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+78,,39TH AVE,40TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+80,,40TH AVE,41ST AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+82,,41ST AVE,42ND AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+84,BALBOA ST,42ND AVE,43RD AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+86,,43RD AVE,44TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+88,,44TH AVE,45TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+90,,45TH AVE,46TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+92,,46TH AVE,47TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+94,,47TH AVE,48TH AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+61,,31ST AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+63,,32ND AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+65,,33RD AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+67,BALBOA ST,34TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+69,,35TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+71,,36TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+73,,37TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+75,,38TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+77,,39TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+79,,40TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+81,,41ST AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+83,,42ND AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+85,BALBOA ST,43RD AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+87,,44TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+89,,45TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+91,,46TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+93,,47TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+24,FUNSTON AVE,ANZA ST,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+26,"PARK PRESIDIOBLVD",ANZA ST,Intersection,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+"","- Streetscape project with special materials at this location, permitholder must contact project manager prior to commencing work forrestoration requirements and coordination.","Mike Rieger - (415) 558-4492",,
+Your Notes:,,,,
+Streets:,25TH AVE / ANZA ST - Intersection,,,
+"","-  Truck Permits:  For Restriction Information: Phone: (415) 701-4683truckpermits@sfmta.com",,,
+Your Notes:,,,,
+Streets:,25TH AVE / ANZA ST - Intersection,,,
+"","- Under G095 requirement, Contractor shall contact Muni OverheadLine Division of any work 10 feet in horizontal or vertical direction ofoverhead lines. Contact: Clifford Smethurst @Clifford.Smethurst@sfmta.com, (415) 554-9220.",,,
+Your Notes:,,,,
+Streets:,31ST AVE / BALBOA ST - Intersection,,,
+13EXC-5334,"Shaw Pipeline Inc. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","(415) 740-8008 - (415)740-8008",,
+Your Notes:,,,,
+Streets:,16TH AVE / ANZA ST - Intersection,,,
+15EXC-4171,"Precision Engineering, Inc. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","Juan Perez (415) 760-8744 - Juan Perez(415) 760-8744",,
+Your Notes:,,,,
+Streets:,06TH AVE / ANZA ST - Intersection,,,
+16EXC-2318,"Esquivel Grading & Paving, Inc. - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","(415) 354-4870 - (415)354-4870",,
+Your Notes:,,,,
+Streets:,25TH AVE / ANZA ST - Intersection,,,
+16EXC-4498,"SBC - Pacific Bell Engineering - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","Judy Jones (415) 330-1880 - Judy Jones(415) 330-1880",,
+Your Notes:,,,,
+Streets:,47TH AVE / BALBOA ST - Intersection,,,
+16EXC-5913,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,ANZA ST / 06TH AVE - 07TH AVE -,,,
+16EXC-5915,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,ANZA ST / 07TH AVE - 08TH AVE -,,,
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+16EXC-5938,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,ANZA ST / 09TH AVE - 10TH AVE -,,,
+16EXC-5939,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,ANZA ST / 08TH AVE - 09TH AVE -,,,
+16EXC-6031,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,ANZA ST / 10TH AVE - 11TH AVE -,,,
+2467J,"San Francisco Westside Recycled Water Pipeline - Curb ramp project atintersection, see contact information for required coordination.",Carol Huang -,,
+Your Notes:,,,,
+Streets:,16TH AVE / ANZA ST - Intersection,,,
+2539J,"Various Locations Sewer Replacement (Richmond District, Hybrid) -Curb ramp project at intersection, see contact information for requiredcoordination.",Matthew Lim -,,
+Your Notes:,,,,
+Streets:,06TH AVE / ANZA ST - Intersection,,,
+2628J,"Richmond-Sunset Districts Sewer Replacement Project - Curb rampproject at intersection, see contact information for requiredcoordination.",Isabella Li -,,
+Your Notes:,,,,
+Streets:,09TH AVE / ANZA ST - Intersection,,,
+"",
+"",
+"",
+"",
+"",
+permit,Dates,Agency,Contact,
+16TOC-0573,2/18/2016 8:00AM - 2/18/2016 3:00PM,Pacific Gas & Electric,"4156953500pad4@pge.com",
+StreetSpace,,,,
+Your Notes:,,,,
+Streets:,ANZA ST: 24TH AVE to 25TH AVE (3300 - 3399),,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+02ND AVE,,,,,,
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",12WR-0057,"Refer to Agent -Refer to Agent",
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Lorina Louie -,Nov 10 2017-Jul 22 2018
+"",ANZA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+04TH AVE,,,,,,
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",13SMF-0426,"Refer to Agent -Refer to Agent",
+"",ANZA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+06TH AVE,,,,,,
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",ANZA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+07TH AVE,,,,,,
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+08TH AVE,,,,,,
+"",ANZA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",ANZA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+09TH AVE,,,,,,
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,"Therese Marzan-",Aug 16 2016-Jan 31 2018
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Isabella Li -,Aug 16 2016-Jan 31 2018
+10TH AVE,,,,,,
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Isabel Liang -,Aug 10 2015-Dec 21 2016
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",ANZA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+11TH AVE,,,,,,
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Isabel Liang -,Aug 10 2015-Dec 21 2016
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",ANZA ST,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2019-Jan  1 2020
+12TH AVE,,,,,,
+"",ANZA ST,Intersection,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",ANZA ST,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2019-Jan  1 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ANZA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+14TH AVE,,,,,,
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",13smf-0343,"Refer to Agent -Refer to Agent",
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16TOC-1300,"707-326-1631 -707-326-1631",Mar  7 2016-Mar 11 2016
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+15TH AVE,,,,,,
+"",ANZA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",ANZA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1680J,,Jan 25 2012-Jan 25 2017
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+16TH AVE,,,,,,
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+19TH AVE,,,,,,
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",15B-0109,"Refer to Agent -Refer to Agent",Oct 21 2015-Oct 21 2016
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0045,"Heather Cann415-431-2950 -Heather Cann415-431-2950",Apr 25 2016-Apr 25 2017
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0051,"(415) 431-2950- (415) 431-2950",May 11 2016-May 11 2017
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0055,"Refer to Agent -Refer to Agent",Jul  1 2016-Dec  2 2016
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0092,"(415) 431-2950- (415) 431-2950",Aug  5 2016-Aug  4 2017
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0093,"415-431-2950 -415-431-2950",Sep  6 2016-Sep  5 2017
+"",ANZA ST,Intersection,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+21ST AVE,,,,,,
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",13SMF-0334,"Refer to Agent -Refer to Agent",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+23RD AVE,,,,,,
+"",ANZA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+24TH AVE,,,,,,
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr  1 2018-Sep 29 2018
+"",ANZA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+25TH AVE,,,,,,
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,"Therese Marzan-",Apr  4 2016-May 28 2017
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Justin Foon -,Apr  4 2016-May 28 2017
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+26TH AVE,,,,,,
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr  1 2018-Sep 29 2018
+29TH AVE,,,,,,
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",11WR-0059,NOC - NOC,
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+30TH AVE,,,,,,
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",14CN-0275,"415-722-9611 -415-722-9611",
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",14SW-0110,"(415) 722-9611- (415) 722-9611",
+31ST AVE,,,,,,
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 12 2013-Mar 12 2018
+32ND AVE,,,,,,
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",12TS-0142,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",12TS-0157,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+33RD AVE,,,,,,
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0040,"Refer to Agent -Refer to Agent",May  9 2016-Jan 10 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0064,"Refer to Agent -Refer to Agent",Jul 12 2016-Oct 10 2016
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0099,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Sep 15 2016-Dec 31 2016
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+34TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",BALBOA ST,Intersection,Cistern Present.,,,
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Feb  4 2014-Feb  4 2019
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+35TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Feb  4 2014-Feb  4 2019
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+36TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Jan 14 2014-Jan 14 2019
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+37TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Jan 14 2014-Jan 14 2019
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+38TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Nov 26 2013-Nov 26 2018
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+39TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Nov 26 2013-Nov 26 2018
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+40TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",BALBOA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  3 2017-Feb 18 2019
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+41ST AVE,,,,,,
+"",BALBOA ST,Intersection,Cistern Present.,,,
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",11WR-0095,"NOC 866-639-8460 - NOC 866-639-8460",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",13WR-0011,"Refer to Agent -Refer to Agent",
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",BALBOA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+42ND AVE,,,,,,
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar  1 2013-Mar  1 2018
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+44TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+45TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",12TS-0145,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+46TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar  1 2013-Mar  1 2018
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+47TH AVE,,,,,,
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",11WR-0092,"Refer to Agent -Refer to Agent",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",13WR-0016,"Refer to Agent -Refer to Agent",
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Jan 28 2013-Jan 28 2018
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+ANZA ST,,,,,,
+"",08TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",12TH AVE,Intersection,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",15TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",23RD AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",FUNSTON AVE,"PARK PRESIDIOBLVD -","Banners are allowed on thisstreet",,,
+"","PARK PRESIDIOBLVD",14TH AVE -,"Banners are allowed on thisstreet",,,
+"",29TH AVE,Intersection,"Conflict with existing Street UsePermit.",11WR-0059,NOC - NOC,
+"","PARK PRESIDIOBLVD",14TH AVE -,"Conflict with existing Street UsePermit.",11WR-0066,"Refer to Agent -Refer to Agent",
+"","PARK PRESIDIOBLVD",Intersection,"Conflict with existing Street UsePermit.",11WR-0066,"Refer to Agent -Refer to Agent",
+"",15TH AVE,16TH AVE -,"Conflict with existing Street UsePermit.",12ECN-0448,"800-743-5000 -800-743-5000",Apr 16 2012-
+"",06TH AVE,07TH AVE -,"Conflict with existing Street UsePermit.",12ECN-0699,"Refer toAgent5504900 -Refer toAgent5504900",Jul  3 2012-
+"",03RD AVE,04TH AVE -,"Conflict with existing Street UsePermit.",12ECN-1059,"800-743-5000 -800-743-5000",Oct 15 2012-
+"",03RD AVE,04TH AVE -,"Conflict with existing Street UsePermit.",12ECN-1135,"800-743-5000 -800-743-5000",Nov 14 2012-
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",22ND AVE,23RD AVE -,"Conflict with existing Street UsePermit.",12ECN-1145,"Refer toAgent5504900 -Refer toAgent5504900",Nov 28 2012-
+"",02ND AVE,Intersection,"Conflict with existing Street UsePermit.",12WR-0057,"Refer to Agent -Refer to Agent",
+"",07TH AVE,08TH AVE -,"Conflict with existing Street UsePermit.",13ECN-1180,"800-743-5000 -800-743-5000",Oct 16 2013-
+"",08TH AVE,09TH AVE -,"Conflict with existing Street UsePermit.",13SMF-0096,"Refer to Agent -Refer to Agent",
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",13SMF-0334,"Refer to Agent -Refer to Agent",
+"",14TH AVE,Intersection,"Conflict with existing Street UsePermit.",13smf-0343,"Refer to Agent -Refer to Agent",
+"",04TH AVE,Intersection,"Conflict with existing Street UsePermit.",13SMF-0426,"Refer to Agent -Refer to Agent",
+"",04TH AVE,05TH AVE -,"Conflict with existing Street UsePermit.",14ECN-0414,"800-743-5000 -800-743-5000",Apr  7 2014-
+"",ARGUELLO BLVD,02ND AVE -,"Conflict with existing Street UsePermit.",14ECN-0470,"800-743-5000 -800-743-5000",Apr 22 2014-
+"",03RD AVE,04TH AVE -,"Conflict with existing Street UsePermit.",14ECN-0670,"800-743-5000 -800-743-5000",Jun  9 2014-
+"",ARGUELLO BLVD,02ND AVE -,"Conflict with existing Street UsePermit.",14ECN-0747,"800-743-5000 -800-743-5000",Jul  2 2014-
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0109,"Refer to Agent -Refer to Agent",Oct 21 2015-Oct 21 2016
+"","PARK PRESIDIOBLVD",Intersection,"Conflict with existing Street UsePermit.",15B-0109,"Refer to Agent -Refer to Agent",Oct 21 2015-Oct 21 2016
+"",24TH AVE,25TH AVE -,"Conflict with existing Street UsePermit.",15CN-0077,"415-348-8145 -415-348-8145",
+"",09TH AVE,10TH AVE -,"Conflict with existing Street UsePermit.",15ECN-0089,"800-743-5000 -800-743-5000",Feb  2 2015-
+"",07TH AVE,08TH AVE -,"Conflict with existing Street UsePermit.",15ECN-0093,"800-743-5000 -800-743-5000",Feb  2 2015-
+"",10TH AVE,11TH AVE -,"Conflict with existing Street UsePermit.",15ECN-0168,"800-743-5000 -800-743-5000",Feb 12 2015-
+"",08TH AVE,09TH AVE -,"Conflict with existing Street UsePermit.",15ECN-0231,"800-743-5000 -800-743-5000",Feb 26 2015-
+"",11TH AVE,12TH AVE -,"Conflict with existing Street UsePermit.",15ECN-0393,"800-743-5000 -800-743-5000",Apr 17 2015-
+"",15TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1680J,,Jan 25 2012-Jan 25 2017
+"","PARK PRESIDIOBLVD",Intersection,"Conflict with existing Street UsePermit.",16B-0037,"Heather Cann:(415) 431-2950- (415) 431-2950",Apr  1 2016-Apr  1 2017
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0045,"Heather Cann415-431-2950 -Heather Cann415-431-2950",Apr 25 2016-Apr 25 2017
+"","PARK PRESIDIOBLVD",Intersection,"Conflict with existing Street UsePermit.",16B-0045,"Heather Cann415-431-2950 -Heather Cann415-431-2950",Apr 25 2016-Apr 25 2017
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0051,"(415) 431-2950- (415) 431-2950",May 11 2016-May 11 2017
+"","PARK PRESIDIOBLVD",Intersection,"Conflict with existing Street UsePermit.",16B-0051,"(415) 431-2950- (415) 431-2950",May 11 2016-May 11 2017
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0055,"Refer to Agent -Refer to Agent",Jul  1 2016-Dec  2 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0092,"(415) 431-2950- (415) 431-2950",Aug  5 2016-Aug  4 2017
+"","PARK PRESIDIOBLVD",Intersection,"Conflict with existing Street UsePermit.",16B-0092,"(415) 431-2950- (415) 431-2950",Aug  5 2016-Aug  4 2017
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0093,"415-431-2950 -415-431-2950",Sep  6 2016-Sep  5 2017
+"","PARK PRESIDIOBLVD",Intersection,"Conflict with existing Street UsePermit.",16B-0093,"415-431-2950 -415-431-2950",Sep  6 2016-Sep  5 2017
+"",20TH AVE,21ST AVE -,"Conflict with existing Street UsePermit.",16CN-0029,"415-831-7180 -415-831-7180",
+"",08TH AVE,09TH AVE -,"Conflict with existing Street UsePermit.",16smf-0042,"Refer to Agent -Refer to Agent",
+"",14TH AVE,Intersection,"Conflict with existing Street UsePermit.",16TOC-1300,"707-326-1631 -707-326-1631",Mar  7 2016-Mar 11 2016
+"",02ND AVE,03RD AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1873J,,Apr 25 2013-Apr 25 2018
+"",27TH AVE,28TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1873J,,Jul 24 2013-Jul 24 2018
+"",03RD AVE,04TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1873J,,May  1 2013-May  1 2018
+"",28TH AVE,29TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1873J,,May 23 2013-May 23 2018
+"",12TH AVE,FUNSTON AVE -,"Please see special pavingrequirements for MoratoriumStreets.",2274J,,Jul 23 2013-Jul 23 2018
+"",25TH AVE,Intersection,Proposed Paving.,PAVING,"Therese Marzan-",Apr  4 2016-May 28 2017
+"",10TH AVE,11TH AVE -,Proposed Paving.,PAVING,Isabel Liang -,Aug 10 2015-Dec 21 2016
+"",10TH AVE,Intersection,Proposed Paving.,PAVING,Isabel Liang -,Aug 10 2015-Dec 21 2016
+"",11TH AVE,12TH AVE -,Proposed Paving.,PAVING,Isabel Liang -,Aug 10 2015-Dec 21 2016
+"",11TH AVE,Intersection,Proposed Paving.,PAVING,Isabel Liang -,Aug 10 2015-Dec 21 2016
+"",09TH AVE,Intersection,Proposed Paving.,PAVING,"Therese Marzan-",Aug 16 2016-Jan 31 2018
+"",09TH AVE,10TH AVE -,Proposed Paving.,PAVING,Isabel Liang -,Jan 15 2017-Jan 30 2018
+"",FUNSTON AVE,Intersection,Proposed Paving.,PAVING,Lorina Louie -,Aug  1 2017-Dec 10 2018
+"",14TH AVE,15TH AVE -,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",14TH AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",15TH AVE,16TH AVE -,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",16TH AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",24TH AVE,25TH AVE -,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",24TH AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",25TH AVE,26TH AVE -,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",26TH AVE,27TH AVE -,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",26TH AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",29TH AVE,30TH AVE -,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"","PARK PRESIDIOBLVD",14TH AVE -,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"","PARK PRESIDIOBLVD",Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",02ND AVE,Intersection,Proposed Paving.,PAVING,Lorina Louie -,Nov 10 2017-Jul 22 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",19TH AVE,Intersection,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+"",06TH AVE,07TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  3 2017-Feb 18 2019
+"",06TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",07TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",08TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",10TH AVE,11TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",10TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",11TH AVE,12TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",11TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",12TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Aug 10 2015-Dec 21 2016
+"",25TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Justin Foon -,Apr  4 2016-May 28 2017
+"",14TH AVE,15TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",14TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",15TH AVE,16TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",15TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",24TH AVE,25TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",24TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",25TH AVE,26TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",25TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",29TH AVE,30TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",29TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",09TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Isabella Li -,Aug 16 2016-Jan 31 2018
+"",FUNSTON AVE,Intersection,Proposed Excavation.,"SF DPW IDC -ProjectManagement",Lorina Louie -,Aug  1 2017-Dec 10 2018
+"",24TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr  1 2018-Sep 29 2018
+"",26TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr  1 2018-Sep 29 2018
+"",11TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2019-Jan  1 2020
+"",12TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2019-Jan  1 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",02ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",04TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",06TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",08TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",10TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",12TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",24TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+BALBOA ST,,,,,,
+"",32ND AVE,33RD AVE -,"Banners are allowed on thisstreet",,,
+"",33RD AVE,34TH AVE -,"Banners are allowed on thisstreet",,,
+"",34TH AVE,35TH AVE -,"Banners are allowed on thisstreet",,,
+"",34TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",34TH AVE,Intersection,Cistern Present.,,,
+"",35TH AVE,36TH AVE -,"Banners are allowed on thisstreet",,,
+"",36TH AVE,37TH AVE -,"Banners are allowed on thisstreet",,,
+"",37TH AVE,38TH AVE -,"Banners are allowed on thisstreet",,,
+"",38TH AVE,39TH AVE -,"Banners are allowed on thisstreet",,,
+"",40TH AVE,41ST AVE -,"Banners are allowed on thisstreet",,,
+"",41ST AVE,42ND AVE -,"Banners are allowed on thisstreet",,,
+"",41ST AVE,Intersection,Cistern Present.,,,
+"",47TH AVE,48TH AVE -,"Conflict with existing Street UsePermit.",11WR-0092,"Refer to Agent -Refer to Agent",
+"",47TH AVE,Intersection,"Conflict with existing Street UsePermit.",11WR-0092,"Refer to Agent -Refer to Agent",
+"",41ST AVE,42ND AVE -,"Conflict with existing Street UsePermit.",11WR-0095,"NOC 866-639-8460 - NOC 866-639-8460",
+"",41ST AVE,Intersection,"Conflict with existing Street UsePermit.",11WR-0095,"NOC 866-639-8460 - NOC 866-639-8460",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",32ND AVE,33RD AVE -,"Conflict with existing Street UsePermit.",12ECN-0705,"800-743-5000 -800-743-5000",Jun 19 2012-
+"",32ND AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0142,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",45TH AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0145,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",32ND AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0157,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",46TH AVE,47TH AVE -,"Conflict with existing Street UsePermit.",13SMF-0164,"Refer to Agent -Refer to Agent",
+"",41ST AVE,Intersection,"Conflict with existing Street UsePermit.",13WR-0011,"Refer to Agent -Refer to Agent",
+"",47TH AVE,Intersection,"Conflict with existing Street UsePermit.",13WR-0016,"Refer to Agent -Refer to Agent",
+"",37TH AVE,38TH AVE -,"Conflict with existing Street UsePermit.",14CN-0012,"415-725-8269 -415-725-8269",
+"",43RD AVE,44TH AVE -,"Conflict with existing Street UsePermit.",14ECN-0028,"800-743-5000 -800-743-5000",Dec 17 2013-
+"",45TH AVE,46TH AVE -,"Conflict with existing Street UsePermit.",14ECN-0056,"800-743-5000 -800-743-5000",Dec 21 2013-
+"",34TH AVE,35TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Feb  4 2014-Feb  4 2019
+"",34TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Feb  4 2014-Feb  4 2019
+"",35TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Feb  4 2014-Feb  4 2019
+"",35TH AVE,36TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Jan 14 2014-Jan 14 2019
+"",36TH AVE,37TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Jan 14 2014-Jan 14 2019
+"",36TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Jan 14 2014-Jan 14 2019
+"",37TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Jan 14 2014-Jan 14 2019
+"",37TH AVE,38TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Nov 26 2013-Nov 26 2018
+"",38TH AVE,39TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Nov 26 2013-Nov 26 2018
+"",38TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Nov 26 2013-Nov 26 2018
+"",39TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1608J,,Nov 26 2013-Nov 26 2018
+"",33RD AVE,34TH AVE -,"Conflict with existing Street UsePermit.",16B-0040,"Refer to Agent -Refer to Agent",May  9 2016-Jan 10 2017
+"",33RD AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0040,"Refer to Agent -Refer to Agent",May  9 2016-Jan 10 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",34TH AVE,35TH AVE -,"Conflict with existing Street UsePermit.",16B-0040,"Refer to Agent -Refer to Agent",May  9 2016-Jan 10 2017
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",16B-0040,"Refer to Agent -Refer to Agent",May  9 2016-Jan 10 2017
+"",36TH AVE,37TH AVE -,"Conflict with existing Street UsePermit.",16B-0040,"Refer to Agent -Refer to Agent",May  9 2016-Jan 10 2017
+"",37TH AVE,38TH AVE -,"Conflict with existing Street UsePermit.",16B-0040,"Refer to Agent -Refer to Agent",May  9 2016-Jan 10 2017
+"",38TH AVE,39TH AVE -,"Conflict with existing Street UsePermit.",16B-0040,"Refer to Agent -Refer to Agent",May  9 2016-Jan 10 2017
+"",33RD AVE,34TH AVE -,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",33RD AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",34TH AVE,35TH AVE -,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",34TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",35TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",36TH AVE,37TH AVE -,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",36TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",37TH AVE,38TH AVE -,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",38TH AVE,39TH AVE -,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",38TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",39TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0044,"Refer to Agent -Refer to Agent",Apr 25 2016-Apr 25 2017
+"",33RD AVE,34TH AVE -,"Conflict with existing Street UsePermit.",16B-0064,"Refer to Agent -Refer to Agent",Jul 12 2016-Oct 10 2016
+"",33RD AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0064,"Refer to Agent -Refer to Agent",Jul 12 2016-Oct 10 2016
+"",34TH AVE,35TH AVE -,"Conflict with existing Street UsePermit.",16B-0064,"Refer to Agent -Refer to Agent",Jul 12 2016-Oct 10 2016
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",16B-0064,"Refer to Agent -Refer to Agent",Jul 12 2016-Oct 10 2016
+"",36TH AVE,37TH AVE -,"Conflict with existing Street UsePermit.",16B-0064,"Refer to Agent -Refer to Agent",Jul 12 2016-Oct 10 2016
+"",37TH AVE,38TH AVE -,"Conflict with existing Street UsePermit.",16B-0064,"Refer to Agent -Refer to Agent",Jul 12 2016-Oct 10 2016
+"",38TH AVE,39TH AVE -,"Conflict with existing Street UsePermit.",16B-0064,"Refer to Agent -Refer to Agent",Jul 12 2016-Oct 10 2016
+"",30TH AVE,31ST AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",31ST AVE,32ND AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",31ST AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",32ND AVE,33RD AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",32ND AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",33RD AVE,34TH AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",33RD AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",34TH AVE,35TH AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",34TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",35TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",36TH AVE,37TH AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",36TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",37TH AVE,38TH AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",38TH AVE,39TH AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",38TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",39TH AVE,40TH AVE -,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",39TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",40TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0088,"Refer to Agent -Refer to Agent",Aug 17 2016-Aug 17 2017
+"",33RD AVE,34TH AVE -,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",33RD AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",34TH AVE,35TH AVE -,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",34TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",35TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",36TH AVE,37TH AVE -,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",36TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",37TH AVE,38TH AVE -,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",38TH AVE,39TH AVE -,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",38TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",39TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0098,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct  3 2016-Jan 15 2017
+"",33RD AVE,34TH AVE -,"Conflict with existing Street UsePermit.",16B-0099,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Sep 15 2016-Dec 31 2016
+"",33RD AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0099,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Sep 15 2016-Dec 31 2016
+"",34TH AVE,35TH AVE -,"Conflict with existing Street UsePermit.",16B-0099,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Sep 15 2016-Dec 31 2016
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",16B-0099,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Sep 15 2016-Dec 31 2016
+"",37TH AVE,38TH AVE -,"Conflict with existing Street UsePermit.",16D-0034,"Refer to Agent -Refer to Agent",Jan 16 2016-Jan 15 2017
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",16PKT-0026,"Refer to Agent -Refer to Agent",Feb 16 2016-Feb 15 2017
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",16TC-0012,"Refer to Agent -Refer to Agent",Jan 16 2016-Jan 15 2017
+"",36TH AVE,37TH AVE -,"Conflict with existing Street UsePermit.",16TC-0019,"Refer to Agent -Refer to Agent",Jan 16 2016-Jan 15 2017
+"",47TH AVE,48TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Jan 28 2013-Jan 28 2018
+"",47TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Jan 28 2013-Jan 28 2018
+"",41ST AVE,42ND AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar  1 2013-Mar  1 2018
+"",42ND AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar  1 2013-Mar  1 2018
+"",45TH AVE,46TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar  1 2013-Mar  1 2018
+"",46TH AVE,47TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar  1 2013-Mar  1 2018
+"",46TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar  1 2013-Mar  1 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",30TH AVE,31ST AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 12 2013-Mar 12 2018
+"",31ST AVE,32ND AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 12 2013-Mar 12 2018
+"",31ST AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 12 2013-Mar 12 2018
+"",32ND AVE,33RD AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",32ND AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",33RD AVE,34TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",33RD AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",39TH AVE,40TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",40TH AVE,41ST AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",40TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",41ST AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",34TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+"",47TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+"",40TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  3 2017-Feb 18 2019
+"",41ST AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",32ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",35TH AVE,36TH AVE -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",36TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",37TH AVE,38TH AVE -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",38TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",39TH AVE,40TH AVE -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",40TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",41ST AVE,42ND AVE -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",42ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",43RD AVE,44TH AVE -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",44TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",46TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"FUNSTONAVE",,,,,,
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Lorina Louie -,Aug  1 2017-Dec 10 2018
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -ProjectManagement",Lorina Louie -,Aug  1 2017-Dec 10 2018
+"PARKPRESIDIOBLVD",,,,,,
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",11WR-0066,"Refer to Agent -Refer to Agent",
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",15B-0109,"Refer to Agent -Refer to Agent",Oct 21 2015-Oct 21 2016
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0037,"Heather Cann:(415) 431-2950- (415) 431-2950",Apr  1 2016-Apr  1 2017
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0045,"Heather Cann415-431-2950 -Heather Cann415-431-2950",Apr 25 2016-Apr 25 2017
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0051,"(415) 431-2950- (415) 431-2950",May 11 2016-May 11 2017
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0092,"(415) 431-2950- (415) 431-2950",Aug  5 2016-Aug  4 2017
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",16B-0093,"415-431-2950 -415-431-2950",Sep  6 2016-Sep  5 2017
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018

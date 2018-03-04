@@ -1,0 +1,241 @@
+﻿,permit,permit_type_code,agentname,permit_curr_status,permit_address,permit_desc_purpose,permit_start_date,permit_end_date,permit_received_date,permit_appr_date
+Print,14EXC-6947,Excavation,"Sonic Telecom, LLC",VOID,1350 LAWTON ST,1350 - 1400 Lawton Street Bore,1/5/15 0:00,1/18/15 0:00,12/9/14 11:29,
+Print,14TOC-3676,TempOccup,"Sonic Telecom, LLC",WITHDRAW,,,1/2/15 0:00,2/6/15 0:00,12/10/14 9:10,
+Print,14TOC-3691,TempOccup,"Sonic Telecom, LLC",VOID,,,1/5/15 7:00,1/5/15 18:00,12/10/14 14:47,
+Print,14TOC-3805,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/5/15 7:00,1/16/15 17:00,12/19/14 10:14,12/29/14 11:06
+Print,14TOC-3808,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/19/15 7:00,1/30/15 17:00,12/19/14 11:01,12/29/14 11:09
+Print,14TOC-3811,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/2/15 7:00,2/2/15 17:00,12/19/14 11:48,12/29/14 11:10
+Print,14TOC-3835,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/6/15 7:00,1/6/15 17:00,12/24/14 11:30,12/31/14 11:03
+Print,15EXC-0542,Excavation,"Sonic Telecom, LLC",CLOSED,,Kirkham and 19th Avenue Bore to CO,3/23/15 0:00,4/5/15 0:00,1/22/15 14:42,4/1/15 11:38
+Print,15EXC-1994,Excavation,"Sonic Telecom, LLC",CLOSED,,Kirkham and 19th Avenue Bore to CO,4/5/15 0:00,4/18/15 0:00,3/31/15 7:52,4/1/15 11:32
+Print,15EXC-6000,Excavation,"Sonic Telecom, LLC",EXPIRED,,Anchor installation for Aerial strand placement.,12/28/15 0:00,1/11/16 0:00,10/13/15 15:33,12/22/15 8:46
+Print,15EXC-6163,Excavation,"Sonic Telecom, LLC",VOID,,Sidewalk Repair,10/27/15 0:00,11/6/15 0:00,10/20/15 9:02,1/1/00 0:00
+Print,15EXC-6165,Excavation,"Sonic Telecom, LLC",EXPIRED,,Anchor Installation 33rd Avenue,11/4/15 0:00,11/13/15 0:00,10/20/15 9:29,10/30/15 14:57
+Print,15EXC-6700,Excavation,"Sonic Telecom, LLC",EXPIRED,311 09TH AVE,AT&T Manhole Core and Trench to Pole on 9th Avenue,11/30/15 0:00,12/4/15 0:00,11/5/15 10:19,11/18/15 15:55
+Print,15EXC-7628,Excavation,"Sonic Telecom, LLC",CLOSED,498 FUNSTON AVE,Richmond Underground Bore at Funston and Anza,1/4/16 0:00,1/15/16 0:00,12/10/15 12:33,12/28/15 11:52
+Print,15SMF-0019,SurfaceFac,"Sonic Telecom, LLC",VOID,,,,,4/28/15 14:58,
+Print,15SMF-0020,SurfaceFac,"Sonic Telecom, LLC",VOID,,,,,4/28/15 14:59,
+Print,15TOC-0090,TempOccup,"Sonic Telecom, LLC",VOID,,,1/19/15 8:00,1/19/15 17:00,1/12/15 10:53,
+Print,15TOC-0412,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/2/15 7:00,2/5/15 17:00,1/27/15 15:42,1/28/15 14:18
+Print,15TOC-2145,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/30/15 7:00,5/1/15 17:00,4/17/15 11:03,4/22/15 14:14
+Print,15TOC-5384,TempOccup,"Sonic Telecom, LLC",WITHDRAW,,,8/31/15 7:00,10/16/15 17:00,8/24/15 13:59,
+Print,15TOC-5485,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/31/15 7:00,9/11/15 17:00,8/27/15 10:41,8/28/15 10:52
+Print,15TOC-5537,TempOccup,"Sonic Telecom, LLC",CLOSED,,,9/14/15 7:00,9/25/15 17:00,8/28/15 11:08,9/1/15 16:01
+Print,15TOC-5539,TempOccup,"Sonic Telecom, LLC",CLOSED,,,9/8/15 21:00,9/10/15 4:00,8/28/15 11:58,9/3/15 8:03
+Print,15TOC-6159,TempOccup,"Sonic Telecom, LLC",CLOSED,,,9/28/15 7:00,10/9/15 17:00,9/18/15 10:16,9/22/15 9:01
+Print,15TOC-6276,TempOccup,"Sonic Telecom, LLC",CLOSED,,,10/2/15 8:00,10/2/15 13:00,9/23/15 8:49,9/29/15 15:52
+Print,15TOC-6577,TempOccup,"Sonic Telecom, LLC",WITHDRAW,,,10/15/15 9:00,10/15/15 16:00,10/2/15 12:52,
+Print,15TOC-6578,TempOccup,"Sonic Telecom, LLC",CLOSED,,,10/12/15 7:30,10/16/15 17:00,10/2/15 13:01,10/7/15 11:15
+Print,15TOC-6859,TempOccup,"Sonic Telecom, LLC",CLOSED,,,10/19/15 7:00,10/23/15 17:00,10/13/15 15:09,10/15/15 15:47
+Print,15TOC-7210,TempOccup,"Sonic Telecom, LLC",CLOSED,,,11/2/15 7:00,11/6/15 17:00,10/26/15 10:16,10/27/15 14:30
+Print,15TOC-7211,TempOccup,"Sonic Telecom, LLC",CLOSED,,,11/9/15 7:00,11/13/15 17:00,10/26/15 10:27,10/27/15 12:45
+Print,15TOC-7762,TempOccup,"Sonic Telecom, LLC",CLOSED,,,11/18/15 7:00,12/1/15 17:00,11/13/15 10:33,11/18/15 15:26
+Print,15TOC-8128,TempOccup,"Sonic Telecom, LLC",CLOSED,,,12/7/15 7:00,12/18/15 17:00,12/2/15 8:27,12/8/15 14:12
+Print,15TOC-8722,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/4/16 7:00,1/15/16 17:00,12/28/15 7:39,12/31/15 16:43
+Print,16EXC-1515,Excavation,"Sonic Telecom, LLC",EXPIRED,,Richmond phase 2 anchors,5/30/16 0:00,6/3/16 0:00,3/1/16 8:01,5/5/16 9:20
+Print,16EXC-1822,Excavation,"Sonic Telecom, LLC",EXPIRED,,RICHMOND_PHASE1_ANCHORS,4/4/16 0:00,4/17/16 0:00,3/10/16 15:21,3/22/16 15:03
+Print,16EXC-1892,Excavation,"Sonic Telecom, LLC",EXPIRED,,SF_SUN_PHASE4_1 Anchors,4/12/16 0:00,4/18/16 0:00,3/15/16 8:40,3/21/16 15:28
+Print,16EXC-1931,Excavation,"Sonic Telecom, LLC",EXPIRED,,SF_SUN_PHASE4_2,4/18/16 0:00,4/22/16 0:00,3/16/16 14:11,3/24/16 16:25
+Print,16EXC-4521,Excavation,"Sonic Telecom, LLC",TO_ACCOUNTING,,SF SDEP Anchors,7/26/16 0:00,8/6/16 0:00,7/6/16 10:59,
+Print,16EXC-4781,Excavation,"Sonic Telecom, LLC",EXPIRED,,RICHMOND_PH3-1 Anchors,9/5/16 0:00,9/16/16 0:00,7/18/16 8:55,8/29/16 10:06
+Print,16EXC-5083,Excavation,"Sonic Telecom, LLC",WITHDRAW,,SF_SDEP 47th x Sloat anchor,9/5/16 0:00,9/9/16 0:00,7/27/16 17:04,8/10/16 16:17
+Print,16EXC-5123,Excavation,"Sonic Telecom, LLC",EXPIRED,,SF SDEP ANC 37th-47th Ave,10/10/16 0:00,10/21/16 0:00,7/29/16 15:24,9/20/16 16:29
+Print,16EXC-5292,Excavation,"Sonic Telecom, LLC",EXPIRED,,SF_RICH_PH3-2 anchors,9/5/16 0:00,9/16/16 0:00,8/4/16 16:42,8/15/16 16:06
+Print,16EXC-5357,Excavation,"Sonic Telecom, LLC",EXPIRED,,"26th, 27th ----- SUN-PH2 AT&T GIGS",8/29/16 0:00,8/31/16 0:00,8/8/16 17:57,8/18/16 9:40
+Print,16EXC-5428,Excavation,"Sonic Telecom, LLC",EXPIRED,,SUN_SDEP Anchors 20th-36th,10/10/16 0:00,10/21/16 0:00,8/10/16 16:12,9/28/16 10:13
+Print,16EXC-5878,Excavation,"Sonic Telecom, LLC",EXPIRED,,SDEP East Anchors,10/24/16 0:00,11/4/16 0:00,8/26/16 15:00,10/4/16 9:10
+Print,16EXC-6964,Excavation,"Sonic Telecom, LLC",APPLCNT,,26th and Dolores st UG Backbone Connection,1/27/17 0:00,2/10/17 0:00,10/10/16 11:33,
+Print,16EXC-7032,Excavation,"Sonic Telecom, LLC",UNASSIGN,,Chenery to Lippard BB Connection,11/28/16 0:00,12/9/16 0:00,10/12/16 10:53,
+Print,16EXC-7772,Excavation,"Sonic Telecom, LLC",RENEWED,,SDEP-AE-06 AND SANTIAGO ANCHORS,12/12/16 0:00,12/23/16 0:00,11/16/16 14:21,11/22/16 16:53
+Print,16EXC-8380,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-BB-01-1,1/16/17 0:00,2/13/17 0:00,12/20/16 6:43,12/27/16 13:10
+Print,16N-0109,NightNoise,"Sonic Telecom, LLC",CLOSED,,Entering AT&T Manholes and Placing Innerduct and Fiber,4/27/16 0:00,4/28/16 0:00,4/8/16 12:39,4/21/16 9:46
+Print,16TOC-0014,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/11/16 7:00,1/22/16 17:00,1/4/16 13:24,8/4/16 8:52
+Print,16TOC-0191,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/18/16 7:00,1/22/16 17:00,1/11/16 13:04,1/19/16 16:57
+Print,16TOC-0496,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/1/16 7:00,2/5/16 17:00,1/25/16 7:15,1/29/16 14:45
+Print,16TOC-0516,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/1/16 7:00,2/5/16 17:00,1/25/16 11:23,1/29/16 14:25
+Print,16TOC-0555,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/10/16 7:00,2/23/16 17:00,1/26/16 12:04,10/11/16 9:39
+Print,16TOC-0777,TempOccup,"Sonic Telecom, LLC",UNASSIGN,,,2/11/16 7:00,2/17/16 17:00,2/3/16 10:11,
+Print,16TOC-0846,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/15/16 7:00,2/19/16 17:00,2/5/16 10:22,2/12/16 12:23
+Print,16TOC-0909,TempOccup,"Sonic Telecom, LLC",VOID,,,3/1/16 7:00,3/7/16 17:00,2/9/16 13:54,
+Print,16TOC-0912,TempOccup,"Sonic Telecom, LLC",VOID,,,3/14/16 7:00,3/18/16 17:00,2/9/16 15:52,
+Print,16TOC-1064,TempOccup,"Sonic Telecom, LLC",DENIED,,,2/24/16 7:00,3/1/16 17:00,2/16/16 12:50,
+Print,16TOC-1198,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/7/16 7:00,3/11/16 17:00,2/22/16 10:57,10/11/16 9:21
+Print,16TOC-1205,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/1/16 7:00,3/7/16 17:00,2/22/16 11:54,2/25/16 15:08
+Print,16TOC-1252,TempOccup,"Sonic Telecom, LLC",VOID,,,3/1/16 0:00,3/3/16 0:00,2/23/16 14:17,1/1/00 0:00
+Print,16TOC-1298,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/7/16 7:00,3/11/16 17:00,2/25/16 8:41,2/29/16 15:44
+Print,16TOC-1300,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/7/16 7:00,3/11/16 17:00,2/25/16 9:07,10/11/16 9:37
+Print,16TOC-1301,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/7/16 7:00,3/11/16 17:00,2/25/16 9:25,2/29/16 15:43
+Print,16TOC-1302,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/17/16 7:00,3/23/16 17:00,2/25/16 9:41,3/10/16 12:14
+Print,16TOC-1469,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/14/16 7:00,3/18/16 17:00,3/3/16 13:34,3/9/16 14:48
+Print,16TOC-1470,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/14/16 7:00,3/18/16 17:00,3/3/16 13:44,3/9/16 14:20
+Print,16TOC-1471,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/14/16 7:00,3/18/16 17:00,3/3/16 13:53,3/9/16 14:20
+Print,16TOC-1473,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/14/16 7:00,3/18/16 17:00,3/3/16 14:06,3/9/16 14:19
+Print,16TOC-1682,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/23/16 7:00,3/29/16 17:00,3/14/16 9:17,3/17/16 15:44
+Print,16TOC-2035,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/13/16 21:00,4/14/16 4:00,3/30/16 7:10,4/5/16 8:28
+Print,16TOC-2068,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/11/16 7:00,4/15/16 17:00,3/31/16 11:24,4/5/16 11:01
+Print,16TOC-2251,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/27/16 21:00,4/28/16 4:00,4/8/16 12:46,4/15/16 8:40
+Print,16TOC-2896,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/17/16 9:00,5/17/16 16:00,5/4/16 16:31,5/10/16 14:17
+Print,16TOC-2984,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/16/16 7:00,5/20/16 17:00,5/6/16 14:39,5/11/16 10:30
+Print,16TOC-2989,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/16/16 7:00,5/20/16 17:00,5/6/16 15:42,5/11/16 9:29
+Print,16TOC-3002,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/23/16 7:00,5/27/16 17:00,5/9/16 14:31,5/11/16 11:44
+Print,16TOC-3004,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/23/16 7:00,5/27/16 17:00,5/9/16 14:45,5/11/16 11:40
+Print,16TOC-3069,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/30/16 7:00,6/3/16 17:00,5/11/16 14:48,5/13/16 9:55
+Print,16TOC-3098,TempOccup,"Sonic Telecom, LLC",CLOSED,1501 19TH AVE,,5/17/16 9:00,5/17/16 16:00,5/12/16 10:34,5/12/16 10:41
+Print,16TOC-3336,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/30/16 7:00,6/3/16 17:00,5/20/16 14:37,5/31/16 11:11
+Print,16TOC-3399,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/6/16 7:00,6/10/16 17:00,5/24/16 13:18,5/31/16 11:10
+Print,16TOC-3570,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/6/16 7:00,6/8/16 17:00,5/31/16 12:19,5/31/16 12:49
+Print,16TOC-4258,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/11/16 7:00,7/22/16 17:00,6/28/16 14:52,7/5/16 8:39
+Print,16TOC-4317,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/11/16 7:00,7/22/16 17:00,6/30/16 15:25,7/21/16 7:44
+Print,16TOC-4448,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/18/16 7:00,7/29/16 17:00,7/11/16 9:55,7/18/16 7:26
+Print,16TOC-4648,TempOccup,"Sonic Telecom, LLC",TO_ACCOUNTING,,,7/27/16 7:00,8/9/16 17:00,7/19/16 15:38,
+Print,16TOC-4703,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/1/16 7:00,8/5/16 17:00,7/21/16 6:48,7/26/16 9:06
+Print,16TOC-4705,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/1/16 7:00,8/5/16 17:00,7/21/16 7:24,7/26/16 9:11
+Print,16TOC-4852,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/8/16 7:00,8/12/16 17:00,7/28/16 7:04,8/10/16 8:24
+Print,16TOC-4921,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/9/16 7:00,8/12/16 17:00,8/1/16 16:17,8/4/16 7:54
+Print,16TOC-4985,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/15/16 7:00,8/26/16 17:00,8/3/16 15:20,8/9/16 12:06
+Print,16TOC-5017,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/15/16 7:00,8/26/16 17:00,8/5/16 6:25,8/10/16 10:16
+Print,16TOC-5242,TempOccup,"Sonic Telecom, LLC",VOID,,,8/29/16 7:00,9/2/16 17:00,8/17/16 7:02,
+Print,16TOC-5247,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/29/16 7:00,9/2/16 17:00,8/17/16 7:22,10/11/16 9:32
+Print,16TOC-5257,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/29/16 7:00,9/2/16 17:00,8/17/16 7:50,8/19/16 15:39
+Print,16TOC-5277,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/29/16 7:00,9/2/16 17:00,8/18/16 10:04,8/30/16 8:45
+Print,16TOC-5291,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/29/16 7:00,9/2/16 17:00,8/18/16 12:19,8/30/16 9:35
+Print,16TOC-5303,TempOccup,"Sonic Telecom, LLC",CLOSED,,,9/5/16 7:00,9/16/16 17:00,8/19/16 6:34,8/31/16 8:18
+Print,16TOC-5304,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/29/16 7:00,9/2/16 17:00,8/19/16 7:03,8/31/16 8:30
+Print,16TOC-5373,TempOccup,"Sonic Telecom, LLC",CLOSED,,,9/12/16 7:00,9/16/16 17:00,8/22/16 15:50,9/6/16 8:36
+Print,16TOC-5384,TempOccup,"Sonic Telecom, LLC",CLOSED,,,9/12/16 7:00,9/16/16 18:00,8/23/16 10:08,9/6/16 8:21
+Print,16TOC-5986,TempOccup,"Sonic Telecom, LLC",CLOSED,4419 BALBOA ST,,9/20/16 7:00,9/21/16 17:00,9/16/16 10:36,9/16/16 10:57
+Print,16TOC-7502,TempOccup,"Sonic Telecom, LLC",CLOSED,,,11/15/16 7:00,11/23/16 17:00,11/14/16 14:15,11/14/16 14:44
+Print,16TOC-8118,TempOccup,"Sonic Telecom, LLC",CLOSED,,,12/26/16 7:00,12/30/16 17:00,12/14/16 7:31,12/29/16 8:35
+Print,16TOC-8317,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/9/17 7:00,1/20/17 17:00,12/29/16 6:37,1/11/17 10:08
+Print,17EXC-0033,Excavation,"Sonic Telecom, LLC",EXPIRED,,SDEP-AE-06 AND SANTIAGO ANCHORS,1/11/17 0:00,1/25/17 0:00,1/4/17 9:46,1/6/17 11:27
+Print,17EXC-0158,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-BB-01-2,1/23/17 0:00,2/10/17 0:00,1/11/17 10:39,1/18/17 13:06
+Print,17EXC-0421,Excavation,"Sonic Telecom, LLC",RENEWED,3780 26TH ST,1609 - Cougar - 26th Avenue Trench Across Dolores,3/1/17 0:00,3/5/17 0:00,1/23/17 14:53,2/28/17 16:24
+Print,17EXC-0424,Excavation,"Sonic Telecom, LLC",EXPIRED,1106 POTRERO AVE,1609 - Cougar - 23rd St. Trench Across Potrero,5/8/17 0:00,6/5/17 0:00,1/24/17 7:11,5/3/17 7:48
+Print,17EXC-0428,Excavation,"Sonic Telecom, LLC",APPLCNT,787 CHENERY ST,1609 - Cougar Excavation Chenery st & Lippard ave,7/1/17 0:00,7/28/17 0:00,1/24/17 7:26,
+Print,17EXC-0452,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-8,2/8/17 0:00,2/17/17 0:00,1/25/17 6:36,2/3/17 12:24
+Print,17EXC-0453,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-9-,2/8/17 0:00,2/17/17 0:00,1/25/17 7:13,2/2/17 14:11
+Print,17EXC-0670,Excavation,"Sonic Telecom, LLC",EXPIRED,3300 25TH ST,1609 - Cougar CO Exit,4/17/17 0:00,5/14/17 0:00,2/2/17 14:06,2/9/17 15:53
+Print,17EXC-0691,Excavation,"Sonic Telecom, LLC",EXPIRED,593 CHENERY ST,1609-2,3/8/17 0:00,3/28/17 0:00,2/3/17 9:09,3/3/17 10:57
+Print,17EXC-0821,Excavation,"Sonic Telecom, LLC",RENEWED,3333 25TH ST,1609 - COUGAR 3333 25th St CO Exit,2/20/17 0:00,3/19/17 0:00,2/9/17 9:30,2/17/17 11:30
+Print,17EXC-0822,Excavation,"Sonic Telecom, LLC",RENEWED,3359 26TH ST,1609 Cougar - CO Exit 26th ST,2/20/17 0:00,3/19/17 0:00,2/9/17 9:39,2/17/17 10:32
+Print,17EXC-0917,Excavation,"Sonic Telecom, LLC",RENEWED,,"1609-10,11",2/27/17 0:00,3/10/17 0:00,2/15/17 14:02,2/21/17 16:20
+Print,17EXC-1015,Excavation,"Sonic Telecom, LLC",RENEWED,,"1609-12,13",3/6/17 0:00,3/17/17 0:00,2/21/17 12:05,2/23/17 14:58
+Print,17EXC-1371,Excavation,"Sonic Telecom, LLC",RENEWED,,1609-19&29,3/27/17 0:00,3/31/17 0:00,3/10/17 9:10,3/14/17 16:06
+Print,17EXC-1521,Excavation,"Sonic Telecom, LLC",EXPIRED,3333 25TH ST,1609 - COUGAR 3333 25th St CO Exit,3/22/17 0:00,4/20/17 0:00,3/16/17 10:39,3/21/17 13:29
+Print,17EXC-1523,Excavation,"Sonic Telecom, LLC",RENEWED,3359 26TH ST,1609 Cougar - CO Exit 26th ST,3/22/17 0:00,4/20/17 0:00,3/16/17 10:43,3/21/17 13:38
+Print,17EXC-1532,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-4,4/3/17 0:00,4/28/17 0:00,3/16/17 12:59,3/24/17 7:58
+Print,17EXC-1615,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-3,4/3/17 0:00,4/28/17 0:00,3/21/17 9:28,3/28/17 8:46
+Print,17EXC-1616,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-5,4/3/17 0:00,4/28/17 0:00,3/21/17 9:45,3/24/17 13:29
+Print,17EXC-1618,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-6,4/3/17 0:00,4/28/17 0:00,3/21/17 10:00,3/24/17 14:22
+Print,17EXC-1626,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-7,4/3/17 0:00,4/28/17 0:00,3/21/17 11:11,3/24/17 15:59
+Print,17EXC-1699,Excavation,"Sonic Telecom, LLC",RENEWED,3780 26TH ST,1609 - Cougar - 26th Avenue Trench Across Dolores,4/10/17 0:00,4/30/17 0:00,3/23/17 12:05,3/28/17 16:18
+Print,17EXC-1790,Excavation,"Sonic Telecom, LLC",RENEWED,,"1609-20,25,26",4/10/17 0:00,5/5/17 0:00,3/28/17 7:14,4/4/17 16:09
+Print,17EXC-2043,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-22,4/14/17 0:00,4/21/17 0:00,4/7/17 9:33,4/12/17 11:25
+Print,17EXC-2046,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-30,4/14/17 0:00,4/21/17 0:00,4/7/17 9:45,4/12/17 11:49
+Print,17EXC-2320,Excavation,"Sonic Telecom, LLC",APPLCNT,3359 26TH ST,1609 Cougar - CO Exit 26th ST,4/25/17 0:00,5/12/17 0:00,4/20/17 12:01,
+Print,17EXC-2336,Excavation,"Sonic Telecom, LLC",RENEWED,,1609-31,5/1/17 0:00,5/11/17 0:00,4/21/17 8:10,4/25/17 11:08
+Print,17EXC-2337,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-32,5/1/17 0:00,5/12/17 0:00,4/21/17 9:23,4/25/17 11:08
+Print,17EXC-2395,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-51,5/1/17 0:00,5/5/17 0:00,4/25/17 6:48,4/25/17 13:31
+Print,17EXC-2398,Excavation,"Sonic Telecom, LLC",RENEWED,3780 26TH ST,1609 - Cougar - 26th Avenue Trench Across Dolores,5/2/17 0:00,5/6/17 0:00,4/25/17 8:33,5/2/17 13:06
+Print,17EXC-2474,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-44,5/4/17 0:00,5/11/17 0:00,4/27/17 7:57,4/27/17 14:28
+Print,17EXC-2478,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-50,5/4/17 0:00,5/11/17 0:00,4/27/17 9:02,4/28/17 15:09
+Print,17EXC-2606,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-42 ANCHORS,5/8/17 0:00,5/12/17 0:00,5/3/17 13:10,5/4/17 11:01
+Print,17EXC-2835,Excavation,"Sonic Telecom, LLC",EXPIRED,3780 26TH ST,1609 - Cougar - 26th Avenue Trench Across Dolores,5/18/17 0:00,5/25/17 0:00,5/12/17 11:30,5/17/17 13:20
+Print,17EXC-3082,Excavation,"Sonic Telecom, LLC",CLOSED,,1609-21,7/3/17 0:00,7/14/17 0:00,5/25/17 7:56,6/27/17 8:36
+Print,17EXC-3084,Excavation,"Sonic Telecom, LLC",CLOSED,,1609-23,7/3/17 0:00,7/14/17 0:00,5/25/17 8:30,6/26/17 11:17
+Print,17EXC-3512,Excavation,"Sonic Telecom, LLC",CLOSED,,1609-28,7/3/17 0:00,7/14/17 0:00,6/17/17 11:00,6/28/17 14:32
+Print,17EXC-3513,Excavation,"Sonic Telecom, LLC",APPLCNT,,1609-8.2,7/3/17 0:00,7/14/17 0:00,6/17/17 11:28,1/1/00 0:00
+Print,17EXC-3514,Excavation,"Sonic Telecom, LLC",APPLCNT,,1609-9.2,7/3/17 0:00,7/14/17 0:00,6/17/17 11:42,
+Print,17EXC-3515,Excavation,"Sonic Telecom, LLC",APPLCNT,,1609-10.2,6/26/17 0:00,7/7/17 0:00,6/17/17 12:17,
+Print,17EXC-3516,Excavation,"Sonic Telecom, LLC",APPLCNT,,1609-32.2,6/26/17 0:00,7/7/17 0:00,6/17/17 12:39,
+Print,17EXC-3517,Excavation,"Sonic Telecom, LLC",APPLCNT,,"1609-14,15",6/26/17 0:00,7/7/17 0:00,6/17/17 13:05,
+Print,17EXC-4021,Excavation,"Sonic Telecom, LLC",APPLCNT,,1609-35,7/25/17 0:00,8/2/17 0:00,7/13/17 10:24,
+Print,17EXC-4396,Excavation,"Sonic Telecom, LLC",EXPIRED,,"1609-12,13",8/7/17 0:00,8/21/17 0:00,7/31/17 10:09,8/1/17 13:48
+Print,17EXC-4400,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-19&29,8/7/17 0:00,8/21/17 0:00,7/31/17 10:19,8/1/17 14:03
+Print,17EXC-4428,Excavation,"Sonic Telecom, LLC",EXPIRED,,1601-40 7031 601 Diamond ANC,8/9/17 0:00,8/11/17 0:00,8/1/17 10:50,8/7/17 8:11
+Print,17EXC-4433,Excavation,"Sonic Telecom, LLC",EXPIRED,,1609-45 Anchors,8/9/17 0:00,8/11/17 0:00,8/1/17 11:35,8/7/17 8:13
+Print,17EXC-4445,Excavation,"Sonic Telecom, LLC",CLOSED,,P6751 4400 25th St Anchor,8/7/17 0:00,8/9/17 0:00,8/1/17 15:59,8/3/17 15:11
+Print,17EXC-5318,Excavation,"Sonic Telecom, LLC",EXPIRED,,"1609-20,25,26",9/25/17 0:00,10/13/17 0:00,9/12/17 15:50,9/22/17 7:40
+Print,17EXC-5324,Excavation,"Sonic Telecom, LLC",EXPIRED,,"1609-10,11",9/25/17 0:00,10/9/17 0:00,9/13/17 8:21,9/21/17 15:06
+Print,17EXC-5823,Excavation,"Sonic Telecom, LLC",EXPIRED,,SONIC ANCHOR PLACEMENT PKG 31.,10/23/17 0:00,11/6/17 0:00,10/11/17 7:47,10/12/17 15:53
+Print,17EXC-5934,Excavation,"Sonic Telecom, LLC",EXPIRED,,Pole Reinforcement,11/6/17 0:00,11/7/17 0:00,10/18/17 13:21,10/25/17 9:34
+Print,17EXC-6271,Excavation,"Sonic Telecom, LLC",CLOSED,,EDT GIG ANC 22nd ave x Taraval,11/27/17 0:00,11/29/17 0:00,11/8/17 12:47,11/17/17 14:32
+Print,17SMF-0009,SurfaceFac,"Sonic Telecom, LLC",UNASSIGN,,,,,3/14/17 9:06,
+Print,17TOC-0163,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/23/17 7:00,1/27/17 17:00,1/10/17 6:56,1/12/17 14:16
+Print,17TOC-0170,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/30/17 7:00,2/3/17 17:00,1/10/17 8:02,1/19/17 8:25
+Print,17TOC-0172,TempOccup,"Sonic Telecom, LLC",CLOSED,,,1/30/17 7:00,2/3/17 17:00,1/10/17 8:27,1/24/17 12:12
+Print,17TOC-0334,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/6/17 7:00,2/10/17 17:00,1/20/17 7:43,2/1/17 8:58
+Print,17TOC-0335,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/6/17 7:00,2/10/17 17:00,1/20/17 8:11,2/1/17 9:51
+Print,17TOC-0418,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/1/17 7:00,2/10/17 17:00,1/25/17 9:26,2/1/17 9:47
+Print,17TOC-0419,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/6/17 7:00,2/10/17 17:00,1/25/17 9:39,2/1/17 9:44
+Print,17TOC-0534,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/6/17 7:00,2/10/17 17:00,2/1/17 9:05,2/1/17 9:16
+Print,17TOC-0607,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/13/17 7:00,2/24/17 17:00,2/6/17 13:14,2/9/17 7:31
+Print,17TOC-0609,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/13/17 7:00,2/24/17 17:00,2/6/17 13:26,2/9/17 13:13
+Print,17TOC-0850,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/27/17 7:00,3/10/17 17:00,2/21/17 7:38,2/27/17 15:56
+Print,17TOC-0852,TempOccup,"Sonic Telecom, LLC",CLOSED,,,2/27/17 7:00,3/10/17 17:00,2/21/17 7:48,2/27/17 15:57
+Print,17TOC-1146,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/13/17 7:00,3/15/17 17:00,3/7/17 8:38,3/15/17 10:10
+Print,17TOC-1207,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/16/17 7:00,3/21/17 17:00,3/9/17 8:11,3/15/17 15:55
+Print,17TOC-1249,TempOccup,"Sonic Telecom, LLC",WRK_ACCOUNTING,,,3/20/17 7:00,3/31/17 17:00,3/10/17 8:44,
+Print,17TOC-1285,TempOccup,"Sonic Telecom, LLC",CLOSED,,,3/27/17 7:00,3/31/17 17:00,3/14/17 9:10,3/17/17 14:37
+Print,17TOC-1288,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/3/17 7:00,4/7/17 17:00,3/14/17 10:19,3/17/17 14:33
+Print,17TOC-1557,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/10/17 7:00,4/14/17 17:00,3/28/17 7:51,3/30/17 8:17
+Print,17TOC-1558,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/17/17 7:00,4/21/17 17:00,3/28/17 8:01,3/30/17 8:43
+Print,17TOC-1559,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/24/17 7:00,5/5/17 17:00,3/28/17 8:09,3/30/17 8:43
+Print,17TOC-1904,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/17/17 7:00,4/28/17 17:00,4/7/17 10:07,4/11/17 7:15
+Print,17TOC-1905,TempOccup,"Sonic Telecom, LLC",CLOSED,,,4/17/17 7:00,4/28/17 17:00,4/7/17 10:21,4/7/17 15:33
+Print,17TOC-2177,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/1/17 7:00,5/11/17 17:00,4/21/17 8:59,4/21/17 15:39
+Print,17TOC-2178,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/1/17 7:00,5/12/17 17:00,4/21/17 9:54,4/21/17 15:36
+Print,17TOC-2469,TempOccup,"Sonic Telecom, LLC",CLOSED,3359 26TH ST,,5/15/17 7:00,5/16/17 17:00,5/4/17 8:39,5/4/17 9:21
+Print,17TOC-2579,TempOccup,"Sonic Telecom, LLC",WRK_ACCOUNTING,,,5/15/17 7:00,5/19/17 17:00,5/9/17 7:36,
+Print,17TOC-2580,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/9/17 7:00,8/11/17 17:00,5/9/17 7:48,8/7/17 12:20
+Print,17TOC-2582,TempOccup,"Sonic Telecom, LLC",WRK_ACCOUNTING,,,5/15/17 7:00,5/19/17 17:00,5/9/17 7:58,
+Print,17TOC-2819,TempOccup,"Sonic Telecom, LLC",CLOSED,3402 26TH ST,,5/17/17 6:00,5/19/17 17:00,5/16/17 11:28,5/16/17 11:45
+Print,17TOC-2995,TempOccup,"Sonic Telecom, LLC",UNASSIGN,,,5/23/17 7:00,5/31/17 13:00,5/22/17 12:58,
+Print,17TOC-2996,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/23/17 7:00,5/26/17 13:00,5/22/17 12:58,5/22/17 13:12
+Print,17TOC-2997,TempOccup,"Sonic Telecom, LLC",CLOSED,,,5/26/17 7:00,5/31/17 13:00,5/22/17 13:05,5/22/17 13:15
+Print,17TOC-3112,TempOccup,"Sonic Telecom, LLC",DENIED,,,6/1/17 7:00,6/9/17 17:00,5/26/17 9:40,
+Print,17TOC-3114,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/1/17 7:00,6/9/17 17:00,5/26/17 9:47,
+Print,17TOC-3128,TempOccup,"Sonic Telecom, LLC",CLOSED,1 NORWICH ST,,5/30/17 8:00,6/1/17 17:00,5/26/17 12:16,5/26/17 12:45
+Print,17TOC-3129,TempOccup,"Sonic Telecom, LLC",CLOSED,3049 22ND ST,,5/31/17 8:00,6/2/17 17:00,5/26/17 12:27,5/26/17 12:47
+Print,17TOC-3131,TempOccup,"Sonic Telecom, LLC",CLOSED,76 MONTCALM ST,,6/1/17 8:00,6/5/17 17:00,5/26/17 12:32,5/26/17 12:49
+Print,17TOC-3140,TempOccup,"Sonic Telecom, LLC",VOID,,,6/7/17 7:00,6/7/17 17:00,5/26/17 15:42,1/1/00 0:00
+Print,17TOC-3255,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/12/17 8:00,6/15/17 17:00,6/5/17 7:34,6/7/17 9:06
+Print,17TOC-3256,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/12/17 8:00,6/15/17 17:00,6/5/17 7:51,6/7/17 9:09
+Print,17TOC-3257,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/12/17 8:00,6/15/17 17:00,6/5/17 8:06,6/7/17 9:09
+Print,17TOC-3261,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/13/17 8:00,6/16/17 17:00,6/5/17 8:22,6/7/17 9:08
+Print,17TOC-3270,TempOccup,"Sonic Telecom, LLC",VOID,,,6/13/17 8:00,6/16/17 17:00,6/5/17 11:17,
+Print,17TOC-3453,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/15/17 7:00,6/21/17 17:00,6/12/17 6:48,6/13/17 8:00
+Print,17TOC-3456,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/19/17 7:00,6/23/17 17:00,6/12/17 9:37,6/15/17 8:13
+Print,17TOC-3545,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/21/17 8:00,6/23/17 17:00,6/14/17 6:45,6/19/17 8:42
+Print,17TOC-3546,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/22/17 8:00,6/23/17 17:00,6/14/17 7:08,6/19/17 13:02
+Print,17TOC-3547,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/21/17 8:00,6/23/17 17:00,6/14/17 7:44,6/19/17 8:45
+Print,17TOC-3548,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/19/17 8:00,6/22/17 5:00,6/14/17 8:00,6/19/17 12:28
+Print,17TOC-3551,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/21/17 8:00,6/23/17 17:00,6/14/17 8:13,6/19/17 8:46
+Print,17TOC-3555,TempOccup,"Sonic Telecom, LLC",CLOSED,,,6/21/17 8:00,6/23/17 17:00,6/14/17 8:19,6/19/17 12:59
+Print,17TOC-3740,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/5/17 7:00,7/7/17 17:00,6/21/17 13:38,6/22/17 15:55
+Print,17TOC-3869,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/3/17 8:00,7/6/17 17:00,6/27/17 10:58,6/30/17 12:32
+Print,17TOC-3871,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/3/17 8:00,7/6/17 17:00,6/27/17 11:08,6/30/17 8:04
+Print,17TOC-3875,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/3/17 8:00,7/6/17 17:00,6/27/17 11:20,6/30/17 12:34
+Print,17TOC-3966,TempOccup,"Sonic Telecom, LLC",CLOSED,1209 YORK ST,,7/10/17 7:00,7/12/17 17:00,7/3/17 6:38,7/5/17 8:12
+Print,17TOC-3975,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/12/17 8:00,7/14/17 17:00,7/5/17 6:36,7/6/17 11:02
+Print,17TOC-3979,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/12/17 8:00,7/14/17 17:00,7/5/17 12:30,7/6/17 11:03
+Print,17TOC-3981,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/12/17 8:00,7/14/17 17:00,7/5/17 12:36,7/6/17 11:05
+Print,17TOC-3984,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/12/17 8:00,7/14/17 17:00,7/5/17 12:41,7/6/17 11:06
+Print,17TOC-4242,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/18/17 8:00,7/20/17 17:00,7/14/17 8:10,7/14/17 8:14
+Print,17TOC-4243,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/18/17 8:00,7/19/17 17:00,7/14/17 8:17,7/14/17 8:21
+Print,17TOC-4244,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/18/17 8:00,7/20/17 17:00,7/14/17 8:29,7/14/17 8:34
+Print,17TOC-4356,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/25/17 7:00,7/25/17 17:00,7/19/17 6:06,7/20/17 14:40
+Print,17TOC-4579,TempOccup,"Sonic Telecom, LLC",CLOSED,,,7/31/17 7:00,8/1/17 17:00,7/27/17 10:08,7/27/17 11:00
+Print,17TOC-4689,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/21/17 9:00,8/22/17 16:00,8/1/17 13:08,8/11/17 15:19
+Print,17TOC-4794,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/7/17 7:00,8/8/17 17:00,8/3/17 12:46,8/3/17 14:00
+Print,17TOC-4796,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/7/17 7:00,8/7/17 17:00,8/3/17 13:05,8/3/17 13:58
+Print,17TOC-4797,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/7/17 7:00,8/11/17 17:00,8/3/17 13:31,8/3/17 14:02
+Print,17TOC-4885,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/11/17 7:00,8/11/17 17:00,8/7/17 10:45,8/7/17 11:08
+Print,17TOC-4899,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/9/17 7:00,8/11/17 17:00,8/7/17 12:04,8/7/17 12:20
+Print,17TOC-5035,TempOccup,"Sonic Telecom, LLC",CLOSED,,,8/28/17 7:00,8/31/17 15:00,8/11/17 12:04,8/11/17 16:47
+Print,17TOC-7581,TempOccup,"Sonic Telecom, LLC",CLOSED,299 CHENERY ST,,12/1/17 8:00,12/1/17 17:00,11/28/17 11:05,11/28/17 11:10
+Print,17TOC-7583,TempOccup,"Sonic Telecom, LLC",CLOSED,,,12/1/17 8:00,12/1/17 17:00,11/28/17 11:07,11/28/17 11:10
+Print,17TOC-7693,TempOccup,"Sonic Telecom, LLC",CLOSED,530 CONGO ST,,12/6/17 8:00,12/8/17 17:00,12/4/17 11:33,12/4/17 11:45
+Print,18TOC-0289,TempOccup,"Sonic Telecom, LLC",CLOSED,2753 22ND ST,,1/22/18 8:00,1/22/18 17:00,1/17/18 11:35,1/17/18 11:40
+Print,13SMF-0084,SurfaceFac,Sonic. net Inc,APPROVED,,,,,4/10/13 16:20,5/29/14 21:55
+Print,16TOC-8026,TempOccup,Sonic. net Inc,CLOSED,,,12/12/16 7:00,12/19/16 17:00,12/7/16 13:33,12/7/16 14:00

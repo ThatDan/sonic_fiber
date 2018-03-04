@@ -1,0 +1,51 @@
+"ConditionsEvent/Operation:Permit Linear Footage1880Elements of OccupancyMoving from utility pole to utility pole placing aerialstrand for fiber optic cable. Work will not exceed30mins per location.From:3/7/2016 7:00AMStart Time7:00AMTo:3/11/2016 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signNSpecial Traffic permit requiredNFood:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,14TH AVE,CLEMENT ST,GEARY BLVD,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,GEARY BLVD,ANZA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,ANZA ST,BALBOA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+4,ANZA ST,14TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+2,GEARY BLVD,14TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+15EXC-5825,"Shaw Pipeline Inc. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","Andrew Mellon (415)740-8008 - 415-716-8363",,
+Your Notes:,,,,
+Streets:,14TH AVE / CLEMENT ST - GEARY BLVD -,,,
+"",
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+14TH AVE,,,,,,
+"",CLEMENT ST,GEARY BLVD -,"Banners are allowed on thisstreet",,,
+"",GEARY BLVD,ANZA ST -,"Banners are allowed on thisstreet",,,
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",13ECN-1389,"800-743-5000 -800-743-5000",Nov 21 2013-
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",13smf-0343,"Refer to Agent -Refer to Agent",
+"",ANZA ST,Intersection,"Conflict with existing Street UsePermit.",13smf-0343,"Refer to Agent -Refer to Agent",
+"",GEARY BLVD,Intersection,"Conflict with existing Street UsePermit.",15B-0109,"Refer to Agent -Refer to Agent",Oct 21 2015-Oct 21 2016
+"",GEARY BLVD,ANZA ST -,"Conflict with existing Street UsePermit.",15ECN-0047,"800-743-5000 -800-743-5000",Jan 22 2015-
+"",GEARY BLVD,Intersection,"Conflict with existing Street UsePermit.",16B-0074,"(415) 431-2950- (415) 431-2950",Jun 10 2016-Jun  9 2017
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",16ECN-0296,,Apr 28 2016-
+"",CLEMENT ST,GEARY BLVD -,"Conflict with existing Street UsePermit.",16ECN-0296,,Apr 28 2016-
+"",GEARY BLVD,ANZA ST -,"Conflict with existing Street UsePermit.",16ECN-0296,,Apr 28 2016-
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",16ECN-0336,"415-695-3500 -415-695-3500",May 16 2016-
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",16ECN-0524,,Jul 19 2016-
+"",CLEMENT ST,GEARY BLVD -,"Conflict with existing Street UsePermit.",16ECN-0524,,Jul 19 2016-
+"",GEARY BLVD,ANZA ST -,"Conflict with existing Street UsePermit.",16ECN-0524,,Jul 19 2016-
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"",GEARY BLVD,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+ANZA ST,,,,,,
+"",14TH AVE,Intersection,"Conflict with existing Street UsePermit.",13smf-0343,"Refer to Agent -Refer to Agent",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",14TH AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr  1 2018-Sep 29 2018
+"",14TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr  1 2018-Sep 29 2018
+"GEARYBLVD",,,,,,
+"",14TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0109,"Refer to Agent -Refer to Agent",Oct 21 2015-Oct 21 2016
+"",14TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0074,"(415) 431-2950- (415) 431-2950",Jun 10 2016-Jun  9 2017
+"",14TH AVE,Intersection,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+"",14TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,

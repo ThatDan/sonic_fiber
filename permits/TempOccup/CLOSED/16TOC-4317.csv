@@ -1,0 +1,269 @@
+"ConditionsEvent/Operation:Permit Linear Footage8800Elements of OccupancyMoving from utility pole to utility pole placing aerialfiber optic cable. Work will not exceed 30min perlocation.From:7/11/2016 7:00AMStart Time7:00AMTo:7/22/2016 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, call(415) 554-5824 a minimum of 72 hours prior tooccupancy.  To tow a vehicle call the Tow Desk at(415) 553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+2,30TH AVE,CALIFORNIA ST,CLEMENT ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,CLEMENT ST,GEARY BLVD,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,GEARY BLVD,ANZA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+8,,ANZA ST,BALBOA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+10,,BALBOA ST,CABRILLO ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+12,,CABRILLO ST,FULTON ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+14,31ST AVE,BALBOA ST,CABRILLO ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+16,31ST AVE,CABRILLO ST,FULTON ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+18,32ND AVE,CALIFORNIA ST,MARVEL CT,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+20,,MARVEL CT,CLEMENT ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+22,,CLEMENT ST,GEARY BLVD,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+24,,GEARY BLVD,ANZA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+26,,ANZA ST,BALBOA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+28,,BALBOA ST,CABRILLO ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+7,ANZA ST,30TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+25,ANZA ST,32ND AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+9,BALBOA ST,30TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,31ST AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+27,,32ND AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+11,CABRILLO ST,30TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+15,,31ST AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+1,CALIFORNIA ST,30TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+17,,32ND AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+3,CLEMENT ST,30TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+21,,32ND AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+5,GEARY BLVD,30TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+23,,32ND AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+19,MARVEL CT,32ND AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+"","- Streetscape project with special materials at this location, permitholder must contact project manager prior to commencing work forrestoration requirements and coordination.","Mike Rieger - (415) 558-4492",,
+Your Notes:,,,,
+Streets:,32ND AVE / BALBOA ST - Intersection,,,
+"","- Under G095 requirement, Contractor shall contact Muni OverheadLine Division of any work 10 feet in horizontal or vertical direction ofoverhead lines. Contact: Clifford Smethurst @Clifford.Smethurst@sfmta.com, (415) 554-9220.",,,
+Your Notes:,,,,
+Streets:,30TH AVE / BALBOA ST - Intersection,,,
+15EXC-4823,"Esquivel Grading & Paving, Inc. - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","(415) 354-4870 - (415)354-4870",,
+Your Notes:,,,,
+Streets:,30TH AVE / CABRILLO ST - FULTON ST -,,,
+16EXC-4533,"San Francisco Water Department - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","Refer to Agent: 415-550-4900 - 4155504928",,
+Your Notes:,,,,
+Streets:,30TH AVE / CLEMENT ST - GEARY BLVD -,,,
+2503J,"Various Locations Pavement Renovation No 22 - Curb ramp project atintersection, see contact information for required coordination.",Au Bui -,,
+Your Notes:,,,,
+Streets:,32ND AVE / CLEMENT ST - Intersection,,,
+2748J,"Transition Plan Curb Ramps FY 15-16 - Curb ramp project atintersection, see contact information for required coordination.",Anastastia Disbrow -,,
+Your Notes:,,,,
+Streets:,32ND AVE / CALIFORNIA ST - Intersection,,,
+"",
+"",
+"",
+"",
+"",
+"",
+""
+""
+permit,Dates,Agency,Contact,
+16TOC-4401,07/13/16 7:00AM - 07/15/16 5:00PM,Pacific Gas & Electric,"1800PGE5000hxl0@pge",
+StreetSpace,,,,
+Your Notes:,,,,
+Streets:,31ST AVE: CABRILLO ST to FULTON ST (800 - 899),,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+30TH AVE,,,,,,
+"",CABRILLO ST,FULTON ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",CABRILLO ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",CALIFORNIA ST,CLEMENT ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",CALIFORNIA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",CLEMENT ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",GEARY BLVD,Intersection,Cistern Present.,,,
+"",CALIFORNIA ST,Intersection,"Conflict with existing Street UsePermit.",11WR-0054,"NOC 866-639-8460 - NOC 866-639-8460",
+"",CALIFORNIA ST,Intersection,"Conflict with existing Street UsePermit.",12TS-0122,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",CALIFORNIA ST,CLEMENT ST -,"Conflict with existing Street UsePermit.",13ECN-1368,"Refer to Agent -Refer to Agent",Dec  3 2013-
+"",CALIFORNIA ST,CLEMENT ST -,"Conflict with existing Street UsePermit.",13MSE-0154,"Refer to Agent -Refer to Agent",
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",14CN-0275,"415-722-9611 -415-722-9611",
+"",CLEMENT ST,GEARY BLVD -,"Conflict with existing Street UsePermit.",14ECN-0248,"800-743-5000 -800-743-5000",Feb 28 2014-
+"",CLEMENT ST,GEARY BLVD -,"Conflict with existing Street UsePermit.",14IE-1107,"Refer to Agent -Refer to Agent",Jul  5 2016-Aug  4 2016
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",14SW-0110,"(415) 722-9611- (415) 722-9611",
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",14TS-0002,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",14TS-0003,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",GEARY BLVD,ANZA ST -,"Conflict with existing Street UsePermit.",15ECN-1247,"Refer to Agent415-550-4900 -415-550-4900",Dec 30 2015-
+"",CABRILLO ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1739J,,Oct  5 2012-Oct  5 2017
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 12 2013-Mar 12 2018
+"",BALBOA ST,CABRILLO ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+"",CABRILLO ST,FULTON ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Au Bui -,Feb  9 2017-Aug  9 2017
+"",CALIFORNIA ST,Intersection,Proposed Paving.,PAVING,"Therese Marzan-",Jul  1 2017-Feb  1 2018
+"",CALIFORNIA ST,Intersection,Proposed Excavation.,PG&E,Stan Jang -,Apr  2 2018-Jul 31 2018
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+"",CABRILLO ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"",CABRILLO ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",CALIFORNIA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Therese Marzan-",Jul  1 2017-Feb  1 2018
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",CALIFORNIA ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Wahid Amiri -,Jan  1 2018-Dec 31 2019
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Louis Alcorn -,Jan  1 2015-Dec  1 2019
+"",CALIFORNIA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",CLEMENT ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",GEARY BLVD,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+31ST AVE,,,,,,
+"",CABRILLO ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",CABRILLO ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1739J,,Oct  5 2012-Oct  5 2017
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 12 2013-Mar 12 2018
+"",CABRILLO ST,FULTON ST -,Proposed Paving.,PAVING,Richard Lee -,May  8 2015-May  8 2017
+"",CABRILLO ST,FULTON ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"",CABRILLO ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"",CABRILLO ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+32ND AVE,,,,,,
+"",ANZA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",CLEMENT ST,GEARY BLVD -,"Banners are allowed on thisstreet",,,
+"",CLEMENT ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",MARVEL CT,CLEMENT ST -,"Banners are allowed on thisstreet",,,
+"",MARVEL CT,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",MARVEL CT,CLEMENT ST -,"Conflict with existing Street UsePermit.",12TS-0123,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",GEARY BLVD,Intersection,"Conflict with existing Street UsePermit.",12TS-0131,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",12TS-0142,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",BALBOA ST,Intersection,"Conflict with existing Street UsePermit.",12TS-0157,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",CLEMENT ST,GEARY BLVD -,"Conflict with existing Street UsePermit.",13ECN-0262,"800-743-5000 -800-743-5000",Mar 25 2013-
+"",CLEMENT ST,GEARY BLVD -,"Conflict with existing Street UsePermit.",13ECN-1561,"800-743-5000 -800-743-5000",Dec 12 2013-
+"",BALBOA ST,CABRILLO ST -,"Conflict with existing Street UsePermit.",14IE-0841,"Refer to Agent -Refer to Agent",
+"",BALBOA ST,CABRILLO ST -,"Conflict with existing Street UsePermit.",15ECN-1110,"415-695-3500 -415-695-3500",Nov 20 2015-
+"",CLEMENT ST,GEARY BLVD -,"Please see special pavingrequirements for MoratoriumStreets.",1729J,,Oct 18 2011-Oct 18 2016
+"",BALBOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",ANZA ST,BALBOA ST -,"ASAP Sidewalk RepairScheduled","ASAP WorkOrder",LC General -,
+"",CALIFORNIA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+"",CALIFORNIA ST,MARVEL CT -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+"",ANZA ST,BALBOA ST -,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",ANZA ST,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",BALBOA ST,CABRILLO ST -,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",CALIFORNIA ST,MARVEL CT -,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",CLEMENT ST,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",GEARY BLVD,ANZA ST -,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",GEARY BLVD,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",MARVEL CT,CLEMENT ST -,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",MARVEL CT,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",CALIFORNIA ST,Intersection,Proposed Paving.,PAVING,"Therese Marzan-",Jul  1 2017-Feb  1 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",GEARY BLVD,ANZA ST -,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+"",BALBOA ST,CABRILLO ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"",ANZA ST,BALBOA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr 18 2016-Jul 30 2017
+"",ANZA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr 18 2016-Jul 30 2017
+"",BALBOA ST,CABRILLO ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr 18 2016-Jul 30 2017
+"",GEARY BLVD,ANZA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr 18 2016-Jul 30 2017
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr 18 2016-Jul 30 2017
+"",MARVEL CT,CLEMENT ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr 18 2016-Jul 30 2017
+"",CLEMENT ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr 18 2016-Jul 30 2017
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr 18 2016-Jul 30 2017
+"",MARVEL CT,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr 18 2016-Jul 30 2017
+"",CALIFORNIA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","AnastastiaDisbrow -",Aug  7 2015-Dec 31 2016
+"",CLEMENT ST,GEARY BLVD -,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,ANZA ST -,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",CALIFORNIA ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",CALIFORNIA ST,MARVEL CT -,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",CLEMENT ST,GEARY BLVD -,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",CLEMENT ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",GEARY BLVD,ANZA ST -,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",MARVEL CT,CLEMENT ST -,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",MARVEL CT,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Wahid Amiri -,Jan  1 2018-Dec 31 2019
+"",CLEMENT ST,GEARY BLVD -,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,ANZA ST -,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",GEARY BLVD,ANZA ST -,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Louis Alcorn -,Jan  1 2015-Dec  1 2019
+"",GEARY BLVD,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Louis Alcorn -,Jan  1 2015-Dec  1 2019
+"",GEARY BLVD,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  2 2017-Jan  2 2018
+"",BALBOA ST,CABRILLO ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",BALBOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",CLEMENT ST,GEARY BLVD -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",CLEMENT ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",GEARY BLVD,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+ANZA ST,,,,,,
+"",32ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",32ND AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",30TH AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Feb  9 2017-Aug  9 2017
+"",32ND AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr 18 2016-Jul 30 2017
+BALBOA ST,,,,,,
+"",32ND AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0142,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",32ND AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0157,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",30TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TS-0002,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",30TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TS-0003,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",30TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 12 2013-Mar 12 2018
+"",31ST AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 12 2013-Mar 12 2018
+"",32ND AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1930J,,Mar 26 2013-Mar 26 2018
+"",30TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+"",32ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"CABRILLOST",,,,,,
+"",30TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",31ST AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",30TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1739J,,Oct  5 2012-Oct  5 2017
+"",31ST AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1739J,,Oct  5 2012-Oct  5 2017
+"",30TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"",31ST AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"",30TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"",31ST AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"CALIFORNIA ST",,,,,,
+"",30TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",30TH AVE,Intersection,"Conflict with existing Street UsePermit.",11WR-0054,"NOC 866-639-8460 - NOC 866-639-8460",
+"",30TH AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0122,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",32ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",Iron Pin,,
+"",30TH AVE,Intersection,Proposed Paving.,PAVING,"Therese Marzan-",Jul  1 2017-Feb  1 2018
+"",32ND AVE,Intersection,Proposed Paving.,PAVING,"Therese Marzan-",Jul  1 2017-Feb  1 2018
+"",30TH AVE,Intersection,Proposed Excavation.,PG&E,Stan Jang -,Apr  2 2018-Jul 31 2018
+"",32ND AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","AnastastiaDisbrow -",Aug  7 2015-Dec 31 2016
+"",30TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Therese Marzan-",Jul  1 2017-Feb  1 2018
+"",30TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",32ND AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",30TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"CLEMENTST",,,,,,
+"",30TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",32ND AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",32ND AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",32ND AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr 18 2016-Jul 30 2017
+"",32ND AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",30TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",32ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"GEARYBLVD",,,,,,
+"",30TH AVE,Intersection,Cistern Present.,,,
+"",32ND AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0131,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",32ND AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",30TH AVE,Intersection,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+"",32ND AVE,Intersection,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+"",32ND AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John J Helmuth-",Apr 18 2016-Jul 30 2017
+"",32ND AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr 18 2016-Jul 30 2017
+"",30TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",32ND AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",32ND AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",30TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Wahid Amiri -,Jan  1 2018-Dec 31 2019
+"",32ND AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Wahid Amiri -,Jan  1 2018-Dec 31 2019
+"",30TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",32ND AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",30TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Louis Alcorn -,Jan  1 2015-Dec  1 2019
+"",32ND AVE,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Louis Alcorn -,Jan  1 2015-Dec  1 2019
+"",32ND AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  2 2017-Jan  2 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",30TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",32ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+MARVEL CT,,,,,,
+"",32ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",32ND AVE,Intersection,Proposed Paving.,PAVING,Au Bui -,Apr 18 2016-Jul 30 2017
+"",32ND AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways",Au Bui -,Apr 18 2016-Jul 30 2017
+"",32ND AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020

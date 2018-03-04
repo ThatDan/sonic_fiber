@@ -1,0 +1,401 @@
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,20TH AVE,LINCOLN WAY,IRVING ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,IRVING ST,JUDAH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,JUDAH ST,KIRKHAM ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,KIRKHAM ST,LAWTON ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+9,,LAWTON ST,MORAGA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,MORAGA ST,NORIEGA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,NORIEGA ST,ORTEGA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+15,20TH AVE,ORTEGA ST,PACHECO ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+17,,PACHECO ST,QUINTARA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+19,,QUINTARA ST,RIVERA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+21,,RIVERA ST,SANTIAGO ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+23,,SANTIAGO ST,TARAVAL ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+24,21ST AVE,LINCOLN WAY,IRVING ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+26,,IRVING ST,JUDAH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+28,,JUDAH ST,KIRKHAM ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+30,,KIRKHAM ST,LAWTON ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+32,21ST AVE,LAWTON ST,MORAGA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+34,,MORAGA ST,NORIEGA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+36,,NORIEGA ST,ORTEGA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+38,,ORTEGA ST,PACHECO ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+40,,PACHECO ST,QUINTARA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+42,,QUINTARA ST,RIVERA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+44,,RIVERA ST,SANTIAGO ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+46,,SANTIAGO ST,TARAVAL ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+2,IRVING ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+25,IRVING ST,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+4,JUDAH ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+27,,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+6,KIRKHAM ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+29,,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+8,LAWTON ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+31,,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+10,MORAGA ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+33,MORAGA ST,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+12,NORIEGA ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+35,,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+14,ORTEGA ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+37,,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+16,PACHECO ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+39,,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+18,QUINTARA ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+41,QUINTARA ST,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+20,RIVERA ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+43,,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+22,SANTIAGO ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+45,,21ST AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+12EXC-1233,"Precision Engineering, Inc. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","Juan Perez (415) 760-8744 - Juan Perez(415) 760-8744",,
+Your Notes:,,,,
+Streets:,20TH AVE / SANTIAGO ST - Intersection,,,
+14EXC-6591,"San Francisco Water Department - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","Refer to Agent5504900 - Refer toAgent 5504900",,
+Your Notes:,,,,
+Streets:,20TH AVE / LINCOLN WAY - IRVING ST -,,,
+15EXC-0119,"San Francisco Water Department - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","Refer to Agent 550-4900 - Refer to Agent550-4900",,
+Your Notes:,,,,
+Streets:,21ST AVE / JUDAH ST - KIRKHAM ST -,,,
+N/A,"- Under G095 requirement, Contractor shall contact Muni OverheadLine Division of any work 10 feet in horizontal or vertical direction ofoverhead lines. Contact: Clifford Smethurst @Clifford.Smethurst@sfmta.com, (415) 554-9220.",,,
+Your Notes:,,,,
+Streets:,20TH AVE / JUDAH ST - Intersection,,,
+"",
+"",
+"",
+"",
+""
+""
+permit,Dates,Agency,Contact,
+14TOC-3811,2/2/2015 7:00AM - 2/2/2015 5:00PM,"Sonic Telecom, LLC","7077915391Brian.Botteri@sonic.com",
+StreetSpace,,,,
+Your Notes:,,,,
+Streets:,"SANTIAGO ST: 21ST AVE intersection,RIVERA ST: 21ST AVE intersection,QUINTARA ST: 21ST AVEintersection,PACHECO ST: 21ST AVE intersection,ORTEGA ST: 21ST AVE intersection,NORIEGA ST: 21STAVE intersection,MORAGA ST: 21ST AVE intersection,LAWTON ST: 21ST AVE intersection,KIRKHAM ST:21ST AVE intersection,JUDAH ST: 21ST AVE intersection,IRVING ST: 21ST AVE intersection,21ST AVE:SANTIAGO ST to TARAVAL ST (2300 - 2399),21ST AVE: SANTIAGO ST intersection,21ST AVE: RIVERA STto SANTIAGO ST (2200 - 2299),21ST AVE: RIVERA ST intersection,21ST AVE: QUINTARA ST to RIVERAST (2100 - 2199),21ST AVE: QUINTARA ST intersection,21ST AVE: PACHECO ST to QUINTARA ST (2000 -2099),21ST AVE: PACHECO ST intersection,21ST AVE: ORTEGA ST to PACHECO ST (1900 - 1999),21STAVE: ORTEGA ST intersection,21ST AVE: NORIEGA ST to ORTEGA ST (1800 - 1899),21ST AVE: NORIEGAST intersection,21ST AVE: MORAGA ST to NORIEGA ST (1700 - 1799),21ST AVE: MORAGA STintersection,21ST AVE: LAWTON ST to MORAGA ST (1600 - 1699),21ST AVE: LAWTON STintersection,21ST AVE: KIRKHAM ST to LAWTON ST (1500 - 1599),21ST AVE: KIRKHAM STintersection,21ST AVE: JUDAH ST to KIRKHAM ST (1400 - 1499),21ST AVE: JUDAH ST intersection,21STAVE: IRVING ST to JUDAH ST (1300 - 1399),21ST AVE: IRVING ST intersection,21ST AVE: LINCOLN WAYto IRVING ST (1200 - 1299)",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+20TH AVE,,,,,,
+"",RIVERA ST,Intersection,"Conflict with existing Street UsePermit.",11SMF-0037,"Refer to Agent -Refer to Agent",
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",11SMF-0037,"Refer to Agent -Refer to Agent",
+"",IRVING ST,JUDAH ST -,"Conflict with existing Street UsePermit.",13ECN-0284,"800-743-5000 -800-743-5000",Mar  3 2013-
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",13ECN-0284,"800-743-5000 -800-743-5000",Mar  3 2013-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",13ECN-0972,"800-743-5000 -800-743-5000",Sep 13 2013-
+"",PACHECO ST,QUINTARA ST -,"Conflict with existing Street UsePermit.",13ECN-1074,"800-743-5000 -800-743-5000",Oct  2 2013-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",13ECN-1075,"800-743-5000 -800-743-5000",Oct  2 2013-
+"",NORIEGA ST,Intersection,"Conflict with existing Street UsePermit.",14B-0124,"(415) 431-2950- (415) 431-2950",Oct 31 2014-Oct 31 2015
+"",IRVING ST,Intersection,"Conflict with existing Street UsePermit.",14B-0138,"415-431-2950 -415-431-2950",Dec 11 2014-Dec 11 2015
+"",MORAGA ST,NORIEGA ST -,"Conflict with existing Street UsePermit.",14CN-0241,"415 931 9124 -415 931 9124",
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",14ECN-1220,"Refer to Agent -Refer to Agent",Nov  6 2014-
+"",LAWTON ST,MORAGA ST -,"Conflict with existing Street UsePermit.",14MFF-0067,"Refer to Agent -Refer to Agent",Mar 16 2014-Mar 15 2015
+"",MORAGA ST,NORIEGA ST -,"Conflict with existing Street UsePermit.",14SW-0105,"415 931 3124 -415 931 3124",
+"",IRVING ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",IRVING ST,JUDAH ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",JUDAH ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",JUDAH ST,KIRKHAM ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",KIRKHAM ST,LAWTON ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",LAWTON ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",LAWTON ST,MORAGA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",MORAGA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",MORAGA ST,NORIEGA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",NORIEGA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",NORIEGA ST,ORTEGA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ORTEGA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",PACHECO ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",PACHECO ST,QUINTARA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",QUINTARA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",RIVERA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",SANTIAGO ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",IRVING ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",IRVING ST,JUDAH ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",JUDAH ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",JUDAH ST,KIRKHAM ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",KIRKHAM ST,LAWTON ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",LAWTON ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",LAWTON ST,MORAGA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",LINCOLN WAY,IRVING ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",MORAGA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",MORAGA ST,NORIEGA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",NORIEGA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",NORIEGA ST,ORTEGA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",ORTEGA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",ORTEGA ST,PACHECO ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",QUINTARA ST,RIVERA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",RIVERA ST,SANTIAGO ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",LINCOLN WAY,IRVING ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","IronMonument",,
+"",IRVING ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",IRVING ST,JUDAH ST -,"Banners are allowed on thisstreet",N/A,,
+"",IRVING ST,JUDAH ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",JUDAH ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",JUDAH ST,Intersection,Muni Tracks Present.,N/A,,
+"",JUDAH ST,KIRKHAM ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",KIRKHAM ST,LAWTON ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",LAWTON ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",LAWTON ST,MORAGA ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",LINCOLN WAY,IRVING ST -,"Banners are allowed on thisstreet",N/A,,
+"",LINCOLN WAY,IRVING ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",MORAGA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",MORAGA ST,NORIEGA ST -,"Banners are allowed on thisstreet",N/A,,
+"",MORAGA ST,NORIEGA ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",NORIEGA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",NORIEGA ST,ORTEGA ST -,"Banners are allowed on thisstreet",N/A,,
+"",NORIEGA ST,ORTEGA ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",ORTEGA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",ORTEGA ST,PACHECO ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",PACHECO ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",PACHECO ST,QUINTARA ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",QUINTARA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",QUINTARA ST,RIVERA ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",RIVERA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",RIVERA ST,SANTIAGO ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",SANTIAGO ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",N/A,,
+"",SANTIAGO ST,TARAVAL ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",QUINTARA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"",LINCOLN WAY,IRVING ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Thomas Won -,Feb  4 2014-Mar 27 2015
+"",ORTEGA ST,PACHECO ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Thomas Won -,Feb  4 2014-Mar 27 2015
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",Jun 12 2015-May 12 2016
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)","Cathal Hennessy-",Jun  1 2013-Jun  1 2015
+"",ORTEGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,
+"",LAWTON ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",NORIEGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",NORIEGA ST,ORTEGA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",RIVERA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",RIVERA ST,SANTIAGO ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+21ST AVE,,,,,,
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",12ECN-0464,"800-743-5000 -800-743-5000",Apr 24 2012-
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",12ECN-0994,"800-743-5000 -800-743-5000",Sep 24 2012-
+"",NORIEGA ST,ORTEGA ST -,"Conflict with existing Street UsePermit.",13ECN-0313,"800-743-5000 -800-743-5000",Apr  8 2013-
+"",PACHECO ST,QUINTARA ST -,"Conflict with existing Street UsePermit.",13ECN-0746,"800-743-5000 -800-743-5000",Jul 10 2013-
+"",ORTEGA ST,Intersection,"Conflict with existing Street UsePermit.",13ECN-1548,"Refer to Agent -Refer to Agent",Dec 20 2013-
+"",NORIEGA ST,Intersection,"Conflict with existing Street UsePermit.",14B-0124,"(415) 431-2950- (415) 431-2950",Oct 31 2014-Oct 31 2015
+"",IRVING ST,Intersection,"Conflict with existing Street UsePermit.",14B-0138,"415-431-2950 -415-431-2950",Dec 11 2014-Dec 11 2015
+"",PACHECO ST,QUINTARA ST -,"Conflict with existing Street UsePermit.",14ECN-0082,"800-743-5000 -800-743-5000",Jan 13 2014-
+"",JUDAH ST,KIRKHAM ST -,"Conflict with existing Street UsePermit.",14ECN-0306,"800-743-5000 -800-743-5000",Mar 12 2014-
+"",JUDAH ST,KIRKHAM ST -,"Conflict with existing Street UsePermit.",14ECN-0599,"Refer to Agent -Refer to Agent",May 16 2014-
+"",KIRKHAM ST,LAWTON ST -,"Conflict with existing Street UsePermit.",14ECN-1083,"800-743-5000 -800-743-5000",Sep 24 2014-
+"",IRVING ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",IRVING ST,JUDAH ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",JUDAH ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",JUDAH ST,KIRKHAM ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",KIRKHAM ST,LAWTON ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",LAWTON ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",LAWTON ST,MORAGA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",MORAGA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",MORAGA ST,NORIEGA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",NORIEGA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",NORIEGA ST,ORTEGA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",ORTEGA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",PACHECO ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",PACHECO ST,QUINTARA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",QUINTARA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",RIVERA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",SANTIAGO ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",IRVING ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",IRVING ST,JUDAH ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",JUDAH ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",JUDAH ST,KIRKHAM ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",KIRKHAM ST,LAWTON ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",LAWTON ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",LAWTON ST,MORAGA ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",MORAGA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",MORAGA ST,NORIEGA ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",NORIEGA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",NORIEGA ST,ORTEGA ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ORTEGA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",PACHECO ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",PACHECO ST,QUINTARA ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",QUINTARA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",RIVERA ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",SANTIAGO ST,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",15CN-0015,"415-810-8609 -415-810-8609",
+"",JUDAH ST,KIRKHAM ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",NORIEGA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",NORIEGA ST,ORTEGA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",IRVING ST,JUDAH ST -,"Banners are allowed on thisstreet",N/A,,
+"",JUDAH ST,Intersection,Muni Tracks Present.,N/A,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",LINCOLN WAY,IRVING ST -,"Banners are allowed on thisstreet",N/A,,
+"",MORAGA ST,NORIEGA ST -,"Banners are allowed on thisstreet",N/A,,
+"",NORIEGA ST,ORTEGA ST -,"Banners are allowed on thisstreet",N/A,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",N/A,,
+"",ORTEGA ST,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",IRVING ST,Intersection,Proposed Paving.,PAVING,"Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",RIVERA ST,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Aug 14 2014-Apr 30 2015
+"",MORAGA ST,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Feb  2 2015-Jun  1 2015
+"",PACHECO ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"",QUINTARA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",QUINTARA ST,RIVERA ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"",RIVERA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"",RIVERA ST,SANTIAGO ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"",SANTIAGO ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"",NORIEGA ST,Intersection,Proposed Excavation.,PG&E,"Jason Stublarec-",Jan  1 2016-Jan  1 2017
+"",LAWTON ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  1 2015-Feb 15 2017
+"",LAWTON ST,MORAGA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  1 2015-Feb 15 2017
+"",LINCOLN WAY,IRVING ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  1 2015-Feb 15 2017
+"",MORAGA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  1 2015-Feb 15 2017
+"",MORAGA ST,Intersection,Proposed Excavation.,"SF DPW IDC -ProjectManagement",Paul Barradas -,Feb  2 2015-Jun  1 2015
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)","Cathal Hennessy-",Jun  1 2013-Jun  1 2015
+"",ORTEGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,
+IRVING ST,,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14B-0138,"415-431-2950 -415-431-2950",Dec 11 2014-Dec 11 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14B-0138,"415-431-2950 -415-431-2950",Dec 11 2014-Dec 11 2015
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",21ST AVE,Intersection,Proposed Paving.,PAVING,"Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",20TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",21ST AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",20TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",21ST AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",May 12 2015-Apr 12 2016
+"",20TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",Jun 12 2015-May 12 2016
+JUDAH ST,,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",20TH AVE,Intersection,Muni Tracks Present.,N/A,,
+"",21ST AVE,Intersection,Muni Tracks Present.,N/A,,
+"",20TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",21ST AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",20TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",21ST AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",20TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"",21ST AVE,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"",20TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)","Cathal Hennessy-",Jun  1 2013-Jun  1 2015
+"",21ST AVE,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)","Cathal Hennessy-",Jun  1 2013-Jun  1 2015
+"KIRKHAMST",,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",21ST AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",21ST AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+LAWTON ST,,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",21ST AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  1 2015-Feb 15 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",20TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+MORAGA ST,,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",21ST AVE,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Feb  2 2015-Jun  1 2015
+"",21ST AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  1 2015-Feb 15 2017
+"",21ST AVE,Intersection,Proposed Excavation.,"SF DPW IDC -ProjectManagement",Paul Barradas -,Feb  2 2015-Jun  1 2015
+"NORIEGAST",,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14B-0124,"(415) 431-2950- (415) 431-2950",Oct 31 2014-Oct 31 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14B-0124,"(415) 431-2950- (415) 431-2950",Oct 31 2014-Oct 31 2015
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",21ST AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",21ST AVE,Intersection,Proposed Excavation.,PG&E,"Jason Stublarec-",Jan  1 2016-Jan  1 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",20TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+ORTEGA ST,,,,,,
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",13ECN-1548,"Refer to Agent -Refer to Agent",Dec 20 2013-
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 17 2011-Mar 17 2016
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",21ST AVE,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",20TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,
+"",21ST AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,
+"PACHECOST",,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",21ST AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"QUINTARAST",,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",20TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"",21ST AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+RIVERA ST,,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",11SMF-0037,"Refer to Agent -Refer to Agent",
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",21ST AVE,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Aug 14 2014-Apr 30 2015
+"",21ST AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016
+"",20TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"SANTIAGOST",,,,,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3808,"7077915391 -7077915391",Jan 19 2015-Jan 30 2015
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",14TOC-3811,"7077915391 -7077915391",Feb  2 2015-Feb  2 2015
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",N/A,,
+"",21ST AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Sep 20 2016-Dec 31 2016

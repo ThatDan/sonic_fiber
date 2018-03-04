@@ -1,0 +1,89 @@
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+931836,15TH ST,RAMONA AVE,DOLORES ST,South,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,9
+"",Total,,,,,0,9,0,9
+931838,ALBION ST,15TH ST,16TH ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,9
+"",Total,,,,,0,9,0,9
+931840,CALEDONIA ST,END,15TH ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,9
+931842,,15TH ST,SPARROW ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,9
+"",Total,,,,,0,18,0,18
+931844,JULIAN AVE,14TH ST,15TH ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,9
+931846,,15TH ST,16TH ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,9
+"",Total,,,,,0,18,0,18
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+931848,RAMONA AVE,14TH ST,15TH ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,9
+"",Total,,,,,0,9,0,9
+931850,WIESE ST,15TH ST,16TH ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,9
+"",Total,,,,,0,9,0,9
+Job #,Activity,Contact,,
+16EXC-8077,"CableCom - Conflict with existing excavation permit.  It is mandatorythat you coordinate all work for joint paving.","650-670-6021 - 650-670-6021",,
+Your Notes:,,,,
+Streets:,JULIAN AVE / 15TH ST - 16TH ST -,,,
+17EXC-0287,"Zayo Group  - Conflict with existing excavation permit.  It is mandatorythat you coordinate all work for joint paving.","Brad Chandler 612-910-0127 - 9255959149",,
+Your Notes:,,,,
+Streets:,15TH ST / RAMONA AVE - DOLORES ST -,,,
+"",
+"",
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+15TH ST,,,,,,
+"",RAMONA AVE,DOLORES ST -,Proposed Paving.,PAVING,Allison Nguyen -,Oct 31 2016-Oct 30 2018
+"",RAMONA AVE,DOLORES ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+ALBION ST,,,,,,
+"",15TH ST,16TH ST -,"Banners are allowed on thisstreet",,,
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",14ECN-0124,"800-743-5000 -800-743-5000",Jan 21 2014-
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",14ECN-1291,"Refer to Agent550-4900 -Refer to Agent550-4900",Nov 21 2014-
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",17TOC-0418,"Joshua Mackey707-791-5618 -(707) 326-1631",Feb  1 2017-Feb 10 2017
+"",15TH ST,16TH ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",,
+"CALEDONIAST",,,,,,
+"",END,15TH ST -,"Banners are allowed on thisstreet",,,
+"",15TH ST,SPARROW ST -,"Conflict with existing Street UsePermit.",17TOC-0418,"Joshua Mackey707-791-5618 -(707) 326-1631",Feb  1 2017-Feb 10 2017
+"",END,15TH ST -,"Conflict with existing Street UsePermit.",17TOC-0418,"Joshua Mackey707-791-5618 -(707) 326-1631",Feb  1 2017-Feb 10 2017
+JULIAN AVE,,,,,,
+"",14TH ST,15TH ST -,"Banners are allowed on thisstreet",,,
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",11V-0037,"Refer to Agent -Refer to Agent",
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",13V-0007,"Refer to Agent -Refer to Agent",
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",14ECN-0112,"800-743-5000 -800-743-5000",Jan 16 2014-
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",17TOC-0418,"Joshua Mackey707-791-5618 -(707) 326-1631",Feb  1 2017-Feb 10 2017
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",17TOC-0418,"Joshua Mackey707-791-5618 -(707) 326-1631",Feb  1 2017-Feb 10 2017
+"",14TH ST,15TH ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",15TH ST,16TH ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"RAMONAAVE",,,,,,
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",15MSE-0311,"415-282-1481 -415-282-1481",
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",17TOC-0418,"Joshua Mackey707-791-5618 -(707) 326-1631",Feb  1 2017-Feb 10 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",14TH ST,15TH ST -,"Please see special pavingrequirements for MoratoriumStreets.",2635J,,Apr 11 2016-Apr 11 2021
+"",14TH ST,15TH ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+WIESE ST,,,,,,
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",17TOC-0418,"Joshua Mackey707-791-5618 -(707) 326-1631",Feb  1 2017-Feb 10 2017
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:",
+"",
+AMONA AVE: 14TH ST 15TH ST (10898000  ) - West,
+Asphalt Square Footage: 0,Concrete Square Footage: 9
+Moratorium Start Date: 4/11/2016,Moratorium End Date: 4/11/2021
+Date Service Requested: 1/1/1900,
+"",
+Property Owner Name:,Property Owner Phone:
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Concrete Square Footage: 9
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium Start Date: 4/11/2016
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Date Service Requested: 1/1/1900
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium End Date: 4/11/2021
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Phone:
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Asphalt Square Footage: 0
+"ApprovedDeniedAMONA AVE: 14TH ST 15TH ST (10898000  ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 4/11/2016Moratorium End Date: 4/11/2021Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Name:

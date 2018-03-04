@@ -1,0 +1,218 @@
+"ConditionsEvent/Operation:Aerial Strand PlacementPermit Linear Footage8000Elements of OccupancyMoving pole to pole along the street placing aerialstrand.  Will not be at a pole for longer than 30minutes.From:2/1/2016 7:00AMStart Time7:00AMTo:2/5/2016 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, call(415) 554-5824 a minimum of 72 hours prior tooccupancy.  To tow a vehicle call the Tow Desk at(415) 553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,37TH AVE,LINCOLN WAY,SUNSET BLVD,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,SUNSET BLVD,IRVING ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,IRVING ST,JUDAH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,JUDAH ST,KIRKHAM ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+9,,KIRKHAM ST,LAWTON ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,LAWTON ST,MORAGA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,MORAGA ST,NORIEGA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+15,37TH AVE,NORIEGA ST,ORTEGA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+17,,ORTEGA ST,PACHECO ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+19,,PACHECO ST,QUINTARA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+21,,QUINTARA ST,RIVERA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+23,,RIVERA ST,SANTIAGO ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+25,,SANTIAGO ST,TARAVAL ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+4,IRVING ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+6,JUDAH ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+8,KIRKHAM ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+10,LAWTON ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+12,MORAGA ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+14,NORIEGA ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+16,ORTEGA ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+18,PACHECO ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+20,QUINTARA ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+22,RIVERA ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+24,SANTIAGO ST,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+2,SUNSET BLVD,37TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+"","- Under G095 requirement, Contractor shall contact Muni OverheadLine Division of any work 10 feet in horizontal or vertical direction ofoverhead lines. Contact: Clifford Smethurst @Clifford.Smethurst@sfmta.com, (415) 554-9220.",,,
+Your Notes:,,,,
+Streets:,37TH AVE / JUDAH ST - Intersection,,,
+12EXC-1233,"Precision Engineering, Inc. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","Juan Perez (415) 760-8744 - Juan Perez(415) 760-8744",,
+Your Notes:,,,,
+Streets:,37TH AVE / RIVERA ST - Intersection,,,
+16EXC-0577,"J. Flores Construction Co. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","Oscar Delgadillo @510-867-0073 &Inspector Jerry  - (415)337-2934",,
+Your Notes:,,,,
+Streets:,37TH AVE / SUNSET BLVD - IRVING ST -,,,
+2123J,"Irving Streetscape (19th-27th Avenue) - Curb ramp project atintersection, see contact information for required coordination.",Brian DeGuzman -,,
+Your Notes:,,,,
+Streets:,37TH AVE / IRVING ST - Intersection,,,
+"",
+"",
+"",
+"",
+""
+""
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+37TH AVE,,,,,,
+"",JUDAH ST,Intersection,Muni Tracks Present.,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",ORTEGA ST,PACHECO ST -,"Banners are allowed on thisstreet",,,
+"",PACHECO ST,QUINTARA ST -,"Banners are allowed on thisstreet",,,
+"",IRVING ST,Intersection,"Conflict with existing Street UsePermit.",11SMF-0034,"Refer to Agent -Refer to Agent",
+"",SUNSET BLVD,IRVING ST -,"Conflict with existing Street UsePermit.",11SMF-0034,"Refer to Agent -Refer to Agent",
+"",LAWTON ST,MORAGA ST -,"Conflict with existing Street UsePermit.",12BW-0030,"Refer to Agent -Refer to Agent",
+"",NORIEGA ST,ORTEGA ST -,"Conflict with existing Street UsePermit.",12BW-0030,"Refer to Agent -Refer to Agent",
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",12BW-0030,"Refer to Agent -Refer to Agent",
+"",PACHECO ST,QUINTARA ST -,"Conflict with existing Street UsePermit.",13ECN-0800,"Refer to Agent -Refer to Agent",Aug  6 2013-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",13ECN-0965,"800-743-5000 -800-743-5000",Sep 13 2013-
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",14B-0135,"(415) 431-2950- (415) 431-2950",Jan 15 2015-Jan 15 2016
+"",KIRKHAM ST,LAWTON ST -,"Conflict with existing Street UsePermit.",14ECN-0197,"Judy Jones 415-244-9799 - JudyJones 415-244-9799",Feb 10 2014-
+"",LAWTON ST,MORAGA ST -,"Conflict with existing Street UsePermit.",14ECN-0197,"Judy Jones 415-244-9799 - JudyJones 415-244-9799",Feb 10 2014-
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",14ECN-1183,"800-743-5000 -800-743-5000",Oct 27 2014-
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",15B-0056,"Refer to Agent -Refer to Agent",Jun  5 2015-Jun 19 2016
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",15B-0059,"(415) 431-2950- (415) 431-2950",Jun 17 2015-Jun 17 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",15B-0073,"(415) 431-2950- (415) 431-2950",Aug  5 2015-Aug  5 2016
+"",PACHECO ST,Intersection,"Conflict with existing Street UsePermit.",15B-0090,"Heather Cann:(415) 431-2950- (415) 431-2950",Sep  8 2015-Aug 31 2016
+"",PACHECO ST,QUINTARA ST -,"Conflict with existing Street UsePermit.",15B-0090,"Heather Cann:(415) 431-2950- (415) 431-2950",Sep  8 2015-Aug 31 2016
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",15B-0090,"Heather Cann:(415) 431-2950- (415) 431-2950",Sep  8 2015-Aug 31 2016
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",15B-0109,"Refer to Agent -Refer to Agent",Oct 21 2015-Oct 21 2016
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",15B-0114,"415-431-2950 -415-431-2950",Dec 11 2015-Dec 11 2016
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",15B-0120,"Refer to Agent -Refer to Agent",Dec  8 2015-Dec  8 2016
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",15B-0124,"(415) 431-2950- (415) 431-2950",Jan 16 2016-Jan 16 2017
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",15B-0131,"Refer to Agent -Refer to Agent",Feb 15 2016-May  9 2016
+"",KIRKHAM ST,LAWTON ST -,"Conflict with existing Street UsePermit.",15CN-0230,"Refer to Agent -Refer to Agent",
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",16B-0001,"Refer to Agent -Refer to Agent",Jan 26 2016-May 16 2016
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",16B-0003,"Refer to Agent -Refer to Agent",Feb 15 2016-May  9 2016
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",16B-0004,"Refer to Agent -Refer to Agent",Feb 15 2016-May  9 2016
+"",MORAGA ST,Intersection,"Conflict with existing Street UsePermit.",16TOC-0516,"707-326-1631 -707-326-1631",Feb  1 2016-Feb  5 2016
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jan 10 2014-Jan 10 2019
+"",KIRKHAM ST,LAWTON ST -,"Please see special pavingrequirements for MoratoriumStreets.",2086J,,May 22 2013-May 22 2018
+"",MORAGA ST,NORIEGA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Sep 22 2011-Sep 22 2016
+"",ORTEGA ST,PACHECO ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",PACHECO ST,Intersection,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",PACHECO ST,QUINTARA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",QUINTARA ST,Intersection,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",QUINTARA ST,RIVERA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",SUNSET BLVD,IRVING ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",IRVING ST,Intersection,Proposed Paving.,PAVING,"Brian DeGuzman -",Feb 22 2016-Aug 25 2017
+"",JUDAH ST,KIRKHAM ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2015-Jun 30 2016
+"",LAWTON ST,MORAGA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2015-Jun 30 2016
+"",NORIEGA ST,ORTEGA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2015-Jun 30 2016
+"",SUNSET BLVD,Intersection,Proposed Paving.,PAVING,Richard Lee -,Feb  1 2018-Sep  1 2018
+"",NORIEGA ST,Intersection,Proposed Excavation.,PG&E,Aiman Abusaif -,Jan  1 2016-Jan  1 2017
+"",RIVERA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",RIVERA ST,SANTIAGO ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",SANTIAGO ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",QUINTARA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  1 2016-Feb 16 2018
+"",ORTEGA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Mechanical\Electrical",Debra Temple -,Nov  3 2014-Sep  9 2016
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",Feb 22 2016-Aug 25 2017
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",NORIEGA ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"",IRVING ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",JUDAH ST,KIRKHAM ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",KIRKHAM ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",KIRKHAM ST,LAWTON ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",LAWTON ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",LAWTON ST,MORAGA ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",LINCOLN WAY,SUNSET BLVD -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",MORAGA ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",MORAGA ST,NORIEGA ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",NORIEGA ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",NORIEGA ST,ORTEGA ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",ORTEGA ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",ORTEGA ST,PACHECO ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",PACHECO ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",PACHECO ST,QUINTARA ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",QUINTARA ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",QUINTARA ST,RIVERA ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",RIVERA ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",RIVERA ST,SANTIAGO ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",SANTIAGO ST,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",SANTIAGO ST,TARAVAL ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",SUNSET BLVD,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",SUNSET BLVD,IRVING ST -,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",IRVING ST,JUDAH ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",JUDAH ST,KIRKHAM ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"",ORTEGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,
+IRVING ST,,,,,,
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",11SMF-0034,"Refer to Agent -Refer to Agent",
+"",37TH AVE,Intersection,Proposed Paving.,PAVING,"Brian DeGuzman -",Feb 22 2016-Aug 25 2017
+"",37TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",Feb 22 2016-Aug 25 2017
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+JUDAH ST,,,,,,
+"",37TH AVE,Intersection,Muni Tracks Present.,,,
+"",37TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",37TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",37TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"KIRKHAMST",,,,,,
+"",37TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",37TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",37TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jan 10 2014-Jan 10 2019
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+LAWTON ST,,,,,,
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+MORAGA ST,,,,,,
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",16TOC-0516,"707-326-1631 -707-326-1631",Feb  1 2016-Feb  5 2016
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"NORIEGAST",,,,,,
+"",37TH AVE,Intersection,Proposed Excavation.,PG&E,Aiman Abusaif -,Jan  1 2016-Jan  1 2017
+"",37TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+ORTEGA ST,,,,,,
+"",37TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Mechanical\Electrical",Debra Temple -,Nov  3 2014-Sep  9 2016
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"",37TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"PACHECOST",,,,,,
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0090,"Heather Cann:(415) 431-2950- (415) 431-2950",Sep  8 2015-Aug 31 2016
+"",37TH AVE,Intersection,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"QUINTARAST",,,,,,
+"",37TH AVE,Intersection,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",37TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  1 2016-Feb 16 2018
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+RIVERA ST,,,,,,
+"",37TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"SANTIAGOST",,,,,,
+"",37TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016
+"SUNSETBLVD",,,,,,
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",14B-0135,"(415) 431-2950- (415) 431-2950",Jan 15 2015-Jan 15 2016
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0056,"Refer to Agent -Refer to Agent",Jun  5 2015-Jun 19 2016
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0059,"(415) 431-2950- (415) 431-2950",Jun 17 2015-Jun 17 2016
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0073,"(415) 431-2950- (415) 431-2950",Aug  5 2015-Aug  5 2016
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0109,"Refer to Agent -Refer to Agent",Oct 21 2015-Oct 21 2016
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0114,"415-431-2950 -415-431-2950",Dec 11 2015-Dec 11 2016
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0120,"Refer to Agent -Refer to Agent",Dec  8 2015-Dec  8 2016
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0124,"(415) 431-2950- (415) 431-2950",Jan 16 2016-Jan 16 2017
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",15B-0131,"Refer to Agent -Refer to Agent",Feb 15 2016-May  9 2016
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0001,"Refer to Agent -Refer to Agent",Jan 26 2016-May 16 2016
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0003,"Refer to Agent -Refer to Agent",Feb 15 2016-May  9 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",37TH AVE,Intersection,"Conflict with existing Street UsePermit.",16B-0004,"Refer to Agent -Refer to Agent",Feb 15 2016-May  9 2016
+"",37TH AVE,Intersection,Proposed Paving.,PAVING,Richard Lee -,Feb  1 2018-Sep  1 2018
+"",37TH AVE,Intersection,Proposed Excavation.,"SF PUCProjectManagementBureau",Saed Toloui -,Jun 22 2015-Jun 21 2016

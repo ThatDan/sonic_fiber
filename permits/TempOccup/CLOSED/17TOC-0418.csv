@@ -1,0 +1,79 @@
+"ConditionsEvent/Operation:RovingPermit Linear Footage40Elements of OccupancyLine truck roving from utility pole to utility pole, placingaerial strand and fiber optic cable.  Roving work shouldnot exceed approximately 30 minutes at each location.From:2/1/2017 07:00AMStart Time7:00AMTo:2/10/2017 05:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, followthe tow-away sign activation and photo uploadprocess.  To tow a vehicle call the Tow Desk at (415)553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night NoiseWork Scope"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+3,15TH ST,MISSION ST,WIESE ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,WIESE ST,JULIAN AVE,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,JULIAN AVE,"CALEDONIAST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,CALEDONIA ST,VALENCIA ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,VALENCIA ST,ALBION ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+8,,ALBION ST,"GUERREROST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+2,,GUERRERO ST,RAMONA AVE,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+15,ALBION ST,15TH ST,16TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+12,CALEDONIA ST,END,15TH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,15TH ST,SPARROW ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+14,,SPARROW ST,16TH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+10,JULIAN AVE,14TH ST,15TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,15TH ST,16TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+1,RAMONA AVE,14TH ST,15TH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+9,WIESE ST,15TH ST,16TH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+"",
+""
+""
+""
+"",
+""
+""
+Job #,Activity,Contact,,
+"","- Bike Share Station.  Please contactconstruction@bayareabikeshare.com and bikeshare@sfmta.com cc tocoordinate.",,,
+Your Notes:,,,,
+Streets:,15TH ST / VALENCIA ST - ALBION ST -,,,
+16EXC-8077,"CableCom - Conflict with existing excavation permit.  It is mandatorythat you coordinate all work for joint paving.","650-670-6021 - 650-670-6021",,
+Your Notes:,,,,
+Streets:,JULIAN AVE / 15TH ST - 16TH ST -,,,
+17EXC-0287,"Zayo Group  - Conflict with existing excavation permit.  It is mandatorythat you coordinate all work for joint paving.","Brad Chandler 612-910-0127 - 9255959149",,
+Your Notes:,,,,
+Streets:,15TH ST / VALENCIA ST - ALBION ST -,,,
+"",
+permit,Dates,Agency,Contact,
+17TOC-0419,2/6/2017 07:00AM - 2/10/2017 05:00PM,"Sonic Telecom, LLC","Gabe Eggers JoshuaMackey 707-791-5618geggers@sonic.net",
+StreetSpace,,,,
+Your Notes:,,,,
+Streets:,"SHOTWELL ST: 16TH ST to 17TH ST (200 - 299),SHOTWELL ST: 15TH ST to 16TH ST (100 -199),SHOTWELL ST: 14TH ST to 15TH ST (1 - 99),NATOMA ST: 14TH ST to 15TH ST (1300 - 1399),MINNAST: 14TH ST to 15TH ST (1300 - 1399),15TH ST: MISSION ST to WIESE ST (1600 - 1637),15TH ST: MINNAST to MISSION ST (1572 - 1599),15TH ST: CAPP ST to MINNA ST (1548 - 1579),15TH ST: NATOMA ST toCAPP ST (1530 - 1559),15TH ST: SOUTH VAN NESS AVE to NATOMA ST (1500 - 1539),15TH ST:SHOTWELL ST to SOUTH VAN NESS AVE (1439 - 1499),15TH ST: FOLSOM ST to SHOTWELL ST (1400 -1448),15TH ST: FOLSOM ST to SHOTWELL ST (1400 - 1448),15TH ST: HARRISON ST to FOLSOM ST(1300 - 1399)",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+15TH ST,,,,,,
+"",CALEDONIA ST,VALENCIA ST -,"Banners are allowed on thisstreet",,,
+"",MISSION ST,WIESE ST -,"Banners are allowed on thisstreet",,,
+"",MISSION ST,WIESE ST -,"Red light photo enforcementequipment located nearintersection.  Excavating partiesare responsible for any damageto these facilities incurred bytheir excavation activity.  Formore information, contactDavid Valle-Schwenk of DPT at415-554-2366.",,,
+"",WIESE ST,JULIAN AVE -,"Banners are allowed on thisstreet",,,
+"",VALENCIA ST,ALBION ST -,"Conflict with existing Street UsePermit.",12SMF-0067,"Refer to Agent -Refer to Agent",
+"",MISSION ST,WIESE ST -,"Conflict with existing Street UsePermit.",16ECN-0398,"415-695-3500 -415-695-3500",Jun  7 2016-
+"",MISSION ST,WIESE ST -,"Conflict with existing Street UsePermit.",17TOC-0419,"Joshua Mackey707-791-5618 -(707) 326-1631",Feb  6 2017-Feb 10 2017
+"",GUERRERO ST,RAMONA AVE -,Proposed Paving.,PAVING,Allison Nguyen -,Oct 31 2016-Oct 30 2018
+"",GUERRERO ST,RAMONA AVE -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+ALBION ST,,,,,,
+"",15TH ST,16TH ST -,"Banners are allowed on thisstreet",,,
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",14ECN-0124,"800-743-5000 -800-743-5000",Jan 21 2014-
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",14ECN-1291,"Refer to Agent550-4900 -Refer to Agent550-4900",Nov 21 2014-
+"",15TH ST,16TH ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",,
+"CALEDONIAST",,,,,,
+"",END,15TH ST -,"Banners are allowed on thisstreet",,,
+"",SPARROW ST,16TH ST -,"Banners are allowed on thisstreet",,,
+"",SPARROW ST,16TH ST -,"Conflict with existing Street UsePermit.",16MSE-0354,"860-490-3196 -860-490-3196",
+JULIAN AVE,,,,,,
+"",14TH ST,15TH ST -,"Banners are allowed on thisstreet",,,
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",11V-0037,"Refer to Agent -Refer to Agent",
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",13V-0007,"Refer to Agent -Refer to Agent",
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",14ECN-0112,"800-743-5000 -800-743-5000",Jan 16 2014-
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",14TH ST,15TH ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",15TH ST,16TH ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"RAMONAAVE",,,,,,
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",15MSE-0311,"415-282-1481 -415-282-1481",
+"",14TH ST,15TH ST -,"Please see special pavingrequirements for MoratoriumStreets.",2635J,,Apr 11 2016-Apr 11 2021
+"",14TH ST,15TH ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",

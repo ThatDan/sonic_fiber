@@ -1,0 +1,42 @@
+"ConditionsAll existing traffic and parking controls and restrictionsshall apply without a Special Traffic Permit issued bySFMTA. Please check Blue Book for traffic restrictions.To obtain a Blue Book, contact SFMTA at 415-701-4673.Pursuant to Article 29 of the San Francisco PoliceCode, a Night Noise Permit for operation in the PublicRight-of-Way shall be required for work that createsany noise 5dBA above the ambient noise level of thatarea at the nearest property plane.No noise permitted between the hours of 7:00PM and7:00AM.Event/Operation:Roving OperationPermit Linear Footage40Elements of OccupancyUtility truck roving from utility pole to utility pole placingaerial strand and fiber optic cable. Roving work not toexceed approximately 30 minutes at each location.From:4/17/2017 07:00AMStart Time07:00AMTo:4/21/2017 05:00PMEnd Time05:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, followthe tow-away sign activation and photo uploadprocess.  To tow a vehicle call the Tow Desk at (415)553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours07:00AM Thru 05:00PMMeter Segment(s)Night NoiseWork Scope"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,LUCKY ST,24TH ST,25TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+2,,25TH ST,26TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+3,TREAT AVE,20TH ST,21ST ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,21ST ST,22ND ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,22ND ST,23RD ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,23RD ST,24TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,24TH ST,25TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+8,,25TH ST,"26TH ST \TREAT WAY",West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+LUCKY ST,,,,,,
+"",24TH ST,25TH ST -,"Banners are allowed on thisstreet",,,
+"",25TH ST,26TH ST -,"Conflict with existing Street UsePermit.",17CN-0034,"Refer to Agent -Refer to Agent",
+"",25TH ST,26TH ST -,"Please see special pavingrequirements for MoratoriumStreets.",2635J,,Oct  1 2015-Oct  1 2020
+"",24TH ST,25TH ST -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Oct 31 2016-Oct 30 2018
+TREAT AVE,,,,,,
+"",20TH ST,21ST ST -,MFF Allowed,,,
+"",20TH ST,21ST ST -,MFF Restricted near schools,,,
+"",21ST ST,22ND ST -,MFF Allowed,,,
+"",21ST ST,22ND ST -,MFF Restricted near schools,,,
+"",22ND ST,23RD ST -,MFF Allowed,,,
+"",23RD ST,24TH ST -,Parking Meters Installed,,,
+"",24TH ST,25TH ST -,Parking Meters Installed,,,
+"",22ND ST,23RD ST -,"Banners are allowed on thisstreet",,,
+"",23RD ST,24TH ST -,"Banners are allowed on thisstreet",,,
+"",24TH ST,25TH ST -,"Banners are allowed on thisstreet",,,
+"",21ST ST,22ND ST -,"Conflict with existing Street UsePermit.",13ECN-0780,"800-743-5000 -800-743-5000",Jul 16 2013-
+"",20TH ST,21ST ST -,"Conflict with existing Street UsePermit.",13MSE-0064,"Refer to Agent -Refer to Agent",
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",13SMF-0076,"Refer to Agent -Refer to Agent",
+"",23RD ST,24TH ST -,"Conflict with existing Street UsePermit.",15ECN-1020,"415-695-3500 -415-695-3500",Oct 30 2015-
+"",20TH ST,21ST ST -,"Conflict with existing Street UsePermit.",15ECN-1217,"Refer to Agent415 550 4900 -415-550-4900",Dec 21 2015-
+"",20TH ST,21ST ST -,"Conflict with existing Street UsePermit.",15ECN-1218,"Refer to Agent415 550 4900 -415-550-4900",Dec 21 2015-
+"",20TH ST,21ST ST -,"Conflict with existing Street UsePermit.",16CN-0008,"Refer to Agent -Refer to Agent",
+"",21ST ST,22ND ST -,"Conflict with existing Street UsePermit.",16IE-0511,"Refer to Agent -Refer to Agent",May  2 2017-May  1 2018
+"",22ND ST,23RD ST -,"Conflict with existing Street UsePermit.",17MSE-0370,"415-338-8080 -415-338-8080",
+"",21ST ST,22ND ST -,Sidewalk Repair scheduled,18SWR-0070,"415-577-4577 -415-577-4577",Mar 16 2018-Apr 15 2018
+"",21ST ST,22ND ST -,Sidewalk Repair scheduled,18SWR-0071,"415-577-4577 -415-577-4577",Mar 16 2018-Apr 15 2018
+"",20TH ST,21ST ST -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Oct 31 2016-Oct 30 2018
+"",22ND ST,23RD ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",

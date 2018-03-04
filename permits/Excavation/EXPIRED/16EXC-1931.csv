@@ -1,0 +1,62 @@
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+9,45TH AVE,SANTIAGO ST,TARAVAL ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+"",Total,,,,,0,9,10,
+8,46TH AVE,LINCOLN WAY,IRVING ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+7,,SANTIAGO ST,TARAVAL ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+"",Total,,,,,0,18,20,
+5,48TH AVE,LINCOLN WAY,IRVING ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+3,,QUINTARA ST,RIVERA ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+4,,RIVERA ST,SANTIAGO ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+"",Total,,,,,0,27,30,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,GREAT HWY,QUINTARA ST,RIVERA ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+"",Total,,,,,0,9,10,
+12,KIRKHAM ST,48TH AVE,"GREAT HWY \LA PLAYA",North,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+"",Total,,,,,0,9,10,
+2,LA PLAYA,"LINCOLN WAY \MARTIN LUTHERKING JR DR",IRVING ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+"",Total,,,,,0,9,10,
+6,LINCOLN WAY,47TH AVE,Intersection,North,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,0,10,
+"",Total,,,,,0,0,10,
+10,QUINTARA ST,41ST AVE,42ND AVE,North,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+"",Total,,,,,0,9,10,
+11,RIVERA ST,42ND AVE,43RD AVE,North,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+"",Total,,,,,0,9,10,
+Job #,Activity,Contact,,
+16EXC-0612,"Shaw Pipeline Inc. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","Andrew Mellon (415)740-8008 - 415-716-8363",,
+Your Notes:,,,,
+Streets:,46TH AVE / LINCOLN WAY - IRVING ST -,,,
+"",
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+46TH AVE,,,,,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",12ECN-0544,"800-743-5000 -800-743-5000",May  9 2012-
+"",SANTIAGO ST,TARAVAL ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2015-Jun 30 2016
+"",SANTIAGO ST,TARAVAL ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+47TH AVE,,,,,,
+"",LINCOLN WAY,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",LINCOLN WAY,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1787J,,Oct 28 2011-Oct 28 2016
+48TH AVE,,,,,,
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",15ECN-0147,"800-743-5000 -800-743-5000",Feb  9 2015-
+"",QUINTARA ST,RIVERA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+GREAT HWY,,,,,,
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",12ECN-0247,"800-743-5000 -800-743-5000",Feb 21 2012-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",15B-0023,"Refer to Agent -Refer to Agent",Apr  1 2015-Apr  1 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",QUINTARA ST,RIVERA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"KIRKHAMST",,,,,,
+"",48TH AVE,"GREAT HWY \ LAPLAYA -","Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",48TH AVE,"GREAT HWY \ LAPLAYA -","Conflict with existing Street UsePermit.",12ECN-1067,"800-743-5000 -800-743-5000",Oct 16 2012-
+"",48TH AVE,"GREAT HWY \ LAPLAYA -","Conflict with existing Street UsePermit.",13ECN-0749,"800-743-5000 -800-743-5000",Jul  9 2013-
+LA PLAYA,,,,,,
+"","LINCOLN WAY \MARTIN LUTHERKING JR DR",IRVING ST -,"Banners are allowed on thisstreet",,,
+"","LINCOLN WAY \MARTIN LUTHERKING JR DR",IRVING ST -,"Conflict with existing Street UsePermit.",11BW-0062,"Refer to Agent -Refer to Agent",
+"LINCOLNWAY",,,,,,
+"",47TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",47TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1787J,,Oct 28 2011-Oct 28 2016
+RIVERA ST,,,,,,
+"",42ND AVE,43RD AVE -,"Conflict with existing Street UsePermit.",11SMF-0039,"Refer to Agent -Refer to Agent",

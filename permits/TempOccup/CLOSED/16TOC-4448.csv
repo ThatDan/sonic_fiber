@@ -1,0 +1,830 @@
+"ConditionsEvent/Operation:Permit Linear Footage17863Elements of OccupancyMoving from utility pole to utility pole placing aerialstrand and fiber optic cable. Work will not exceed30min per location.From:7/18/2016 7:00AMStart Time7:00AMTo:7/29/2016 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, call(415) 554-5824 a minimum of 72 hours prior tooccupancy.  To tow a vehicle call the Tow Desk at(415) 553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+26,18TH AVE,JUDAH ST,KIRKHAM ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+27,,KIRKHAM ST,LAWTON ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+29,,LAWTON ST,MORAGA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+31,,MORAGA ST,NORIEGA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+33,,NORIEGA ST,ORTEGA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+34,,ORTEGA ST,PACHECO ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+36,,PACHECO ST,QUINTARA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+44,18TH AVE,QUINTARA ST,RIVERA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+46,,RIVERA ST,SANTIAGO ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+48,,SANTIAGO ST,TARAVAL ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+50,,TARAVAL ST,ULLOA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+51,,ULLOA ST,VICENTE ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+53,,VICENTE ST,WAWONA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+2,KIRKHAM ST,08TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,09TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,10TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+8,KIRKHAM ST,11TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+10,,12TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+12,,FUNSTON AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+16,,15TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+18,,16TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+20,,17TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+22,,18TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+24,,19TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+1,,07TH AVE,08TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+3,KIRKHAM ST,08TH AVE,09TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,09TH AVE,10TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,10TH AVE,11TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+9,,11TH AVE,12TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,12TH AVE,"FUNSTONAVE",Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,FUNSTON AVE,"14TH AVE \LURLINE ST",Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+15,,"14TH AVE \LURLINE ST",15TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+17,,15TH AVE,16TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+19,,16TH AVE,17TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+21,KIRKHAM ST,17TH AVE,18TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+23,,18TH AVE,19TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+25,,19TH AVE,20TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+28,LAWTON ST,18TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+14,LURLINE ST,"14TH AVE \KIRKHAM ST",Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+30,MORAGA ST,18TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+32,NORIEGA ST,18TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+35,PACHECO ST,18TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+37,QUINTARA ST,"15TH AVE \FANNING WAY",16TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+39,,16TH AVE,17TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+41,,17TH AVE,18TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+43,,18TH AVE,19TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+38,,16TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+40,,17TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+42,,18TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+45,RIVERA ST,18TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+47,SANTIAGO ST,18TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+49,TARAVAL ST,18TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+65,ULLOA ST,17TH AVE,18TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+67,,18TH AVE,19TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+69,,19TH AVE,20TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+71,,20TH AVE,21ST AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+73,,21ST AVE,22ND AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+75,,22ND AVE,23RD AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+77,,23RD AVE,24TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+79,,24TH AVE,25TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+81,ULLOA ST,25TH AVE,26TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+83,,26TH AVE,27TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+85,,27TH AVE,28TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+87,,28TH AVE,29TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+89,,29TH AVE,30TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+91,,30TH AVE,31ST AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+93,,31ST AVE,32ND AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+95,,32ND AVE,33RD AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+97,,33RD AVE,34TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+99,ULLOA ST,34TH AVE,35TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+101,,35TH AVE,36TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+103,,36TH AVE,SUNSET BLVD,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+105,,SUNSET BLVD,37TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+107,,37TH AVE,38TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+109,,38TH AVE,39TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+111,,39TH AVE,40TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+113,,40TH AVE,41ST AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+115,,41ST AVE,42ND AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+117,ULLOA ST,42ND AVE,43RD AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+119,,43RD AVE,44TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+121,,44TH AVE,45TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+123,,45TH AVE,46TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+125,,46TH AVE,47TH AVE,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+127,,47TH AVE,"48TH AVE \GREAT HWY",Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+66,,18TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+68,,19TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+70,,20TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+72,ULLOA ST,21ST AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+74,,22ND AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+76,,23RD AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+78,,24TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+80,,25TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+82,,26TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+84,,27TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+86,,28TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+88,,29TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+90,ULLOA ST,30TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+92,,31ST AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+94,,32ND AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+96,,33RD AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+98,,34TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+100,,35TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+102,,36TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+106,,37TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+108,,38TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+104,ULLOA ST,SUNSET BLVD,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+110,,39TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+112,,40TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+114,,41ST AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+116,,42ND AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+118,,43RD AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+120,,44TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+122,,45TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+124,,46TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+126,ULLOA ST,47TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+54,VICENTE ST,"FOREST SIDEAVE",14TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+56,,14TH AVE,15TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+58,,15TH AVE,16TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+60,,16TH AVE,17TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+62,,17TH AVE,18TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+64,,18TH AVE,19TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+55,,14TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+57,,15TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+59,VICENTE ST,16TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+61,,17TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+63,,18TH AVE,Intersection,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+52,,18TH AVE,Intersection,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+"","- Under G095 requirement, Contractor shall contact Muni OverheadLine Division of any work 10 feet in horizontal or vertical direction ofoverhead lines. Contact: Clifford Smethurst @Clifford.Smethurst@sfmta.com, (415) 554-9220.",,,
+Your Notes:,,,,
+Streets:,09TH AVE / KIRKHAM ST - Intersection,,,
+17EXC-1100,"JMB Construction, Inc. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","Refer to Agent - Referto Agent",,
+Your Notes:,,,,
+Streets:,36TH AVE / ULLOA ST - Intersection,,,
+17EXC-1647,"Shaw Pipeline Inc. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-740-8008 - 415-740-8008",,
+Your Notes:,,,,
+Streets:,14TH AVE / VICENTE ST - Intersection,,,
+17EXC-6603,"Harty Pipelines, Inc. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","650-697-8845 - 650-697-8845",,
+Your Notes:,,,,
+Streets:,18TH AVE / ORTEGA ST - PACHECO ST -,,,
+17EXC-6755,"Esquivel Grading & Paving, Inc. - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","(415) 354-4870 - (415)354-4870",,
+Your Notes:,,,,
+Streets:,18TH AVE / KIRKHAM ST - LAWTON ST -,,,
+18EXC-0686,"J. Flores Construction Co. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","Oscar Delgadillo @510-867-0073 & SF-PUC - Inspect - (415)337-2934",,
+Your Notes:,,,,
+Streets:,18TH AVE / LAWTON ST - MORAGA ST -,,,
+18EXC-0876,"J. Flores Construction Co. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","Oscar Delgadillo 510-867-0073 & Insp JerryRivera  - (415) 337-2934",,
+Your Notes:,,,,
+Streets:,ULLOA ST / 29TH AVE - 30TH AVE -,,,
+18EXC-0956,"A. Ruiz Construction Co. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","Sarah Macapagal (415)310-0157 - (415) 647-4010",,
+Your Notes:,,,,
+Streets:,14TH AVE / VICENTE ST - Intersection,,,
+2467J,"PW Anza St Infrastructure Improvements and Westside Recycled WaterPipeline - Curb ramp project at intersection, see contact information forrequired coordination.","Genevie Fong -Genevie.Fong@sfdpw.org",,
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+""
+"",
+""
+""
+""
+"",
+""
+""
+"",
+""
+"",
+""
+""
+Your Notes:,,,,
+Streets:,36TH AVE / ULLOA ST - Intersection,,,
+2494J,"PW Lawton St Infrastructure Improvements - Curb ramp project atintersection, see contact information for required coordination.","Brian DeGuzman -Brian.DeGuzman@sfdpw.org",,
+Your Notes:,,,,
+Streets:,18TH AVE / LAWTON ST - Intersection,,,
+2534J,"PW As Needed no11 Infrastructure Improvements - Curb ramp projectat intersection, see contact information for required coordination.","Isabel Liang -Isabel.Liang@sfdpw.org",,
+Your Notes:,,,,
+Streets:,28TH AVE / ULLOA ST - Intersection,,,
+2652J,"PW 19th Ave Infrastructure Improvements - Curb ramp project atintersection, see contact information for required coordination.","Josef Munoz -Josef.Munoz@sfdpw.org",,
+Your Notes:,,,,
+Streets:,19TH AVE / KIRKHAM ST - Intersection,,,
+2794J,"PW Various Locations no27 Infrastructure Improvements - Curb rampproject at intersection, see contact information for requiredcoordination.","Terence Xiao -Terence.Xiao@sfdpw.org",,
+Your Notes:,,,,
+Streets:,18TH AVE / PACHECO ST - Intersection,,,
+2815J,"MTA L Taraval Transit Improvement Project - Curb ramp project atintersection, see contact information for required coordination.","Alfredo Cuellar -Alfredo.Cuellar@sfdpw.org",,
+Your Notes:,,,,
+Streets:,18TH AVE / TARAVAL ST - Intersection,,,
+"",
+""
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+08TH AVE,,,,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 29 2014-Jul 29 2019
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+09TH AVE,,,,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",12SMF-0001,"Refer to Agent -Refer to Agent",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",12TS-0125,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",15ECN-0508,"Refer to Agent415-550-4900 -415-550-4900",May 28 2015-
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 29 2014-Jul 29 2019
+10TH AVE,,,,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",12SMF-0003,"Refer to Agent -Refer to Agent",
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 29 2014-Jul 29 2019
+"",KIRKHAM ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Josephine Wang-Josephine.Wang@sfdpw.org",Feb 25 2019-Feb 25 2020
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+11TH AVE,,,,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 15 2014-Jul 15 2019
+12TH AVE,,,,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 15 2014-Jul 15 2019
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Brass Disk -no well INSIDEWALKAT SECORNER",,
+"",KIRKHAM ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Josephine Wang-Josephine.Wang@sfdpw.org",Feb 25 2019-Feb 25 2020
+14TH AVE,,,,,,
+"","KIRKHAM ST \LURLINE ST",Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"","KIRKHAM ST \LURLINE ST",Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",VICENTE ST,Intersection,"Conflict with existing Street UsePermit.",12ECN-0556,"800-743-5000 -800-743-5000",May 16 2012-
+"",VICENTE ST,Intersection,"Conflict with existing Street UsePermit.",15ECN-0964,"Refer to Agent415-550-4900 -415-550-4900",Oct  6 2015-
+"","KIRKHAM ST \LURLINE ST",Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"",VICENTE ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Jan  1 2016-Jan  1 2021
+"","KIRKHAM ST \LURLINE ST",Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Brass Disk -no well INCONCRETESIDEWALK ATSE CO",,
+"",VICENTE ST,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Sep 14 2018-Jan  1 2021
+"",VICENTE ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"","KIRKHAM ST \LURLINE ST",Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",VICENTE ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+15TH AVE,,,,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"",VICENTE ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Jan  1 2016-Jan  1 2021
+"",VICENTE ST,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Feb  1 2019-Feb  1 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+16TH AVE,,,,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",12ECN-0346,"Refer toAgent5504900 -Refer toAgent5504900",Mar 26 2012-
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",QUINTARA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",VICENTE ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","WellMonument -Stone orConcreteMonumentwith Le",,
+17TH AVE,,,,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul  1 2014-Jul  1 2019
+"",VICENTE ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Aug  4 2016-Aug  4 2021
+"",QUINTARA ST,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",VICENTE ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Matthew Lim -matthew.lim@sfdpw.org",May  4 2015-Aug 31 2018
+18TH AVE,,,,,,
+"",QUINTARA ST,RIVERA ST -,MFF Allowed,,,
+"",RIVERA ST,SANTIAGO ST -,MFF Allowed,,,
+"",SANTIAGO ST,TARAVAL ST -,MFF Allowed,,,
+"",SANTIAGO ST,TARAVAL ST -,Parking Meters Installed,,,
+"",TARAVAL ST,ULLOA ST -,MFF Allowed,,,
+"",TARAVAL ST,ULLOA ST -,Parking Meters Installed,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",TARAVAL ST,Intersection,Muni Tracks Present.,,,
+"",TARAVAL ST,ULLOA ST -,"Banners are allowed on thisstreet",,,
+"",ULLOA ST,Intersection,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",VICENTE ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",TARAVAL ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",VICENTE ST,Intersection,"Conflict with existing Street UsePermit.",11SMF-0089,"Refer to Agent -Refer to Agent",
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",12CN-0167,"Refer to Agent -Refer to Agent",
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",12ECN-0601,"5504900 -5504900",Jun  5 2012-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",12ECN-0883,"Refer toAgent5504900 -Refer toAgent5504900",Aug 23 2012-
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",12ECN-1043,"800-743-5000 -800-743-5000",Oct  5 2012-
+"",NORIEGA ST,ORTEGA ST -,"Conflict with existing Street UsePermit.",12SW-0050,"Refer to Agent -Refer to Agent",
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",13ECN-1193,"800-743-5000 -800-743-5000",Oct 23 2013-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",13ECN-1313,"800-743-5000 -800-743-5000",Nov  7 2013-
+"",JUDAH ST,KIRKHAM ST -,"Conflict with existing Street UsePermit.",13ECN-1323,"800-743-5000 -800-743-5000",Nov  9 2013-
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",14ECN-0249,"800-743-5000 -800-743-5000",Feb 28 2014-
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",14ECN-0768,"800-743-5000 -800-743-5000",Jul  9 2014-
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",14ECN-1170,"800-743-5000 -800-743-5000",Oct 21 2014-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",14ECN-1180,"800-743-5000 -800-743-5000",Oct 24 2014-
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",15ECN-0643,"415-695-3500 -415-695-3500",Jul  3 2015-
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",15ECN-1145,"415-695-3500 -415-695-3500",Dec  2 2015-
+"",MORAGA ST,Intersection,"Conflict with existing Street UsePermit.",16ECN-0171,"Refer to Agent415-550-4900 -415-550-4900",Feb 27 2016-
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",16MSE-0406,"415-552-4900 -415-552-4900",
+"",KIRKHAM ST,LAWTON ST -,"Conflict with existing Street UsePermit.",17CN-0290,"Refer to Agent -Refer to Agent",
+"",KIRKHAM ST,LAWTON ST -,"Conflict with existing Street UsePermit.",17MSE-0063,"415-378-1828 -415-378-1828",
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul  1 2014-Jul  1 2019
+"",VICENTE ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Aug  4 2016-Aug  4 2021
+"",SANTIAGO ST,TARAVAL ST -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Oct 31 2016-Oct 30 2018
+"",TARAVAL ST,Intersection,Proposed Paving.,PAVING,"Alfredo Cuellar -alfredo.cuellar@sfdpw.org",Oct 25 2018-Oct 26 2020
+"",LAWTON ST,Intersection,Proposed Paving.,PAVING,"Brian DeGuzman -brian.deguzman@sfdpw.org",Nov 28 2016-Apr 12 2018
+"",VICENTE ST,WAWONA ST -,Proposed Paving.,PAVING,"Edmund Lee -edmund.lee@sfdpw.org",Jul  3 2017-Jun 29 2018
+"",RIVERA ST,SANTIAGO ST -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Jul  1 2017-Jun 30 2018
+"",PACHECO ST,Intersection,Proposed Paving.,PAVING,"Terence Xiao -Terence.Xiao@sfdpw.org",Jan  8 2018-Feb 23 2019
+"",JUDAH ST,KIRKHAM ST -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",KIRKHAM ST,LAWTON ST -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",LAWTON ST,MORAGA ST -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",MORAGA ST,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",MORAGA ST,NORIEGA ST -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",NORIEGA ST,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",PACHECO ST,QUINTARA ST -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",QUINTARA ST,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",QUINTARA ST,RIVERA ST -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",RIVERA ST,SANTIAGO ST -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",MORAGA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2019-Dec 31 2019
+"",MORAGA ST,NORIEGA ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2019-Dec 31 2019
+"",NORIEGA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2019-Dec 31 2019
+"",SANTIAGO ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2020-Dec 31 2020
+"",LAWTON ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John Moala -john.moala@sfdpw.org",Nov 28 2016-Apr 12 2018
+"",LAWTON ST,MORAGA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Kaho Kong -Kaho.Kong@sfdpw.org",Oct 24 2017-Oct 25 2018
+"",TARAVAL ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Isabella Li -isabella.li@sfdpw.org",Nov 26 2018-Nov 27 2020
+"",NORIEGA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-iqbalbhai.dhapa@sfdpw.org",Jul  1 2019-Feb 15 2021
+"",TARAVAL ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Alfredo Cuellar -alfredo.cuellar@sfdpw.org",May  1 2018-May  1 2021
+"",PACHECO ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Terence Xiao -Terence.Xiao@sfdpw.org",Jan  8 2018-Feb 23 2019
+"",ULLOA ST,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Feb  1 2019-Feb  1 2020
+"",TARAVAL ST,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Sep 14 2018-Jan  1 2021
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",QUINTARA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",RIVERA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",SANTIAGO ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",VICENTE ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",NORIEGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",MORAGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",PACHECO ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",TARAVAL ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","WellMonument -Stone orConcreteMonumentwith Le",,
+"",LAWTON ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","WellMonument -Stone orConcreteMonumentwith Le",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+19TH AVE,,,,,,
+"",KIRKHAM ST,Intersection,"Under G095 requirement,Contractor shall contact MuniOverhead Line Division of anywork 10 feet in horizontal orvertical direction of overheadlines. Contact: CliffordSmethurst @Clifford.Smethurst@sfmta.com,(415) 554-9220",,,
+"",ULLOA ST,Intersection,"Under G095 requirement,Contractor shall contact MuniOverhead Line Division of anywork 10 feet in horizontal orvertical direction of overheadlines. Contact: CliffordSmethurst @Clifford.Smethurst@sfmta.com,(415) 554-9220",,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",ULLOA ST,Intersection,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",17B-0045,"Heather Cann:(415) 431-2950- (415) 431-2950",Apr 16 2017-Apr 16 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0045,"Heather Cann:(415) 431-2950- (415) 431-2950",Apr 16 2017-Apr 16 2018
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",17B-0064,"Refer to Agent -Refer to Agent",Jun 15 2017-May  1 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0064,"Refer to Agent -Refer to Agent",Jun 15 2017-May  1 2018
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",17B-0072,"Refer to Agent -Refer to Agent",Jun 10 2017-Jun  1 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0072,"Refer to Agent -Refer to Agent",Jun 10 2017-Jun  1 2018
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",17B-0076,"Refer to Agent -Refer to Agent",Jul 31 2017-Jun 30 2018
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0123,"Refer to Agent -Refer to Agent",Jan 20 2018-May 28 2018
+"",KIRKHAM ST,Intersection,"Conflict with existing Street UsePermit.",17B-0144,"Andrea Bellas -415 431 2950 x12 - 415-431-2950",Dec 15 2017-Dec 15 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0144,"Andrea Bellas -415 431 2950 x12 - 415-431-2950",Dec 15 2017-Dec 15 2018
+"",KIRKHAM ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Benny Ng -benny.ng@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",ULLOA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Benny Ng -benny.ng@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",KIRKHAM ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",ULLOA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",ULLOA ST,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Feb  1 2019-Feb  1 2020
+"",KIRKHAM ST,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",May 11 2018-Mar 11 2020
+"",ULLOA ST,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",May 11 2018-Mar 11 2020
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -with Washer",,
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -with Washer",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+20TH AVE,,,,,,
+"",ULLOA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",ULLOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2061J,,May 20 2014-May 20 2019
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+21ST AVE,,,,,,
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",11WR-0088,"NOC 866-639-8460 - NOC 866-639-8460",
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","WellMonument -Stone orConcreteMonumentwith Le",,
+22ND AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",ULLOA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-iqbalbhai.dhapa@sfdpw.org",Jul  2 2018-Feb 17 2020
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+24TH AVE,,,,,,
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+25TH AVE,,,,,,
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",14SMF-0059,"Refer to Agent -Refer to Agent",
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+26TH AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+27TH AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+28TH AVE,,,,,,
+"",ULLOA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2833J,,Apr 26 2017-Apr 26 2022
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+30TH AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+31ST AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+32ND AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+34TH AVE,,,,,,
+"",ULLOA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+35TH AVE,,,,,,
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",11WR-0086,"NOC 866-639-8460 - NOC 866-639-8460",
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+36TH AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Genevie Fong -genevie.fong@sfdpw.org",Jan 31 2017-Jun 15 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ULLOA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+38TH AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Dec 10 2018-Jul  6 2021
+41ST AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Feb 17 2020-Feb 17 2021
+42ND AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2018-Dec 31 2018
+44TH AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2018-Dec 31 2018
+46TH AVE,,,,,,
+"",ULLOA ST,Intersection,Muni Tracks Present.,,,
+"",ULLOA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2018-Dec 31 2018
+"",ULLOA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Clarissa Chin -clarissa.chin@sfdpw.org",Jul  2 2018-Dec 19 2018
+47TH AVE,,,,,,
+"",ULLOA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Clarissa Chin -clarissa.chin@sfdpw.org",Jul  2 2018-Dec 19 2018
+"FUNSTONAVE",,,,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",KIRKHAM ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 15 2014-Jul 15 2019
+"KIRKHAMST",,,,,,
+"",07TH AVE,08TH AVE -,":  Bike counter or bikebarometer. Excavating partiesare responsible for any damageto these facilities incurred bytheir excavation activity. Formore information, or acomplete updated list of bikecounter locations, pleasecontact Jeffrey Banks of SFMTAat (415) 701-5331 orjeffrey.banks@sfmta.com.",,,
+"",10TH AVE,11TH AVE -,MFF Restricted near schools,,,
+"",11TH AVE,12TH AVE -,MFF Restricted near schools,,,
+"",12TH AVE,FUNSTON AVE -,MFF Restricted near schools,,,
+"","14TH AVE \LURLINE ST",15TH AVE -,MFF Restricted near schools,,,
+"",19TH AVE,Intersection,"Under G095 requirement,Contractor shall contact MuniOverhead Line Division of anywork 10 feet in horizontal orvertical direction of overheadlines. Contact: CliffordSmethurst @Clifford.Smethurst@sfmta.com,(415) 554-9220",,,
+"",FUNSTON AVE,"14TH AVE \LURLINE ST -",MFF Restricted near schools,,,
+"",07TH AVE,08TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",08TH AVE,09TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",08TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",09TH AVE,10TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",09TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",10TH AVE,11TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",10TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",11TH AVE,12TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",11TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",12TH AVE,FUNSTON AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",12TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"","14TH AVE \LURLINE ST",15TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"","14TH AVE \LURLINE ST",Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",15TH AVE,16TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",15TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",16TH AVE,17TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",16TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",17TH AVE,18TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",17TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",18TH AVE,19TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",18TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",19TH AVE,20TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",19TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",19TH AVE,Intersection,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",FUNSTON AVE,"14TH AVE \LURLINE ST -","Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",FUNSTON AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",08TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",09TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",10TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",11TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",12TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",FUNSTON AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"","14TH AVE \LURLINE ST",Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",15TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",16TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",17TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",16TH AVE,Intersection,"Conflict with existing Street UsePermit.",12ECN-0346,"Refer toAgent5504900 -Refer toAgent5504900",Mar 26 2012-
+"",09TH AVE,10TH AVE -,"Conflict with existing Street UsePermit.",12SMF-0001,"Refer to Agent -Refer to Agent",
+"",09TH AVE,Intersection,"Conflict with existing Street UsePermit.",12SMF-0001,"Refer to Agent -Refer to Agent",
+"",10TH AVE,Intersection,"Conflict with existing Street UsePermit.",12SMF-0003,"Refer to Agent -Refer to Agent",
+"",09TH AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0125,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",10TH AVE,11TH AVE -,"Conflict with existing Street UsePermit.",13ECN-0807,"800-743-5000 -800-743-5000",Jul 27 2013-
+"",17TH AVE,18TH AVE -,"Conflict with existing Street UsePermit.",14ECN-0004,"800-743-5000 -800-743-5000",Dec 14 2013-
+"",09TH AVE,10TH AVE -,"Conflict with existing Street UsePermit.",14ECN-0413,"800-743-5000 -800-743-5000",Apr  7 2014-
+"",07TH AVE,08TH AVE -,"Conflict with existing Street UsePermit.",14ECN-0539,"800-743-5000 -800-743-5000",May  9 2014-
+"",08TH AVE,09TH AVE -,"Conflict with existing Street UsePermit.",14ECN-0797,"800-743-5000 -800-743-5000",Jul 16 2014-
+"",09TH AVE,Intersection,"Conflict with existing Street UsePermit.",15ECN-0508,"Refer to Agent415-550-4900 -415-550-4900",May 28 2015-
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0045,"Heather Cann:(415) 431-2950- (415) 431-2950",Apr 16 2017-Apr 16 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0064,"Refer to Agent -Refer to Agent",Jun 15 2017-May  1 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0072,"Refer to Agent -Refer to Agent",Jun 10 2017-Jun  1 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0076,"Refer to Agent -Refer to Agent",Jul 31 2017-Jun 30 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0144,"Andrea Bellas -415 431 2950 x12 - 415-431-2950",Dec 15 2017-Dec 15 2018
+"",16TH AVE,17TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul  1 2014-Jul  1 2019
+"",17TH AVE,18TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul  1 2014-Jul  1 2019
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",17TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul  1 2014-Jul  1 2019
+"",18TH AVE,19TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul  1 2014-Jul  1 2019
+"",18TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul  1 2014-Jul  1 2019
+"","14TH AVE \LURLINE ST",15TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"","14TH AVE \LURLINE ST",Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"",15TH AVE,16TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"",15TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"",16TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"",FUNSTON AVE,"14TH AVE \LURLINE ST -","Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"",10TH AVE,11TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 15 2014-Jul 15 2019
+"",11TH AVE,12TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 15 2014-Jul 15 2019
+"",11TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 15 2014-Jul 15 2019
+"",12TH AVE,FUNSTON AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 15 2014-Jul 15 2019
+"",12TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 15 2014-Jul 15 2019
+"",FUNSTON AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 15 2014-Jul 15 2019
+"",07TH AVE,08TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 29 2014-Jul 29 2019
+"",08TH AVE,09TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 29 2014-Jul 29 2019
+"",08TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 29 2014-Jul 29 2019
+"",09TH AVE,10TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 29 2014-Jul 29 2019
+"",09TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 29 2014-Jul 29 2019
+"",10TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 29 2014-Jul 29 2019
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",19TH AVE,20TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,May  8 2014-May  8 2019
+"","14TH AVE \LURLINE ST",Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Brass Disk -no well INCONCRETESIDEWALK ATSE CO",,
+"",12TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Brass Disk -no well INSIDEWALKAT SECORNER",,
+"",19TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Benny Ng -benny.ng@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",18TH AVE,19TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Kaho Kong -Kaho.Kong@sfdpw.org",Oct 24 2017-Oct 25 2018
+"",19TH AVE,20TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Lesley Wong -lesley.wong@sfdpw.org",Oct 19 2023-Jul  5 2024
+"",10TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Josephine Wang-Josephine.Wang@sfdpw.org",Feb 25 2019-Feb 25 2020
+"",12TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Josephine Wang-Josephine.Wang@sfdpw.org",Feb 25 2019-Feb 25 2020
+"",18TH AVE,19TH AVE -,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",19TH AVE,20TH AVE -,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",19TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",19TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",May 11 2018-Mar 11 2020
+"",07TH AVE,08TH AVE -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+"",08TH AVE,09TH AVE -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+"",09TH AVE,10TH AVE -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",10TH AVE,11TH AVE -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+"",11TH AVE,12TH AVE -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+"",19TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -with Washer",,
+"",16TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",10TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",08TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"","14TH AVE \LURLINE ST",Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+LAWTON ST,,,,,,
+"",18TH AVE,Intersection,Proposed Paving.,PAVING,"Brian DeGuzman -brian.deguzman@sfdpw.org",Nov 28 2016-Apr 12 2018
+"",18TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","John Moala -john.moala@sfdpw.org",Nov 28 2016-Apr 12 2018
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","WellMonument -Stone orConcreteMonumentwith Le",,
+LURLINE ST,,,,,,
+"","14TH AVE \KIRKHAM ST",Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"","14TH AVE \KIRKHAM ST",Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"","14TH AVE \KIRKHAM ST",Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Jul 11 2014-Jul 11 2019
+"","14TH AVE \KIRKHAM ST",Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Brass Disk -no well INCONCRETESIDEWALK ATSE CO",,
+"","14TH AVE \KIRKHAM ST",Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+MORAGA ST,,,,,,
+"",18TH AVE,Intersection,"Conflict with existing Street UsePermit.",16ECN-0171,"Refer to Agent415-550-4900 -415-550-4900",Feb 27 2016-
+"",18TH AVE,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",18TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2019-Dec 31 2019
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"NORIEGAST",,,,,,
+"",18TH AVE,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",18TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2019-Dec 31 2019
+"",18TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-iqbalbhai.dhapa@sfdpw.org",Jul  1 2019-Feb 15 2021
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"PACHECOST",,,,,,
+"",18TH AVE,Intersection,Proposed Paving.,PAVING,"Terence Xiao -Terence.Xiao@sfdpw.org",Jan  8 2018-Feb 23 2019
+"",18TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Terence Xiao -Terence.Xiao@sfdpw.org",Jan  8 2018-Feb 23 2019
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"QUINTARAST",,,,,,
+"","15TH AVE \FANNING WAY",16TH AVE -,"Major Muni Route-- Clear streetby 3 PM in CommercialDistricts, by 4 PM in non-Commercial Districts.",,,
+"","15TH AVE \FANNING WAY",16TH AVE -,MFF Allowed,,,
+"",16TH AVE,17TH AVE -,"Major Muni Route-- Clear streetby 3 PM in CommercialDistricts, by 4 PM in non-Commercial Districts.",,,
+"",16TH AVE,17TH AVE -,MFF Allowed,,,
+"",17TH AVE,18TH AVE -,"Major Muni Route-- Clear streetby 3 PM in CommercialDistricts, by 4 PM in non-Commercial Districts.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",18TH AVE,19TH AVE -,"Major Muni Route-- Clear streetby 3 PM in CommercialDistricts, by 4 PM in non-Commercial Districts.",,,
+"",18TH AVE,19TH AVE -,MFF Restricted near schools,,,
+"","15TH AVE \FANNING WAY",16TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",17TH AVE,18TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",17TH AVE,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",18TH AVE,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Aug 21 2020-Aug 23 2021
+"",18TH AVE,19TH AVE -,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",16TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+RIVERA ST,,,,,,
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"SANTIAGOST",,,,,,
+"",18TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2020-Dec 31 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"SUNSETBLVD",,,,,,
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0050,"Refer to Agent -Refer to Agent",May 11 2017-May 10 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0052,"Refer to Agent -Refer to Agent",May  5 2017-May  5 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0059,"Refer to Agent -Refer to Agent",May 30 2017-May 25 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0064,"Refer to Agent -Refer to Agent",Jun 15 2017-May  1 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0072,"Refer to Agent -Refer to Agent",Jun 10 2017-Jun  1 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",ULLOA ST,Intersection,"Conflict with existing Street UsePermit.",17B-0124,"Refer to Agent -Refer to Agent",Feb 19 2018-Nov 15 2018
+"",ULLOA ST,Intersection,Proposed Paving.,PAVING,"Terence Xiao -Terence.Xiao@sfdpw.org",Dec 27 2021-Dec 28 2022
+TARAVAL ST,,,,,,
+"",18TH AVE,Intersection,Muni Tracks Present.,,,
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",18TH AVE,Intersection,Proposed Paving.,PAVING,"Alfredo Cuellar -alfredo.cuellar@sfdpw.org",Oct 25 2018-Oct 26 2020
+"",18TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Isabella Li -isabella.li@sfdpw.org",Nov 26 2018-Nov 27 2020
+"",18TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Alfredo Cuellar -alfredo.cuellar@sfdpw.org",May  1 2018-May  1 2021
+"",18TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Sep 14 2018-Jan  1 2021
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","WellMonument -Stone orConcreteMonumentwith Le",,
+ULLOA ST,,,,,,
+"",19TH AVE,Intersection,"Under G095 requirement,Contractor shall contact MuniOverhead Line Division of anywork 10 feet in horizontal orvertical direction of overheadlines. Contact: CliffordSmethurst @Clifford.Smethurst@sfmta.com,(415) 554-9220",,,
+"",29TH AVE,30TH AVE -,"Major Muni Route-- Clear streetby 3 PM in CommercialDistricts, by 4 PM in non-Commercial Districts.",,,
+"",39TH AVE,40TH AVE -,MFF Allowed,,,
+"",40TH AVE,41ST AVE -,MFF Allowed,,,
+"",41ST AVE,42ND AVE -,MFF Allowed,,,
+"",42ND AVE,43RD AVE -,MFF Allowed,,,
+"",43RD AVE,44TH AVE -,MFF Allowed,,,
+"",17TH AVE,18TH AVE -,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",18TH AVE,19TH AVE -,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",18TH AVE,Intersection,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",19TH AVE,Intersection,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",34TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",36TH AVE,SUNSET BLVD -,"Banners are allowed on thisstreet",,,
+"",46TH AVE,Intersection,Muni Tracks Present.,,,
+"",SUNSET BLVD,37TH AVE -,"Banners are allowed on thisstreet",,,
+"",20TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",35TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.",,,
+"",35TH AVE,Intersection,"Conflict with existing Street UsePermit.",11WR-0086,"NOC 866-639-8460 - NOC 866-639-8460",
+"",21ST AVE,Intersection,"Conflict with existing Street UsePermit.",11WR-0088,"NOC 866-639-8460 - NOC 866-639-8460",
+"",37TH AVE,38TH AVE -,"Conflict with existing Street UsePermit.",12BW-0030,"Refer to Agent -Refer to Agent",
+"",18TH AVE,19TH AVE -,"Conflict with existing Street UsePermit.",12BW-0038,"Refer to Agent -Refer to Agent",
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",12ECN-0744,"800-473-5000 -800-473-5000",Jun 30 2012-
+"",18TH AVE,19TH AVE -,"Conflict with existing Street UsePermit.",13ECN-0922,"800-743-5000 -800-743-5000",Sep  1 2013-
+"",25TH AVE,26TH AVE -,"Conflict with existing Street UsePermit.",13ECN-1062,"800-743-5000 -800-743-5000",Oct  1 2013-
+"",17TH AVE,18TH AVE -,"Conflict with existing Street UsePermit.",13ECN-1146,"800-743-5000 -800-743-5000",Oct 14 2013-
+"",17TH AVE,18TH AVE -,"Conflict with existing Street UsePermit.",13ECN-1194,"800-743-5000 -800-743-5000",Oct 21 2013-
+"",38TH AVE,39TH AVE -,"Conflict with existing Street UsePermit.",13ECN-1342,"800-743-5000 -800-743-5000",Nov 14 2013-
+"",36TH AVE,SUNSET BLVD -,"Conflict with existing Street UsePermit.",13SMF-0272,"Refer to Agent -Refer to Agent",
+"",30TH AVE,31ST AVE -,"Conflict with existing Street UsePermit.",14ECN-0250,"800-743-5000 -800-743-5000",Feb 28 2014-
+"",31ST AVE,32ND AVE -,"Conflict with existing Street UsePermit.",14ECN-0853,"800-743-5000 -800-743-5000",Aug  4 2014-
+"",25TH AVE,Intersection,"Conflict with existing Street UsePermit.",14SMF-0059,"Refer to Agent -Refer to Agent",
+"",46TH AVE,47TH AVE -,"Conflict with existing Street UsePermit.",15ECN-1210,"415-695-3500 -415-695-3500",Dec 17 2015-
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",20TH AVE,21ST AVE -,"Conflict with existing Street UsePermit.",15ECN-1225,"415-695-3500 -415-695-3500",Dec 23 2015-
+"",17TH AVE,18TH AVE -,"Conflict with existing Street UsePermit.",16ECN-0290,"415-695-3500 -415-695-3500",Apr 27 2016-
+"",35TH AVE,36TH AVE -,"Conflict with existing Street UsePermit.",16ECN-0393,"415-695-3500 -415-695-3500",Jun  3 2016-
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0045,"Heather Cann:(415) 431-2950- (415) 431-2950",Apr 16 2017-Apr 16 2018
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",17B-0050,"Refer to Agent -Refer to Agent",May 11 2017-May 10 2018
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",17B-0052,"Refer to Agent -Refer to Agent",May  5 2017-May  5 2018
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",17B-0059,"Refer to Agent -Refer to Agent",May 30 2017-May 25 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0064,"Refer to Agent -Refer to Agent",Jun 15 2017-May  1 2018
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",17B-0064,"Refer to Agent -Refer to Agent",Jun 15 2017-May  1 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0072,"Refer to Agent -Refer to Agent",Jun 10 2017-Jun  1 2018
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",17B-0072,"Refer to Agent -Refer to Agent",Jun 10 2017-Jun  1 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0123,"Refer to Agent -Refer to Agent",Jan 20 2018-May 28 2018
+"",SUNSET BLVD,Intersection,"Conflict with existing Street UsePermit.",17B-0124,"Refer to Agent -Refer to Agent",Feb 19 2018-Nov 15 2018
+"",19TH AVE,Intersection,"Conflict with existing Street UsePermit.",17B-0144,"Andrea Bellas -415 431 2950 x12 - 415-431-2950",Dec 15 2017-Dec 15 2018
+"",17TH AVE,18TH AVE -,"Conflict with existing Street UsePermit.",18CN-0060,"Refer to Agent -Refer to Agent",
+"",24TH AVE,25TH AVE -,"Conflict with existing Street UsePermit.",18MSE-0114,"(415)240-2904 -(415)240-2904",
+"",17TH AVE,18TH AVE -,"Conflict with existing Street UsePermit.",18MSE-0134,"Refer to Agent -Refer to Agent",
+"",20TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2061J,,May 20 2014-May 20 2019
+"",28TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2833J,,Apr 26 2017-Apr 26 2022
+"",41ST AVE,Intersection,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Feb 17 2020-Feb 17 2021
+"",37TH AVE,38TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Dec 10 2018-Jul  6 2021
+"",38TH AVE,39TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Dec 10 2018-Jul  6 2021
+"",38TH AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Dec 10 2018-Jul  6 2021
+"",41ST AVE,42ND AVE -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Jul  1 2017-Jun 30 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",SUNSET BLVD,Intersection,Proposed Paving.,PAVING,"Terence Xiao -Terence.Xiao@sfdpw.org",Dec 27 2021-Dec 28 2022
+"",SUNSET BLVD,37TH AVE -,Proposed Paving.,PAVING,"Edmund Lee -edmund.lee@sfdpw.org",Jul  1 2019-Jul  6 2020
+"",19TH AVE,20TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",20TH AVE,21ST AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",21ST AVE,22ND AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",21ST AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",22ND AVE,23RD AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",22ND AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",24TH AVE,25TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",25TH AVE,26TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",25TH AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",26TH AVE,27TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",26TH AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",27TH AVE,28TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",27TH AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",28TH AVE,29TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",30TH AVE,31ST AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",30TH AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",31ST AVE,32ND AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",31ST AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",32ND AVE,33RD AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",32ND AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",34TH AVE,35TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",35TH AVE,36TH AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",35TH AVE,Intersection,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Sep 23 2019-Sep 24 2020
+"",18TH AVE,19TH AVE -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",May 25 2022-May 26 2023
+"",42ND AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2018-Dec 31 2018
+"",44TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2018-Dec 31 2018
+"",46TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -aabf@pge.com",Jan  1 2018-Dec 31 2018
+"",19TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Benny Ng -benny.ng@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",46TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Clarissa Chin -clarissa.chin@sfdpw.org",Jul  2 2018-Dec 19 2018
+"",47TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Clarissa Chin -clarissa.chin@sfdpw.org",Jul  2 2018-Dec 19 2018
+"",36TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Genevie Fong -genevie.fong@sfdpw.org",Jan 31 2017-Jun 15 2018
+"",22ND AVE,23RD AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-iqbalbhai.dhapa@sfdpw.org",Jul  2 2018-Feb 17 2020
+"",22ND AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-iqbalbhai.dhapa@sfdpw.org",Jul  2 2018-Feb 17 2020
+"",34TH AVE,35TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-iqbalbhai.dhapa@sfdpw.org",Jul  2 2018-Feb 17 2020
+"",18TH AVE,19TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Lesley Wong -lesley.wong@sfdpw.org",Oct 19 2023-Jul  5 2024
+"",24TH AVE,25TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Lesley Wong -lesley.wong@sfdpw.org",Oct 19 2023-Jul  5 2024
+"",40TH AVE,41ST AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Lesley Wong -lesley.wong@sfdpw.org",Jun 30 2027-Mar 16 2028
+"",18TH AVE,19TH AVE -,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",19TH AVE,20TH AVE -,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",19TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",17TH AVE,18TH AVE -,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Feb  1 2019-Feb  1 2020
+"",18TH AVE,19TH AVE -,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Feb  1 2019-Feb  1 2020
+"",18TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Feb  1 2019-Feb  1 2020
+"",19TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Feb  1 2019-Feb  1 2020
+"",19TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",May 11 2018-Mar 11 2020
+"",19TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -with Washer",,
+"",36TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",34TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",32ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",26TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",28TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",30TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",19TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",20TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",22ND AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",24TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",21ST AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","WellMonument -Stone orConcreteMonumentwith Le",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+VICENTE ST,,,,,,
+"",14TH AVE,15TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",14TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",15TH AVE,16TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",15TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",16TH AVE,17TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",16TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",17TH AVE,18TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",17TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",18TH AVE,19TH AVE -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",18TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",17TH AVE,18TH AVE -,"Conflict with existing Street UsePermit.",11SMF-0089,"Refer to Agent -Refer to Agent",
+"",18TH AVE,19TH AVE -,"Conflict with existing Street UsePermit.",11SMF-0089,"Refer to Agent -Refer to Agent",
+"",18TH AVE,Intersection,"Conflict with existing Street UsePermit.",11SMF-0089,"Refer to Agent -Refer to Agent",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",15TH AVE,16TH AVE -,"Conflict with existing Street UsePermit.",12ECN-0551,"800-743-5000 -800-743-5000",May 15 2012-
+"",14TH AVE,Intersection,"Conflict with existing Street UsePermit.",12ECN-0556,"800-743-5000 -800-743-5000",May 16 2012-
+"",16TH AVE,17TH AVE -,"Conflict with existing Street UsePermit.",15ECN-0777,"Refer to Agent415-550-4900 -415-550-4900",Aug  3 2015-
+"",14TH AVE,Intersection,"Conflict with existing Street UsePermit.",15ECN-0964,"Refer to Agent415-550-4900 -415-550-4900",Oct  6 2015-
+"",17TH AVE,18TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Aug  4 2016-Aug  4 2021
+"",17TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Aug  4 2016-Aug  4 2021
+"",18TH AVE,19TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Aug  4 2016-Aug  4 2021
+"",18TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Aug  4 2016-Aug  4 2021
+"",14TH AVE,15TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Jan  1 2016-Jan  1 2021
+"",14TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Jan  1 2016-Jan  1 2021
+"",15TH AVE,16TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Jan  1 2016-Jan  1 2021
+"",15TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Jan  1 2016-Jan  1 2021
+"",16TH AVE,17TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Jan  1 2016-Jan  1 2021
+"",FOREST SIDE AVE,14TH AVE -,"Please see special pavingrequirements for MoratoriumStreets.",2266J,,Jan  1 2016-Jan  1 2021
+"",17TH AVE,18TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Matthew Lim -matthew.lim@sfdpw.org",May  4 2015-Aug 31 2018
+"",17TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Matthew Lim -matthew.lim@sfdpw.org",May  4 2015-Aug 31 2018
+"",18TH AVE,19TH AVE -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Lesley Wong -lesley.wong@sfdpw.org",Oct 19 2023-Jul  5 2024
+"",18TH AVE,19TH AVE -,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Josef Munoz -josef.munoz@sfdpw.org",Apr 30 2018-Apr 30 2020
+"",15TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Feb  1 2019-Feb  1 2020
+"",14TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"CDDEngineering -cddengineering@sfwater.org",Sep 14 2018-Jan  1 2021
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",18TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",14TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",14TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"",16TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","WellMonument -Stone orConcreteMonumentwith Le",,

@@ -1,0 +1,104 @@
+"ConditionsAll existing traffic and parking controls and restrictionsshall apply without a Special Traffic Permit issued bySFMTA. Please check Blue Book for traffic restrictions.To obtain a Blue Book, contact SFMTA at 415-701-4673.A minimum of 4 feet of clearance should be availableat all times to allow for public path of travel.Pursuant to Article 29 of the San Francisco PoliceCode, a Night Noise Permit for operation in the PublicRight-of-Way shall be required for work that createsany noise 5dBA above the ambient noise level of thatarea at the nearest property plane.No noise permitted between the hours of 7:00PM and7:00AM.Event/Operation:1609-21Permit Linear Footage40Elements of Occupancyline truck roving from utility pole to utility pole placingaerial strand and fiber optic cable.  Roving work not toexceed approximately 30 minutes at each location.From:6/1/2017 07:00AMStart Time7:00AMTo:6/9/2017 05:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, followthe tow-away sign activation and photo uploadprocess.  To tow a vehicle call the Tow Desk at (415)553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night NoiseWork Scope"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,YORK ST,MARIPOSA ST,18TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+2,,18TH ST,19TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,19TH ST,20TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,20TH ST,21ST ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,21ST ST,22ND ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,22ND ST,23RD ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,23RD ST,24TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+8,YORK ST,24TH ST,25TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+9,,25TH ST,26TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+10,,26TH ST,"CESARCHAVEZ ST \PRECITA AVE",West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,"CESAR CHAVEZST \ PRECITAAVE",PERALTA AVE,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+17EXC-5619,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,YORK ST / 25TH ST - 26TH ST -,,,
+18EXC-0622,"San Francisco Water Department - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","CDD Dispatch 415-550-4900 - CDD Dispatch415-550-4900",,
+Your Notes:,,,,
+Streets:,YORK ST / 25TH ST - 26TH ST -,,,
+18EXC-0740,"J. Flores Construction Co. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","Oscar Delgadillo @510-867-0073 & SF-PUC - Inspect - (415)337-2934",,
+Your Notes:,,,,
+Streets:,YORK ST / 25TH ST - 26TH ST -,,,
+18EXC-0942,"J. Flores Construction Co. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","Oscar Delgadillo @510-867-0073 & SF-PUC - Inspect - (415)337-2934",,
+Your Notes:,,,,
+Streets:,YORK ST / 25TH ST - 26TH ST -,,,
+"",
+"",
+"",
+"",
+""
+""
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+YORK ST,,,,,,
+"",18TH ST,19TH ST -,MFF Allowed,,,
+"",19TH ST,20TH ST -,MFF Allowed,,,
+"",20TH ST,21ST ST -,MFF Allowed,,,
+"",20TH ST,21ST ST -,MFF Restricted near schools,,,
+"",21ST ST,22ND ST -,MFF Restricted near schools,,,
+"",22ND ST,23RD ST -,MFF Restricted near schools,,,
+"",23RD ST,24TH ST -,MFF Restricted near schools,,,
+"",23RD ST,24TH ST -,Parking Meters Installed,,,
+"",24TH ST,25TH ST -,MFF Restricted near schools,,,
+"",24TH ST,25TH ST -,Parking Meters Installed,,,
+"",25TH ST,26TH ST -,MFF Restricted near schools,,,
+"",26TH ST,"CESAR CHAVEZ ST\ PRECITA AVE -",MFF Restricted near schools,,,
+"",MARIPOSA ST,18TH ST -,MFF Allowed,,,
+"",23RD ST,24TH ST -,"Banners are allowed on thisstreet",,,
+"",24TH ST,25TH ST -,"Banners are allowed on thisstreet",,,
+"",MARIPOSA ST,18TH ST -,"Banners are allowed on thisstreet",,,
+"",MARIPOSA ST,18TH ST -,"Conflict with existing Street UsePermit.",12BW-0023,"Refer to Agent -Refer to Agent",
+"",26TH ST,"CESAR CHAVEZ ST\ PRECITA AVE -","Conflict with existing Street UsePermit.",12ECN-0373,"800-743-5000 -800-743-5000",Mar 26 2012-
+"",25TH ST,26TH ST -,"Conflict with existing Street UsePermit.",12ECN-0529,"800-743-5000 -800-743-5000",May  9 2012-
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",13ECN-0790,"800-743-5000 -800-743-5000",Jul 23 2013-
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",13SMF-0078,"Refer to Agent -Refer to Agent",
+"",26TH ST,"CESAR CHAVEZ ST\ PRECITA AVE -","Conflict with existing Street UsePermit.",14ECN-0125,"800-743-5000 -800-743-5000",Jan 21 2014-
+"",26TH ST,"CESAR CHAVEZ ST\ PRECITA AVE -","Conflict with existing Street UsePermit.",14ECN-0126,"800-743-5000 -800-743-5000",Jan 21 2014-
+"",25TH ST,26TH ST -,"Conflict with existing Street UsePermit.",14ECN-0202,"800-743-5000 -800-743-5000",Feb 10 2014-
+"",26TH ST,"CESAR CHAVEZ ST\ PRECITA AVE -","Conflict with existing Street UsePermit.",14ECN-0217,"800-743-5000 -800-743-5000",Feb 14 2014-
+"",26TH ST,"CESAR CHAVEZ ST\ PRECITA AVE -","Conflict with existing Street UsePermit.",14ECN-0346,"800-743-5000 -800-743-5000",Mar 21 2014-
+"",21ST ST,22ND ST -,"Conflict with existing Street UsePermit.",14ECN-0532,"800-743-5000 -800-743-5000",May  6 2014-
+"",26TH ST,"CESAR CHAVEZ ST\ PRECITA AVE -","Conflict with existing Street UsePermit.",14ECN-0652,"800-743-5000 -800-743-5000",Jun  4 2014-
+"",19TH ST,20TH ST -,"Conflict with existing Street UsePermit.",14ECN-0816,,Jul 24 2014-
+"",25TH ST,26TH ST -,"Conflict with existing Street UsePermit.",14ECN-0844,"800-743-5000 -800-743-5000",Jul 31 2014-
+"",22ND ST,23RD ST -,"Conflict with existing Street UsePermit.",15ECN-0008,"800-743-5000 -800-743-5000",Jan  6 2015-
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",21ST ST,22ND ST -,"Conflict with existing Street UsePermit.",16CN-0094,"415-595-2019 -415-595-2019",
+"",MARIPOSA ST,18TH ST -,"Conflict with existing Street UsePermit.",16ECN-0218,"415-695-3500 -415-695-3500",Mar 21 2016-
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",16ECN-0878,"415-695-3500 -415-695-3500",Oct 28 2016-
+"",MARIPOSA ST,18TH ST -,"Conflict with existing Street UsePermit.",16MSE-0108,"415-760-0636 -415-760-0636",
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",16smf-0043,"Refer to Agent -Refer to Agent",
+"",25TH ST,26TH ST -,"Conflict with existing Street UsePermit.",17CN-0336,"(415) 385-3687- (415) 385-3687",
+"",26TH ST,"CESAR CHAVEZ ST\ PRECITA AVE -","Conflict with existing Street UsePermit.",17ECN-0532,"415-695-3500 -415-695-3500",Aug 29 2017-
+"",20TH ST,21ST ST -,"Conflict with existing Street UsePermit.",17ECN-0642,"415-695-3500 -415-695-3500",Nov 13 2017-
+"",18TH ST,19TH ST -,"Conflict with existing Street UsePermit.",17MFF-0110,"Refer to Agent -Refer to Agent",May  6 2017-May  6 2018
+"",19TH ST,20TH ST -,"Conflict with existing Street UsePermit.",17MFF-0110,"Refer to Agent -Refer to Agent",May  6 2017-May  6 2018
+"",MARIPOSA ST,18TH ST -,"Conflict with existing Street UsePermit.",17MFF-0110,"Refer to Agent -Refer to Agent",May  6 2017-May  6 2018
+"",25TH ST,26TH ST -,"Conflict with existing Street UsePermit.",17MSE-0677,"(415) 385-3687- (415) 385-3687",
+"",22ND ST,23RD ST -,"Conflict with existing Street UsePermit.",18IE-0117,"Refer to Agent -Refer to Agent",Feb 16 2018-Mar 16 2018
+"",22ND ST,23RD ST -,Sidewalk Repair scheduled,18SWR-0029,"415-934-1325 -415-934-1325",Feb 21 2018-Mar 23 2018
+"",18TH ST,19TH ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",19TH ST,20TH ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",20TH ST,21ST ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",21ST ST,22ND ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",22ND ST,23RD ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",23RD ST,24TH ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",25TH ST,26TH ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",MARIPOSA ST,18TH ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"","CESAR CHAVEZ ST\ PRECITA AVE",PERALTA AVE -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Feb 22 2021-Feb 22 2022
+"",18TH ST,19TH ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Allison Seibel -allison.seibel@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",19TH ST,20TH ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Allison Seibel -allison.seibel@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",25TH ST,26TH ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Allison Seibel -allison.seibel@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",MARIPOSA ST,18TH ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Allison Seibel -allison.seibel@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",25TH ST,26TH ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Kaho Kong -Kaho.Kong@sfdpw.org",Oct 24 2017-Oct 25 2018
+"",21ST ST,22ND ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"",22ND ST,23RD ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
