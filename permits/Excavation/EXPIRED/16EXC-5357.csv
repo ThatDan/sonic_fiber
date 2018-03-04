@@ -1,0 +1,20 @@
+"EmergencyConfirmationNumberConditionsREMINDER== “The permittee is required to completethe work within 14 days from the start date that workcommences. Failure to complete the work in 14 dayswill result in requiring from the permittee a new permitapplication and a 30 day notice” ==(2:12PM==8-15-16)24 Hour / 7 Day Contact:707-326-1631Service Address/Project:26th, 27th -----  SUN-PH2 AT&T GIGSConstruction Start DateStart Date8/29/2016Permit expires on:8/31/2016PurposeTelephoneType of facility:Excavation ReasonInstall AnchorExcavation Reason DescriptionMethod:Open Cut: SawcutTrackingNumber1TrackingNumber2Project Size9Inspection"
+Conditions
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,26TH AVE,SANTIAGO ST,TARAVAL ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+"",Total,,,,,0,0,20,
+2,ORTEGA ST,27TH AVE,Intersection,South,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,10,
+"",Total,,,,,0,9,10,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+26TH AVE,,,,,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",SANTIAGO ST,TARAVAL ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+"",SANTIAGO ST,TARAVAL ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+27TH AVE,,,,,,
+"",ORTEGA ST,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",ORTEGA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Mechanical\Electrical",Victor Tam -,Nov  3 2014-Sep  9 2016
+"",ORTEGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,
+ORTEGA ST,,,,,,
+"",27TH AVE,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",27TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Mechanical\Electrical",Victor Tam -,Nov  3 2014-Sep  9 2016
+"",27TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,

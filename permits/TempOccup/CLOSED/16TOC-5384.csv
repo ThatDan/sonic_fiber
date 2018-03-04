@@ -1,0 +1,159 @@
+"ConditionsEvent/Operation:Permit Linear Footage10500Elements of OccupancyMoving from utility pole to utility pole placing aerialstrand and fiber optic cable. Work will not exceed30min per location.From:9/12/2016 7:00AMStart Time7:00AMTo:9/16/2016 6:00PMEnd Time6:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, call(415) 554-5824 a minimum of 72 hours prior tooccupancy.  To tow a vehicle call the Tow Desk at(415) 553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 6:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+12,14TH AVE,RADIO TER,QUINTARA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+14,,RADIO TER,"MANDALAYLN",Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+16,,MANDALAY LN,"FANNINGWAY",Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+18,,FANNING WAY,QUINTARA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+19,,QUINTARA ST,RIVERA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+21,,RIVERA ST,SANTIAGO ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+23,,SANTIAGO ST,TARAVAL ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+25,14TH AVE,TARAVAL ST,ULLOA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+27,,ULLOA ST,VICENTE ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+29,,VICENTE ST,WAWONA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+31,,WAWONA ST,"WESTPORTAL AVE",Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+33,,"WEST PORTALAVE","PORTOLA DR\ SANANSELMOAVE \ SANTAANA AVE",Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+"",Total,,,,,0,0,240,
+34,15TH AVE,SANTIAGO ST,TARAVAL ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+36,,TARAVAL ST,ULLOA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+38,,ULLOA ST,VICENTE ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+40,,VICENTE ST,WAWONA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+"",Total,,,,,0,0,80,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+41,16TH AVE,CECILIA AVE,TARAVAL ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+43,,TARAVAL ST,ULLOA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+45,,ULLOA ST,VICENTE ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+47,,VICENTE ST,WAWONA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+"",Total,,,,,0,0,80,
+1,RIVERA ST,14TH AVE,15TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+3,,15TH AVE,15TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+5,,15TH AVE,CECILIA AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+7,,CECILIA AVE,16TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+9,,16TH AVE,17TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+11,RIVERA ST,17TH AVE,18TH AVE,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+"",Total,,,,,0,0,120,
+""
+"",
+""
+Job #,Activity,Contact,,
+"","- Parking sensors are located in the parking spaces on this street.Please contact Alex Demisch of SFMTA/SFpark at (415) 701-4507 oralex.demisch@sfmta.com to coordinate","Alex Demisch - (415)701-4507",,
+Your Notes:,,,,
+Streets:,14TH AVE / WAWONA ST - WEST PORTAL AVE -,,,
+12EXC-1233,"Precision Engineering, Inc. - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","Juan Perez (415) 760-8744 - Juan Perez(415) 760-8744",,
+Your Notes:,,,,
+Streets:,RIVERA ST / 15TH AVE - CECILIA AVE -,,,
+15EXC-1729,"Con-Quest Contractors, Inc. - Conflict with existing excavation permit.It is mandatory that you coordinate all work for joint paving.","(415) 206-0524 - (415)206-0524",,
+Your Notes:,,,,
+Streets:,14TH AVE / FANNING WAY - QUINTARA ST - WEST,,,
+15EXC-5971,"AZUL WORKS, Inc - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","(415) 939-7822 - (415)939-7822",,
+Your Notes:,,,,
+Streets:,16TH AVE / VICENTE ST - WAWONA ST -,,,
+16EXC-5545,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,14TH AVE / TARAVAL ST - ULLOA ST -,,,
+"",
+""
+""
+""
+"",
+""
+"",
+""
+""
+""
+"",
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+14TH AVE,,,,,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",TARAVAL ST,ULLOA ST -,"Banners are allowed on thisstreet",,,
+"",VICENTE ST,WAWONA ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",WAWONA ST,"WEST PORTAL AVE-","Banners are allowed on thisstreet",,,
+"",WAWONA ST,"WEST PORTAL AVE-","Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",WEST PORTAL AVE,"PORTOLA DR \SAN ANSELMO AVE\ SANTA ANA AVE -","Banners are allowed on thisstreet",,,
+"",WEST PORTAL AVE,"PORTOLA DR \SAN ANSELMO AVE\ SANTA ANA AVE -","Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",WAWONA ST,"WEST PORTAL AVE-","Conflict with existing Street UsePermit.",11SMF-0016,"Refer to Agent -Refer to Agent",
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",13ECN-0738,"800-743-5000 -800-743-5000",Jul  5 2013-
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",13ECN-1068,"800-743-5000 -800-743-5000",Oct  2 2013-
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",13ECN-1118,"800-743-5000 -800-743-5000",Oct 10 2013-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",13ECN-1376,"800-743-5000 -800-743-5000",Nov 18 2013-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",14ECN-0296,"Refer to Agent -Refer to Agent",Mar 11 2014-
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",15IE-0472,"Refer to Agent -Refer to Agent",
+"",RADIO TER,"QUINTARA ST -EAST","Conflict with existing Street UsePermit.",16ECN-0296,,Apr 28 2016-
+"",RADIO TER,"QUINTARA ST -EAST","Conflict with existing Street UsePermit.",16ECN-0524,,Jul 19 2016-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",16MSE-0317,"Refer to Agent -Refer to Agent",
+"",VICENTE ST,WAWONA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Mar 26 2012-Mar 26 2017
+"",TARAVAL ST,ULLOA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Sep  7 2011-Sep  7 2016
+"",ULLOA ST,VICENTE ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  3 2017-Jun 29 2018
+"",WAWONA ST,"WEST PORTAL AVE-",Proposed Paving.,PAVING,Richard Lee -,Nov 10 2018-May 11 2019
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",RIVERA ST,SANTIAGO ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+"",TARAVAL ST,ULLOA ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+"",ULLOA ST,VICENTE ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Wen Gao -,Apr  5 2017-Apr  4 2018
+"",VICENTE ST,WAWONA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Brandon Chow -,Feb 27 2017-Oct 31 2017
+"",RADIO TER,"QUINTARA ST -EAST",Proposed Excavation.,"SF PUC SL -Maintenance\Design",Ranjit Parhar -,Jan  1 2020-Dec 31 2020
+"",QUINTARA ST,RIVERA ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"",SANTIAGO ST,TARAVAL ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"",FANNING WAY,"QUINTARA ST -WEST","Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",MANDALAY LN,"FANNING WAY -WEST","Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",RADIO TER,"MANDALAY LN -WEST","Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",RADIO TER,"QUINTARA ST -EAST","Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",TARAVAL ST,ULLOA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",ULLOA ST,VICENTE ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",VICENTE ST,WAWONA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",WEST PORTAL AVE,"PORTOLA DR \SAN ANSELMO AVE\ SANTA ANA AVE -","Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+15TH AVE,,,,,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",TARAVAL ST,ULLOA ST -,"Banners are allowed on thisstreet",,,
+"",TARAVAL ST,ULLOA ST -,Muni Tracks Present.,,,
+"",ULLOA ST,VICENTE ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",12ECN-0240,"800-743-5000 -800-743-5000",Feb 16 2012-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",12ECN-0407,"Refer toAgent5504900 -Refer toAgent5504900",Apr 10 2012-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",12ECN-0438,"Refer toAgent5504900 -Refer toAgent5504900",Apr 19 2012-
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",12ECN-0554,"800-743-5000 -800-743-5000",May 16 2012-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",12ECN-0951,"Refer toAgent5504900 -Refer toAgent5504900",Sep 20 2012-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",13ECN-1006,"800-743-5000 -800-743-5000",Sep 20 2013-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",13ECN-1332,"800-743-5000 -800-743-5000",Nov 12 2013-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",14CN-0124,"Refer to Agent -Refer to Agent",
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",14CN-0207,"925 469 8000 -925 469 8000",
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",14ECN-1388,"oscar delgadillo510-867-0073 -(415) 337-2934",Dec 31 2014-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",15ECN-0027,"800-743-5000 -800-743-5000",Jan 12 2015-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",15ECN-0081,"800-743-5000 -800-743-5000",Jan 29 2015-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",15ECN-0284,"800-743-5000 -800-743-5000",Mar 19 2015-
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",15ECN-0390,"800-743-5000 -800-743-5000",Apr 16 2015-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",15ECN-1126,"415-695-3500 -415-695-3500",Nov 30 2015-
+"",VICENTE ST,WAWONA ST -,"Please see special pavingrequirements for MoratoriumStreets.",2232J,,Jul 19 2013-Jul 19 2018
+"",SANTIAGO ST,TARAVAL ST -,Proposed Paving.,PAVING,Richard Lee -,Nov 10 2018-May 11 2019
+"",ULLOA ST,VICENTE ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
+"",TARAVAL ST,ULLOA ST -,Proposed Paving.,PAVING,Alfredo Cuellar -,Aug  6 2017-Apr  7 2018
+"",TARAVAL ST,ULLOA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Isabella Li -,Feb 26 2018-Feb 26 2020
+"",VICENTE ST,WAWONA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Brandon Chow -,Feb 27 2017-Oct 31 2017
+"",SANTIAGO ST,TARAVAL ST -,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Feb  1 2019-Feb  1 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",TARAVAL ST,ULLOA ST -,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Feb  1 2019-Feb  1 2020
+"",ULLOA ST,VICENTE ST -,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Feb  1 2019-Feb  1 2020
+"",VICENTE ST,WAWONA ST -,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Feb  1 2019-Feb  1 2020
+16TH AVE,,,,,,
+"",CECILIA AVE,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",TARAVAL ST,ULLOA ST -,"Banners are allowed on thisstreet",,,
+"",TARAVAL ST,ULLOA ST -,"Conflict with existing Street UsePermit.",13SW-0035,"Refer to Agent -Refer to Agent",
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",14ECN-0684,"800-743-5000 -800-743-5000",Jun 11 2014-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",14SW-0038,"Refer to Agent -Refer to Agent",
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",16MSE-0375,"415-468-3222 -415-468-3222",
+"",TARAVAL ST,ULLOA ST -,Proposed Paving.,PAVING,Richard Lee -,Nov 10 2018-May 11 2019
+"",ULLOA ST,VICENTE ST -,Proposed Paving.,PAVING,Richard Lee -,Nov 10 2018-May 11 2019
+"",VICENTE ST,WAWONA ST -,Proposed Paving.,PAVING,Richard Lee -,Nov 10 2018-May 11 2019
+"",TARAVAL ST,ULLOA ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+"",VICENTE ST,WAWONA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"",CECILIA AVE,TARAVAL ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"",ULLOA ST,VICENTE ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",VICENTE ST,WAWONA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+RIVERA ST,,,,,,
+"",15TH AVE,CECILIA AVE -,"Conflict with existing Street UsePermit.",12WR-0078,"Refer to Agent -Refer to Agent",

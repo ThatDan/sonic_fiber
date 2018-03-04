@@ -1,0 +1,295 @@
+"ConditionsEvent/Operation:Placing Cable on StrandPermit Linear Footage16000Elements of OccupancyDriving along road placing cable on aerial strandpreviously installed.  Should not be at a pole longerthan 30min.From:11/9/2015 07:00AMStart Time07:00AMTo:11/13/2015 05:00PMEnd Time05:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, call(415) 554-5824 a minimum of 72 hours prior tooccupancy.  To tow a vehicle call the Tow Desk at(415) 553-1200.Special Traffic permit requiredNFood:NOther:Performing Arts:NStreet Space Hours07:00AM Thru 05:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,27TH AVE,LINCOLN WAY,IRVING ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,IRVING ST,JUDAH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,JUDAH ST,KIRKHAM ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,KIRKHAM ST,LAWTON ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+9,,LAWTON ST,MORAGA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,MORAGA ST,NORIEGA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,NORIEGA ST,ORTEGA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+16,27TH AVE,QUINTARA ST,RIVERA ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+18,,RIVERA ST,SANTIAGO ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+20,,SANTIAGO ST,TARAVAL ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+21,28TH AVE,LINCOLN WAY,IRVING ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+23,,IRVING ST,JUDAH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+25,,JUDAH ST,KIRKHAM ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+27,,KIRKHAM ST,LAWTON ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+29,,LAWTON ST,MORAGA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+31,,MORAGA ST,NORIEGA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+33,28TH AVE,NORIEGA ST,ORTEGA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+35,,ORTEGA ST,PACHECO ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+37,,PACHECO ST,QUINTARA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+39,,QUINTARA ST,RIVERA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+41,,RIVERA ST,SANTIAGO ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+43,,SANTIAGO ST,TARAVAL ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+2,IRVING ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+22,,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+4,JUDAH ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+24,JUDAH ST,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+6,KIRKHAM ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+26,,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+8,LAWTON ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+28,,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+10,MORAGA ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+30,,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+12,NORIEGA ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+32,NORIEGA ST,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+14,ORTEGA ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+34,,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+36,PACHECO ST,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+15,QUINTARA ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+38,,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+17,RIVERA ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+40,,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+19,SANTIAGO ST,27TH AVE,Intersection,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+42,,28TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+"","- Under G095 requirement, Contractor shall contact Muni OverheadLine Division of any work 10 feet in horizontal or vertical direction ofoverhead lines. Contact: Clifford Smethurst @Clifford.Smethurst@sfmta.com, (415) 554-9220.",,,
+Your Notes:,,,,
+Streets:,27TH AVE / JUDAH ST - Intersection,,,
+13EXC-4315,"Esquivel Grading & Paving, Inc. - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","(415) 354-4870 - (415)354-4870",,
+Your Notes:,,,,
+Streets:,28TH AVE / JUDAH ST - Intersection,,,
+15EXC-3647,"Bureau of Street & Sewer Repair - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","Refer to Agent - Referto Agent",,
+Your Notes:,,,,
+Streets:,27TH AVE / LAWTON ST - MORAGA ST -,,,
+15EXC-4899,"Telfer Oil Company - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","SANTIAGO LLAMAS(916) 500-2419 - (916)517-3026",,
+Your Notes:,,,,
+Streets:,27TH AVE / QUINTARA ST - RIVERA ST -,,,
+2123J,"Irving Streetscape (19th-27th Avenue) - Curb ramp project atintersection, see contact information for required coordination.",Brian DeGuzman -,,
+Your Notes:,,,,
+Streets:,27TH AVE / IRVING ST - Intersection,,,
+2263J,"Joint - Streetscape Lead - Irving St Paving Phase 1 - Curb ramp projectat intersection, see contact information for required coordination.",Brian DeGuzman -,,
+Your Notes:,,,,
+Streets:,27TH AVE / IRVING ST - Intersection,,,
+2606J,"As Needed Curb Ramp Construction for Paving Program No 3 - Curbramp project at intersection, see contact information for requiredcoordination.",Richard Chircop -,,
+Your Notes:,,,,
+Streets:,27TH AVE / MORAGA ST - Intersection,,,
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+27TH AVE,,,,,,
+"",IRVING ST,JUDAH ST -,"Banners are allowed on thisstreet",,,
+"",JUDAH ST,Intersection,Muni Tracks Present.,,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",IRVING ST,JUDAH ST -,"Conflict with existing Street UsePermit.",11SMF-0013,"Refer to Agent -Refer to Agent",
+"",JUDAH ST,KIRKHAM ST -,"Conflict with existing Street UsePermit.",12ECN-0437,"Refer toAgent5504900 -Refer toAgent5504900",Apr 18 2012-
+"",QUINTARA ST,Intersection,"Conflict with existing Street UsePermit.",12TS-0089,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",NORIEGA ST,Intersection,"Conflict with existing Street UsePermit.",13ECN-0934,"800-743-5000 -800-743-5000",Sep  3 2013-
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",13ECN-0935,"800-743-5000 -800-743-5000",Sep  3 2013-
+"",MORAGA ST,NORIEGA ST -,"Conflict with existing Street UsePermit.",13ECN-1008,"800-743-5000 -800-743-5000",Sep 16 2013-
+"",NORIEGA ST,Intersection,"Conflict with existing Street UsePermit.",15TS-0016,"Amy Landgraf510-446-7234 -Amy Landgraf510-446-7234",
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Feb 25 2014-Feb 25 2019
+"",MORAGA ST,NORIEGA ST -,"Please see special pavingrequirements for MoratoriumStreets.",2274J,,Oct 23 2013-Oct 23 2018
+"",RIVERA ST,SANTIAGO ST -,"Please see special pavingrequirements for MoratoriumStreets.",2506J,,Aug 12 2014-Aug 12 2019
+"",ORTEGA ST,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",IRVING ST,Intersection,Proposed Paving.,PAVING,"Brian DeGuzman -",Nov 16 2015-May 19 2017
+"",MORAGA ST,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Aug 31 2015-Dec 28 2015
+"",IRVING ST,JUDAH ST -,Proposed Paving.,PAVING,"Therese Marzan-",Apr 29 2016-Jan 27 2017
+"",LAWTON ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",LAWTON ST,MORAGA ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",MORAGA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",NORIEGA ST,Intersection,Proposed Excavation.,PG&E,Alan Wong -,Jan  1 2016-Dec 31 2016
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",SANTIAGO ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+"",MORAGA ST,Intersection,Proposed Excavation.,"SF DPW IDC -ConstructionManagement","Richard Chircop-",Aug 31 2015-Feb 26 2016
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Benny Ng -,Nov 16 2015-May 19 2017
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Isabella Li -,Apr 29 2016-Jan 27 2017
+"",IRVING ST,JUDAH ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Isabella Li -,Apr 29 2016-Jan 27 2017
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Isabella Li -,Apr 29 2016-Jan 27 2017
+"",ORTEGA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Mechanical\Electrical",Debra Temple -,Nov  3 2014-Sep  9 2016
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",Nov 16 2015-May 19 2017
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",Nov 16 2015-May 19 2017
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",NORIEGA ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",ORTEGA ST,Intersection,Proposed Excavation.,"SF MTA SS -Park",Alex Demisch -,Feb  4 2011-Dec 31 2015
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"",SANTIAGO ST,Intersection,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+"",JUDAH ST,KIRKHAM ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",,
+"",LAWTON ST,MORAGA ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",,
+"",SANTIAGO ST,TARAVAL ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+"",ORTEGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,
+28TH AVE,,,,,,
+"",IRVING ST,JUDAH ST -,"Banners are allowed on thisstreet",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",JUDAH ST,Intersection,Muni Tracks Present.,,,
+"",JUDAH ST,KIRKHAM ST -,"Banners are allowed on thisstreet",,,
+"",KIRKHAM ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",MORAGA ST,Intersection,Cistern Present.,,,
+"",RIVERA ST,Intersection,Cistern Present.,,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",11WR-0101,"NOC 866-639-8460 - NOC 866-639-8460",
+"",PACHECO ST,Intersection,"Conflict with existing Street UsePermit.",11WR-0101,"NOC 866-639-8460 - NOC 866-639-8460",
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",12ECN-0576,"800-743-5000 -800-743-5000",May 18 2012-
+"",NORIEGA ST,Intersection,"Conflict with existing Street UsePermit.",12ECN-0736,"800-743-5000 -800-743-5000",Jul 17 2012-
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",13ECN-1317,"800-743-5000 -800-743-5000",Nov  7 2013-
+"",ORTEGA ST,PACHECO ST -,"Conflict with existing Street UsePermit.",13WR-0026,"Refer to Agent -Refer to Agent",
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",13WR-0027,"510-760-6579 -510-760-6579",
+"",NORIEGA ST,Intersection,"Conflict with existing Street UsePermit.",14TS-0075,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",15CN-0207,"Refer to Agent -Refer to Agent",
+"",LAWTON ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Dec 17 2013-Dec 17 2018
+"",LAWTON ST,MORAGA ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Dec 17 2013-Dec 17 2018
+"",MORAGA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Dec 17 2013-Dec 17 2018
+"",MORAGA ST,NORIEGA ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Dec 17 2013-Dec 17 2018
+"",JUDAH ST,KIRKHAM ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan  7 2014-Jan  7 2019
+"",KIRKHAM ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan  7 2014-Jan  7 2019
+"",KIRKHAM ST,LAWTON ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan  7 2014-Jan  7 2019
+"",NORIEGA ST,ORTEGA ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 16 2014-Jan 16 2019
+"",ORTEGA ST,PACHECO ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 16 2014-Jan 16 2019
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",PACHECO ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 16 2014-Jan 16 2019
+"",PACHECO ST,QUINTARA ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 21 2014-Jan 21 2019
+"",QUINTARA ST,RIVERA ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 21 2014-Jan 21 2019
+"",RIVERA ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 21 2014-Jan 21 2019
+"",RIVERA ST,SANTIAGO ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 23 2014-Jan 23 2019
+"",SANTIAGO ST,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 23 2014-Jan 23 2019
+"",SANTIAGO ST,TARAVAL ST -,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 23 2014-Jan 23 2019
+"",MORAGA ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",RIVERA ST,Intersection,Proposed Excavation.,PG&E,Kayson Louie -,Jan  1 2016-Dec 29 2016
+"",SANTIAGO ST,Intersection,Proposed Excavation.,PG&E,Kayson Louie -,Jan  1 2016-Dec 29 2016
+"",SANTIAGO ST,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+"",KIRKHAM ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+"",IRVING ST,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Benny Ng -,Nov 16 2015-May 19 2017
+"",ORTEGA ST,Intersection,Proposed Excavation.,"SF DPW IDC -Mechanical\Electrical",Debra Temple -,Nov  3 2014-Sep  9 2016
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",NORIEGA ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",QUINTARA ST,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"",QUINTARA ST,RIVERA ST -,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"",RIVERA ST,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"",ORTEGA ST,Intersection,Proposed Excavation.,"SF MTA SS -Park",Alex Demisch -,Feb  4 2011-Dec 31 2015
+"",JUDAH ST,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"",QUINTARA ST,Intersection,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",QUINTARA ST,RIVERA ST -,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+"",RIVERA ST,Intersection,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+"",RIVERA ST,SANTIAGO ST -,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+"",SANTIAGO ST,Intersection,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+"",JUDAH ST,KIRKHAM ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",,
+"",KIRKHAM ST,LAWTON ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",,
+"",LAWTON ST,MORAGA ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",,
+"",SANTIAGO ST,TARAVAL ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+"",JUDAH ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",JUDAH ST,KIRKHAM ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",LAWTON ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",LAWTON ST,MORAGA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",LINCOLN WAY,IRVING ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",NORIEGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",NORIEGA ST,ORTEGA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",ORTEGA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ORTEGA ST,PACHECO ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",RIVERA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",RIVERA ST,SANTIAGO ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",SANTIAGO ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",SANTIAGO ST,TARAVAL ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+IRVING ST,,,,,,
+"",27TH AVE,Intersection,Proposed Paving.,PAVING,"Brian DeGuzman -",Nov 16 2015-May 19 2017
+"",27TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Benny Ng -,Nov 16 2015-May 19 2017
+"",28TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Benny Ng -,Nov 16 2015-May 19 2017
+"",27TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Isabella Li -,Apr 29 2016-Jan 27 2017
+"",27TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",Nov 16 2015-May 19 2017
+"",27TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Streets &Highways","Brian DeGuzman -",Nov 16 2015-May 19 2017
+JUDAH ST,,,,,,
+"",27TH AVE,Intersection,Muni Tracks Present.,,,
+"",28TH AVE,Intersection,Muni Tracks Present.,,,
+"",27TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic",Isabella Li -,Apr 29 2016-Jan 27 2017
+"",27TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",28TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",27TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",28TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",27TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"",28TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -Transportation Engineering(Capital)",Manito Velasco -,Jul  1 2017-Aug  1 2020
+"",28TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"KIRKHAMST",,,,,,
+"",27TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",28TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",28TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan  7 2014-Jan  7 2019
+"",27TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1910J,,Feb 25 2014-Feb 25 2019
+"",28TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  2 2018-Feb 17 2020
+LAWTON ST,,,,,,
+"",28TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Dec 17 2013-Dec 17 2018
+"",27TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",28TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+MORAGA ST,,,,,,
+"",28TH AVE,Intersection,Cistern Present.,,,
+"",28TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Dec 17 2013-Dec 17 2018
+"",27TH AVE,Intersection,Proposed Paving.,PAVING,Paul Barradas -,Aug 31 2015-Dec 28 2015
+"",27TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",28TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2016-Dec 31 2016
+"",27TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -ConstructionManagement","Richard Chircop-",Aug 31 2015-Feb 26 2016
+"NORIEGAST",,,,,,
+"",28TH AVE,Intersection,"Conflict with existing Street UsePermit.",12ECN-0736,"800-743-5000 -800-743-5000",Jul 17 2012-
+"",27TH AVE,Intersection,"Conflict with existing Street UsePermit.",13ECN-0934,"800-743-5000 -800-743-5000",Sep  3 2013-
+"",28TH AVE,Intersection,"Conflict with existing Street UsePermit.",14TS-0075,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",27TH AVE,Intersection,"Conflict with existing Street UsePermit.",15TS-0016,"Amy Landgraf510-446-7234 -Amy Landgraf510-446-7234",
+"",27TH AVE,Intersection,Proposed Excavation.,PG&E,Alan Wong -,Jan  1 2016-Dec 31 2016
+"",27TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",28TH AVE,Intersection,Proposed Excavation.,"SF MTACapitalPrograms andConstruction",Darton Ito -,Jan  1 2020-Dec 31 2020
+"",28TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+ORTEGA ST,,,,,,
+"",27TH AVE,Intersection,Proposed Paving.,PAVING,Richard Lee -,Oct  2 2018-Apr  2 2019
+"",27TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Mechanical\Electrical",Debra Temple -,Nov  3 2014-Sep  9 2016
+"",28TH AVE,Intersection,Proposed Excavation.,"SF DPW IDC -Mechanical\Electrical",Debra Temple -,Nov  3 2014-Sep  9 2016
+"",27TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -Park",Alex Demisch -,Feb  4 2011-Dec 31 2015
+"",28TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -Park",Alex Demisch -,Feb  4 2011-Dec 31 2015
+"",27TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Steel Anchor -withoutWasher",,
+"",28TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"PACHECOST",,,,,,
+"",28TH AVE,Intersection,"Conflict with existing Street UsePermit.",11WR-0101,"NOC 866-639-8460 - NOC 866-639-8460",
+"",28TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 16 2014-Jan 16 2019
+"QUINTARAST",,,,,,
+"",27TH AVE,Intersection,"Conflict with existing Street UsePermit.",12TS-0089,"Jana Lord 510-446-7234 - JanaLord 510-446-7234",
+"",28TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"",28TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+RIVERA ST,,,,,,
+"",28TH AVE,Intersection,Cistern Present.,,,
+"",28TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 21 2014-Jan 21 2019
+"",28TH AVE,Intersection,Proposed Excavation.,PG&E,Kayson Louie -,Jan  1 2016-Dec 29 2016
+"",28TH AVE,Intersection,Proposed Excavation.,"SF MTA SS -LivableStreets",Darby Watson -,Jan  1 2015-Jun 15 2017
+"",28TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+"",28TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"SANTIAGOST",,,,,,
+"",28TH AVE,Intersection,"Please see special pavingrequirements for MoratoriumStreets.",1745J,,Jan 23 2014-Jan 23 2019
+"",28TH AVE,Intersection,Proposed Excavation.,PG&E,Kayson Louie -,Jan  1 2016-Dec 29 2016
+"",27TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+"",28TH AVE,Intersection,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+"",27TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+"",28TH AVE,Intersection,Proposed Excavation.,SF PUC Water,"Michael Gardiner-",Jan  1 2017-Nov  1 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates,
+"",28TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,,

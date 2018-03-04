@@ -1,0 +1,26 @@
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+6,SANCHEZ ST,HILL ST,22ND ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,
+5,,JERSEY ST,25TH ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,
+4,,25TH ST,CLIPPER ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,
+3,,"CESAR CHAVEZST",27TH ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,
+2,,DUNCAN ST,28TH ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,
+1,,30TH ST,RANDALL ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,
+"",Total,,,,,0,54,120,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"SANCHEZST",,,,,,
+"",25TH ST,CLIPPER ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",CESAR CHAVEZ ST,27TH ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",DUNCAN ST,28TH ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",JERSEY ST,25TH ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",HILL ST,22ND ST -,"Conflict with existing Street UsePermit.",09wr-0008,"Robert Alford209.275.0339 /ralford@nextgnetworks - 209-275-0339",
+"",JERSEY ST,25TH ST -,"Conflict with existing Street UsePermit.",11WR-0044,"NOC 866-892-5327 - NOC 866-892-5327",
+"",CESAR CHAVEZ ST,27TH ST -,"Conflict with existing Street UsePermit.",12ECN-1220,"800-743-5000 -800-743-5000",Dec 11 2012-
+"",CESAR CHAVEZ ST,27TH ST -,"Conflict with existing Street UsePermit.",13ECN-0877,"800-743-5000 -800-743-5000",Aug 19 2013-
+"",CESAR CHAVEZ ST,27TH ST -,"Conflict with existing Street UsePermit.",14MSE-0188,"Refer to Agent -Refer to Agent",
+"",DUNCAN ST,28TH ST -,"Conflict with existing Street UsePermit.",14MSE-0266,"Refer to Agent -Refer to Agent",
+"",30TH ST,RANDALL ST -,"Conflict with existing Street UsePermit.",17CN-0088,"415-642-7722 -415-642-7722",
+"",25TH ST,CLIPPER ST -,"Conflict with existing Street UsePermit.",17CN-0089,"408-981-2447 -408-981-2447",
+"",25TH ST,CLIPPER ST -,Proposed Paving.,PAVING,Richard Lee -,Apr  1 2019-Apr  1 2020
+"",DUNCAN ST,28TH ST -,Proposed Paving.,PAVING,Richard Lee -,Apr  1 2019-Apr  1 2020
+"",HILL ST,22ND ST -,Proposed Paving.,PAVING,Lorina Louie -,Oct 31 2017-Nov  1 2020
+"",HILL ST,22ND ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Matthew Lim -,Nov 27 2017-Nov 28 2020

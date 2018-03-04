@@ -1,0 +1,58 @@
+"ConditionsAll existing traffic and parking controls and restrictionsshall apply without a Special Traffic Permit issued bySFMTA. Please check Blue Book for traffic restrictions.To obtain a Blue Book, contact SFMTA at 415-701-4673. A minimum of 4 feet of clearance should beavailable at all times to allow for public path of travel.Pursuant to Article 29 of the San Francisco PoliceCode, a Night Noise Permit for operation in the PublicRight-of-Way shall be required for work that createsany noise 5dBA above the ambient noise level of thatarea at the nearest property plane. No noise permittedbetween the hours of 7:00PM and 7:00AM.Event/Operation:Roving OperationPermit Linear Footage40Elements of OccupancyLine truck roving from utility pole to utility pole, placingaerial strand and fiber optic cable.  Roving work not toexceed approximately 30 minutes at each location.From:5/1/2017 07:00AMStart Time7:00AMTo:5/11/2017 05:00PMEnd Time05:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, followthe tow-away sign activation and photo uploadprocess.  To tow a vehicle call the Tow Desk at (415)553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 05:00PMMeter Segment(s)Night NoiseWork Scope"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+17,FLORIDA ST,"CESAR CHAVEZST",PRECITA AVE,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+16,,PRECITA AVE,PERALTA AVE,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+1,HOLLADAY AVE,PERALTA AVE,WRIGHT ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+2,,WRIGHT ST,YORK ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,YORK ST,RUTLEDGE ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,RUTLEDGE ST,COSTA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+18,MULLEN AVE,ALABAMA ST,PERALTA AVE,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+5,PERALTA AVE,HOLLADAY AVE,"MONTCALMST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,HOLLADAY AVE,"MONTCALMST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+7,,MONTCALM ST,YORK ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+8,,YORK ST,YORK ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+9,,MONTCALM ST,"HAMPSHIREST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+10,,HAMPSHIRE ST,YORK ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+11,,YORK ST,"FRANCONIAST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+12,,FRANCONIA ST,FLORIDA ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,FLORIDA ST,MULLEN AVE,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+14,PERALTA AVE,MULLEN AVE,"UNNAMED186",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+15,,UNNAMED 186,"MONTCALMST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+FLORIDA ST,,,,,,
+"",PRECITA AVE,PERALTA AVE -,"Conflict with existing Street UsePermit.",12ECN-1091,"Refer toAgent5504900 -Refer toAgent5504900",Nov  2 2012-
+"",CESAR CHAVEZ ST,PRECITA AVE -,"Conflict with existing Street UsePermit.",17CN-0078,"Refer to Agent -Refer to Agent",
+"",CESAR CHAVEZ ST,PRECITA AVE -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"HOLLADAYAVE",,,,,,
+"",RUTLEDGE ST,COSTA ST -,"Conflict with existing Street UsePermit.",12ECN-0333,"800-743-5000 -800-743-5000",Mar 13 2012-
+"",PERALTA AVE,"WRIGHT ST -WEST","Conflict with existing Street UsePermit.",14ECN-0371,"800-743-5000 -800-743-5000",Mar 27 2014-
+"",YORK ST,RUTLEDGE ST -,"Conflict with existing Street UsePermit.",14MSE-0316,"Refer to Agent -Refer to Agent",
+"MULLENAVE",,,,,,
+"",ALABAMA ST,PERALTA AVE -,"Conflict with existing Street UsePermit.",17ECN-0077,"Refer to Agent -Refer to Agent",Jan 27 2017-
+"",ALABAMA ST,PERALTA AVE -,Proposed Paving.,PAVING,Richard Lee -,Sep  1 2019-Sep  1 2020
+"PERALTAAVE",,,,,,
+"",MONTCALM ST,"HAMPSHIRE ST -NORTH","Conflict with existing Street UsePermit.",11ME-0004,"Refer to Agent -Refer to Agent",
+"",YORK ST,FRANCONIA ST -,"Conflict with existing Street UsePermit.",13CN-0117,"Refer to Agent -Refer to Agent",
+"",HOLLADAY AVE,"MONTCALM ST -NORTH","Conflict with existing Street UsePermit.",14ECN-0100,"800-743-5000 -800-743-5000",Jan 15 2014-
+"",YORK ST,FRANCONIA ST -,"Conflict with existing Street UsePermit.",14ECN-0220,"800-743-5000 -800-743-5000",Feb 18 2014-
+"",HOLLADAY AVE,"MONTCALM ST -NORTH","Conflict with existing Street UsePermit.",15ECN-1050,"415-695-3500 -415-695-3500",Nov  5 2015-
+"",HOLLADAY AVE,"MONTCALM ST -SOUTH","Conflict with existing Street UsePermit.",17MSE-0053,"Refer to Agent -Refer to Agent",
+"",FRANCONIA ST,FLORIDA ST -,Proposed Paving.,PAVING,Richard Lee -,Sep  1 2019-Sep  1 2020
+"",YORK ST,FRANCONIA ST -,Proposed Paving.,PAVING,Richard Lee -,Sep  1 2019-Sep  1 2020
+"",FLORIDA ST,MULLEN AVE -,Proposed Paving.,PAVING,Richard Lee -,Oct  1 2019-Oct  1 2020
+"",HAMPSHIRE ST,YORK ST - NORTH,Proposed Paving.,PAVING,Richard Lee -,Oct  1 2019-Oct  1 2020
+"",HOLLADAY AVE,"MONTCALM ST -NORTH",Proposed Paving.,PAVING,Richard Lee -,Oct  1 2019-Oct  1 2020
+"",HOLLADAY AVE,"MONTCALM ST -SOUTH",Proposed Paving.,PAVING,Richard Lee -,Oct  1 2019-Oct  1 2020
+"",MONTCALM ST,"HAMPSHIRE ST -NORTH",Proposed Paving.,PAVING,Richard Lee -,Oct  1 2019-Oct  1 2020
+"",MONTCALM ST,YORK ST - SOUTH,Proposed Paving.,PAVING,Richard Lee -,Oct  1 2019-Oct  1 2020
+"",YORK ST,YORK ST - SOUTH,Proposed Paving.,PAVING,Richard Lee -,Oct  1 2019-Oct  1 2020
+"",FRANCONIA ST,FLORIDA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Iqbalbhai Dhapa-",Jul  3 2017-Feb 18 2019
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",FLORIDA ST,MULLEN AVE -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",HAMPSHIRE ST,YORK ST - NORTH,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,

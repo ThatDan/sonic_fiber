@@ -1,0 +1,78 @@
+"ConditionsAll existing traffic and parking controls and restrictionsshall apply without a Special Traffic Permit issued bySFMTA. Please check Blue Book for traffic restrictions.To obtain a Blue Book, contact SFMTA at 415-701-4673.A minimum of 4 feet of clearance should be availableat all times to allow for public path of travel.Pursuant to Article 29 of the San Francisco PoliceCode, a Night Noise Permit for operation in the PublicRight-of-Way shall be required for work that createsany noise 5dBA above the ambient noise level of thatarea at the nearest property plane.No noise permitted between the hours of 7:00PM and7:00AM.Event/Operation:Roving OperationPermit Linear Footage40Elements of Occupancyline truck roving from utility pole to utility pole, placingaerial messenger and fiber optic cable.  Roving worknot to exceed approximately 30 minutes at eachlocation.From:6/1/2017 07:00AMStart Time7:00AMTo:6/9/2017 05:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, followthe tow-away sign activation and photo uploadprocess.  To tow a vehicle call the Tow Desk at (415)553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night NoiseWork Scope"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+2,23RD ST,POTRERO AVE,"HAMPSHIREST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+3,,HAMPSHIRE ST,YORK ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+4,,YORK ST,BRYANT ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+5,,BRYANT ST,FLORIDA ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+6,,FLORIDA ST,ALABAMA ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+7,,ALABAMA ST,HARRISON ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+8,,HARRISON ST,TREAT AVE,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+9,23RD ST,TREAT AVE,FOLSOM ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+10,,FOLSOM ST,"SHOTWELLST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+11,,SHOTWELL ST,"SOUTH VANNESS AVE",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+12,,"SOUTH VANNESS AVE",CAPP ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+13,,CAPP ST,MISSION ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+14,,MISSION ST,BARTLETT ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+15,,BARTLETT ST,VALENCIA ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+16,,VALENCIA ST,"SAN JOSEAVE",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+1,,SAN JOSE AVE,"GUERREROST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,40,
+"",Total,,,,,0,0,640,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+23RD ST,,,,,,
+"",ALABAMA ST,HARRISON ST -,MFF Restricted near schools,,,
+"",BARTLETT ST,VALENCIA ST -,MFF Allowed,,,
+"",BARTLETT ST,VALENCIA ST -,MFF Restricted near schools,,,
+"",BARTLETT ST,VALENCIA ST -,Parking Meters Installed,,,
+"",BRYANT ST,FLORIDA ST -,MFF Restricted near schools,,,
+"",CAPP ST,MISSION ST -,MFF Allowed,,,
+"",CAPP ST,MISSION ST -,MFF Restricted near schools,,,
+"",CAPP ST,MISSION ST -,Parking Meters Installed,,,
+"",FLORIDA ST,ALABAMA ST -,MFF Restricted near schools,,,
+"",FOLSOM ST,SHOTWELL ST -,MFF Allowed,,,
+"",HAMPSHIRE ST,YORK ST -,MFF Restricted near schools,,,
+"",HARRISON ST,TREAT AVE -,MFF Restricted near schools,,,
+"",MISSION ST,BARTLETT ST -,MFF Allowed,,,
+"",MISSION ST,BARTLETT ST -,MFF Restricted near schools,,,
+"",MISSION ST,BARTLETT ST -,Parking Meters Installed,,,
+"",POTRERO AVE,HAMPSHIRE ST -,MFF Restricted near schools,,,
+"",SAN JOSE AVE,GUERRERO ST -,MFF Allowed,,,
+"",SAN JOSE AVE,GUERRERO ST -,MFF Restricted near schools,,,
+"",SHOTWELL ST,"SOUTH VAN NESSAVE -",MFF Allowed,,,
+"","SOUTH VAN NESSAVE",CAPP ST -,MFF Allowed,,,
+"","SOUTH VAN NESSAVE",CAPP ST -,Parking Meters Installed,,,
+"",VALENCIA ST,SAN JOSE AVE -,MFF Allowed,,,
+"",VALENCIA ST,SAN JOSE AVE -,MFF Restricted near schools,,,
+"",YORK ST,BRYANT ST -,MFF Restricted near schools,,,
+"",BARTLETT ST,VALENCIA ST -,"Banners are allowed on thisstreet",,,
+"",CAPP ST,MISSION ST -,"Banners are allowed on thisstreet",,,
+"",MISSION ST,BARTLETT ST -,"Banners are allowed on thisstreet",,,
+"",TREAT AVE,FOLSOM ST -,"Banners are allowed on thisstreet",,,
+"",VALENCIA ST,SAN JOSE AVE -,"Banners are allowed on thisstreet",,,
+"","SOUTH VAN NESSAVE",CAPP ST -,"Conflict with existing Street UsePermit.",12ECN-0802,"800-743-5000 -800-743-5000",Jul 21 2012-
+"",YORK ST,BRYANT ST -,"Conflict with existing Street UsePermit.",12ECN-1218,"800-743-5000 -800-743-5000",Dec 10 2012-
+"",FOLSOM ST,SHOTWELL ST -,"Conflict with existing Street UsePermit.",12MSE-0499,"Refer to Agent -Refer to Agent",
+"",HARRISON ST,TREAT AVE -,"Conflict with existing Street UsePermit.",13ECN-0784,"800-743-5000 -800-743-5000",Jul 16 2013-
+"",CAPP ST,MISSION ST -,"Conflict with existing Street UsePermit.",13ECN-1223,"800-743-5000 -800-743-5000",Oct 29 2013-
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",ALABAMA ST,HARRISON ST -,"Conflict with existing Street UsePermit.",14ECN-1028,"Refer to Agent -Refer to Agent",Sep 10 2014-
+"",VALENCIA ST,SAN JOSE AVE -,"Conflict with existing Street UsePermit.",15IE-1114,"Refer to Agent -Refer to Agent",
+"",VALENCIA ST,SAN JOSE AVE -,"Conflict with existing Street UsePermit.",16MSE-0135,"Refer to Agent -Refer to Agent",
+"",SAN JOSE AVE,GUERRERO ST -,"Conflict with existing Street UsePermit.",16WR-0322,"Joseph Camicia,415-722-1183 -415-377-7826",
+"",FOLSOM ST,SHOTWELL ST -,"Conflict with existing Street UsePermit.",16WR-0344,"Matt Yergovich,1-415-596-3474- 415-377-7826",
+"",HARRISON ST,TREAT AVE -,"Conflict with existing Street UsePermit.",17MFF-0110,"Refer to Agent -Refer to Agent",May  6 2017-May  6 2018
+"",TREAT AVE,FOLSOM ST -,"Conflict with existing Street UsePermit.",17MFF-0165,"Refer to Agent -Refer to Agent",Mar 16 2017-Mar 15 2018
+"",VALENCIA ST,SAN JOSE AVE -,"Conflict with existing Street UsePermit.",17MSE-0252,"Refer to Agent -Refer to Agent",
+"",BRYANT ST,FLORIDA ST -,"Conflict with existing Street UsePermit.",17TC-0594,"Refer to Agent -Refer to Agent",Nov 16 2017-Nov 15 2018
+"",ALABAMA ST,HARRISON ST -,"Please see special pavingrequirements for MoratoriumStreets.",1866J,,May 20 2013-May 20 2018
+"",FOLSOM ST,SHOTWELL ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",SHOTWELL ST,"SOUTH VAN NESSAVE -",Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"","SOUTH VAN NESSAVE",CAPP ST -,Proposed Paving.,PAVING,"Olivia Tanquilut-olivia.tanquilut@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",BARTLETT ST,VALENCIA ST -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Dec 10 2018-Jul  6 2021
+"",MISSION ST,BARTLETT ST -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Dec 10 2018-Jul  6 2021
+"",VALENCIA ST,SAN JOSE AVE -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Dec 10 2018-Jul  6 2021
+"",SAN JOSE AVE,GUERRERO ST -,Proposed Paving.,PAVING,"Edmund Lee -edmund.lee@sfdpw.org",Jul  1 2020-May 30 2021
+"",FOLSOM ST,SHOTWELL ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Allison Seibel -allison.seibel@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",SHOTWELL ST,"SOUTH VAN NESSAVE -",Proposed Excavation.,"SF DPW IDC -Hydraulic","Allison Seibel -allison.seibel@sfdpw.org",Nov 25 2019-Nov 25 2020
+"",SHOTWELL ST,"SOUTH VAN NESSAVE -",Proposed Excavation.,"SF DPW IDC -Hydraulic","Kaho Kong -Kaho.Kong@sfdpw.org",Oct 24 2017-Oct 25 2018
+"",HARRISON ST,TREAT AVE -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",

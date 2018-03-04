@@ -1,0 +1,41 @@
+"ConditionsEvent/Operation:Place Aerial StrandPermit Linear Footage1900Elements of OccupancyPlace aerial strand from Taraval to Quintara on 20thAvenueFrom:1/5/2015 7:00AMStart Time7:00AMTo:1/5/2015 6:00PMEnd Time6:00PMNeed to post tow-away signTo activate and register this permit for towing, call(415) 554-5824 a minimum of 72 hours prior tooccupancy.  To tow a vehicle call the Tow Desk at(415) 553-1200.Special Traffic permit requiredNFood:NMeter Segment(s)20TH AVE: QUINTARA ST to RIVERA ST (2100 -2199) 01/05/2015 thru 01/05/2015 (1 days) 20TH AVE:RIVERA ST intersection 01/05/2015 thru 01/05/2015(1 days) 20TH AVE: RIVERA ST to SANTIAGO ST(2200 - 2299) 01/05/2015 thru 01/05/2015 (1 days)20TH AVE: SANTIAGO ST intersection 01/05/2015thru 01/05/2015 (1 days) 20TH AVE: SANTIAGO ST toTARAVAL ST (2300 - 2399) 01/05/2015 thru01/05/2015 (1 days) RIVERA ST: 20TH AVEintersection 01/05/2015 thru 01/05/2015 (1 days)SANTIAGO ST: 20TH AVE intersection 01/05/2015thru 01/05/2015 (1 days)Street Space Hours7:00AM Thru 6:00PMPerforming Arts:NNight Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+2,20TH AVE,QUINTARA ST,RIVERA ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,RIVERA ST,SANTIAGO ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+1,,SANTIAGO ST,TARAVAL ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+3,RIVERA ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+5,SANTIAGO ST,20TH AVE,Intersection,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+20TH AVE,,,,,,
+"",QUINTARA ST,RIVERA ST -,MFF Allowed,,,
+"",QUINTARA ST,RIVERA ST -,MFF Restricted near schools,,,
+"",RIVERA ST,SANTIAGO ST -,MFF Allowed,,,
+"",RIVERA ST,SANTIAGO ST -,MFF Restricted near schools,,,
+"",SANTIAGO ST,TARAVAL ST -,MFF Restricted near schools,,,
+"",SANTIAGO ST,TARAVAL ST -,Parking Meters Installed,,,
+"",QUINTARA ST,RIVERA ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",RIVERA ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",RIVERA ST,SANTIAGO ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",SANTIAGO ST,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",SANTIAGO ST,TARAVAL ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",RIVERA ST,Intersection,"Conflict with existing Street UsePermit.",11SMF-0037,"Refer to Agent -Refer to Agent",
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",11SMF-0037,"Refer to Agent -Refer to Agent",
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",13ECN-0972,"800-743-5000 -800-743-5000",Sep 13 2013-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",13ECN-1075,"800-743-5000 -800-743-5000",Oct  2 2013-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",15MSE-0602,"650-741-6968 -650-741-6968",
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",17ECN-0246,"415-695-3500 -415-695-3500",Apr  7 2017-
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",17MSE-0630,"415-992-1808 -415-992-1808",
+"",QUINTARA ST,RIVERA ST -,"Please see special pavingrequirements for MoratoriumStreets.",2061J,,Dec 17 2013-Dec 17 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",RIVERA ST,SANTIAGO ST -,"Please see special pavingrequirements for MoratoriumStreets.",2061J,,Dec 17 2013-Dec 17 2018
+"",RIVERA ST,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+RIVERA ST,,,,,,
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",20TH AVE,Intersection,"Conflict with existing Street UsePermit.",11SMF-0037,"Refer to Agent -Refer to Agent",
+"",20TH AVE,Intersection,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument -no well",,
+"SANTIAGOST",,,,,,
+"",20TH AVE,Intersection,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,

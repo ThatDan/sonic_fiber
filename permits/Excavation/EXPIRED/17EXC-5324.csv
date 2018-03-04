@@ -1,0 +1,103 @@
+Conditions
+"All previous special conditions attached to the original permit are still valid and applicable for (PERMIT 17EXC-5324). ==(3:05pm==9/21/17)"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1017391,16TH ST,BRYANT ST,FLORIDA ST,South,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,9
+1017392,,ALABAMA ST,"HARRISON ST\ TREAT AVE",South,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,9
+1017393,,"HARRISON ST \TREAT AVE",FOLSOM ST,South,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,9
+1017394,,FOLSOM ST,"SHOTWELLST",South,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,9
+1017395,,ALBION ST,"GUERREROST",South,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,9
+1017396,,GUERRERO ST,SPENCER ST,South,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,9
+"",Total,,,,,0,54,120,54
+1017397,"SOUTH VAN NESSAVE",14TH ST,15TH ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,20,9
+"",Total,,,,,0,9,20,9
+Job #,Activity,Contact,,
+"","- Bike corral present.  The Contractor shall contact Ryan Dodge of theSFMTA at ryan.dodge@sfmta.com if an on-street bicycle parking corralmay potentially conflict with the Contractor’s work or if theContractor’s work may potentially damage the on-street bicycle parkingcorral. Ryan Dodge will provide details and cost estimates payable bythe Contractor if removal and re-installation is required.",,,
+Your Notes:,,,,
+Streets:,16TH ST / HARRISON ST \ TREAT AVE - FOLSOM ST -,,,
+"","- Parking sensors are located in the parking spaces on this street.Please contact Alex Demisch of SFMTA/SFpark at (415) 701-4507 oralex.demisch@sfmta.com to coordinate","Alex Demisch - (415)701-4507",,
+Your Notes:,,,,
+Streets:,16TH ST / ALBION ST - GUERRERO ST -,,,
+"","- Under G095 requirement, Contractor shall contact Muni OverheadLine Division of any work 10 feet in horizontal or vertical direction ofoverhead lines. Contact: Clifford Smethurst @Clifford.Smethurst@sfmta.com, (415) 554-9220.",,,
+Your Notes:,,,,
+Streets:,16TH ST / ALABAMA ST - HARRISON ST \ TREAT AVE -,,,
+17EXC-1449,"Walsh Construction Company - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","(415) 646 - 2310 - (415)646 - 2310",,
+Your Notes:,,,,
+Streets:,SOUTH VAN NESS AVE / 14TH ST - 15TH ST -,,,
+"",
+"",
+"",
+"",
+""
+""
+permit,Dates,Agency,Contact,
+17TOC-5849,10/4/2017 9:00AM - 10/6/2017 3:00PM,"Webpass Telecommunications,LLC","Maryanne Ocampo 415-370-4408 SergeyBikowskymaryanne@webpass.net",
+StreetSpace,,,,
+Your Notes:,,,,
+Streets:,"TREAT AVE: 16TH ST \ HARRISON ST intersection,HARRISON ST: 16TH ST \ TREAT AVEintersection,ALABAMA ST: 16TH ST intersection,16TH ST: HARRISON ST \ TREAT AVE to FOLSOM ST(2700 - 2799),16TH ST: HARRISON ST \ TREAT AVE intersection,16TH ST: ALABAMA ST intersection,16THST: BRYANT ST to FLORIDA ST (2400 - 2499)",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+16TH ST,,,,,,
+"",ALABAMA ST,"HARRISON ST \TREAT AVE -","Banners are allowed on thisstreet",,,
+"",ALABAMA ST,"HARRISON ST \TREAT AVE -","DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:NORTH 4PM - 6PM MONDAYTHROUGH FRIDAY // SOUTH7AM - 9AM MONDAY THROUGHFRIDAY",,,
+"",ALABAMA ST,"HARRISON ST \TREAT AVE -","Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",ALBION ST,GUERRERO ST -,"Banners are allowed on thisstreet",,,
+"",ALBION ST,GUERRERO ST -,"DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:NORTH 4PM - 6PM MONDAYTHROUGH FRIDAY // SOUTH7AM - 9AM MONDAY THROUGHFRIDAY",,,
+"",BRYANT ST,FLORIDA ST -,"Banners are allowed on thisstreet",,,
+"",BRYANT ST,FLORIDA ST -,"DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:NORTH 4PM - 6PM MONDAYTHROUGH FRIDAY // SOUTH7AM - 9AM MONDAY THROUGHFRIDAY",,,
+"",BRYANT ST,FLORIDA ST -,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",FOLSOM ST,SHOTWELL ST -,"Banners are allowed on thisstreet",,,
+"",FOLSOM ST,SHOTWELL ST -,"DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:NORTH 4PM - 6PM MONDAYTHROUGH FRIDAY // SOUTH7AM - 9AM MONDAY THROUGHFRIDAY",,,
+"",FOLSOM ST,SHOTWELL ST -,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",GUERRERO ST,SPENCER ST -,"Banners are allowed on thisstreet",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",GUERRERO ST,SPENCER ST -,"DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:NORTH 4PM - 6PM MONDAYTHROUGH FRIDAY // SOUTH7AM - 9AM MONDAY THROUGHFRIDAY",,,
+"","HARRISON ST \TREAT AVE",FOLSOM ST -,"Banners are allowed on thisstreet",,,
+"","HARRISON ST \TREAT AVE",FOLSOM ST -,"DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:NORTH 4PM - 6PM MONDAYTHROUGH FRIDAY // SOUTH7AM - 9AM MONDAY THROUGHFRIDAY",,,
+"","HARRISON ST \TREAT AVE",FOLSOM ST -,"Please refer to Figure 12 ofSection 9.4(A) of the DPWOrder No. 171,442 for specialconditions for excavation in thevicinity of AWSS.",,,
+"",BRYANT ST,FLORIDA ST -,"Conflict with existing Street UsePermit.",12MSE-0242,"Refer to Agent -Refer to Agent",
+"",ALBION ST,GUERRERO ST -,"Conflict with existing Street UsePermit.",14MSE-0015,"Refer to Agent -Refer to Agent",
+"",ALBION ST,GUERRERO ST -,"Conflict with existing Street UsePermit.",15MSE-0093,"415-285-6200 -415-285-6200",
+"",BRYANT ST,FLORIDA ST -,"Conflict with existing Street UsePermit.",16B-0112,"Refer to Agent -Refer to Agent",Oct 24 2016-Oct 24 2017
+"",ALBION ST,GUERRERO ST -,"Conflict with existing Street UsePermit.",16ECN-0569,"415-695-3500 -415-695-3500",Aug  2 2016-
+"",ALBION ST,GUERRERO ST -,"Conflict with existing Street UsePermit.",17B-0019,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Mar 18 2017-Mar 18 2018
+"",ALABAMA ST,"HARRISON ST \TREAT AVE -","Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",ALBION ST,GUERRERO ST -,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",BRYANT ST,FLORIDA ST -,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",FOLSOM ST,SHOTWELL ST -,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"","HARRISON ST \TREAT AVE",FOLSOM ST -,"Conflict with existing Street UsePermit.",17B-0087,"Refer to Agent -Refer to Agent",Jul 31 2017-Aug  1 2018
+"",ALABAMA ST,"HARRISON ST \TREAT AVE -","Conflict with existing Street UsePermit.",17B-0089,"Refer to Agent -Refer to Agent",Aug 17 2017-Aug 18 2018
+"",BRYANT ST,FLORIDA ST -,"Conflict with existing Street UsePermit.",17B-0089,"Refer to Agent -Refer to Agent",Aug 17 2017-Aug 18 2018
+"",FOLSOM ST,SHOTWELL ST -,"Conflict with existing Street UsePermit.",17B-0089,"Refer to Agent -Refer to Agent",Aug 17 2017-Aug 18 2018
+"","HARRISON ST \TREAT AVE",FOLSOM ST -,"Conflict with existing Street UsePermit.",17B-0089,"Refer to Agent -Refer to Agent",Aug 17 2017-Aug 18 2018
+"",ALBION ST,GUERRERO ST -,"Conflict with existing Street UsePermit.",17ECN-0036,"408-529-6906 -408-529-6906",Jan 11 2017-
+"",GUERRERO ST,SPENCER ST -,"Conflict with existing Street UsePermit.",17ECN-0036,"408-529-6906 -408-529-6906",Jan 11 2017-
+"",ALABAMA ST,"HARRISON ST \TREAT AVE -",Sidewalk Repair scheduled,17SWR-0509,"415-760-8090 -415-760-8090",Sep 13 2017-Oct 12 2017
+"",BRYANT ST,FLORIDA ST -,"Conflict with existing Street UsePermit.",17TOC-5849,"415-370-4408Sergey Bikowsky- 415-429-0079",Oct  4 2017-Oct  6 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"","HARRISON ST \TREAT AVE",FOLSOM ST -,"Conflict with existing Street UsePermit.",17TOC-5849,"415-370-4408Sergey Bikowsky- 415-429-0079",Oct  4 2017-Oct  6 2017
+"",ALABAMA ST,"HARRISON ST \TREAT AVE -",Proposed Excavation.,"SF DPW IDC -Hydraulic",Thomas Won -,Jan 31 2018-Jan 24 2021
+"",ALBION ST,GUERRERO ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Thomas Won -,Jan 31 2018-Jan 24 2021
+"",BRYANT ST,FLORIDA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Thomas Won -,Jan 31 2018-Jan 24 2021
+"",FOLSOM ST,SHOTWELL ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Thomas Won -,Jan 31 2018-Jan 24 2021
+"",GUERRERO ST,SPENCER ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Thomas Won -,Jan 31 2018-Jan 24 2021
+"",ALABAMA ST,"HARRISON ST \TREAT AVE -",Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2018-Jan  1 2020
+"",ALBION ST,GUERRERO ST -,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2018-Jan  1 2020
+"",BRYANT ST,FLORIDA ST -,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2018-Jan  1 2020
+"",FOLSOM ST,SHOTWELL ST -,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2018-Jan  1 2020
+"",GUERRERO ST,SPENCER ST -,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2018-Jan  1 2020
+"","HARRISON ST \TREAT AVE",FOLSOM ST -,Proposed Excavation.,SF PUC Water,"CDDEngineering -",Jan  1 2018-Jan  1 2020
+"",ALBION ST,GUERRERO ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",,
+"SOUTH VANNESS AVE",,,,,,
+"",14TH ST,15TH ST -,"Banners are allowed on thisstreet",,,
+"",14TH ST,15TH ST -,"DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:EAST 7AM - 9AM MONDAYTHROUGH FRIDAY // WEST4PM - 6PM MONDAY THROUGHFRIDAY",,,
+"",14TH ST,15TH ST -,"Red light photo enforcementequipment located nearintersection.  Excavating partiesare responsible for any damageto these facilities incurred bytheir excavation activity.  Formore information, contactDavid Valle-Schwenk of DPT at415-554-2366.",,,
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",14ECN-0136,"800-743-5000 -800-743-5000",Jan 24 2014-
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",16B-0124,"Andrea Bellas -415 431 2950 x12 - (415) 431-2950",Oct 12 2016-Oct 12 2017
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",17N-0217,"(510) 376-1197(623) 518-0375 - (415)845-5498",Jul 26 2017-Sep 26 2017
+"",14TH ST,15TH ST -,Proposed Paving.,PAVING,Richard Lee -,Dec 10 2020-Apr 12 2021
+"",Existing,Impacted
+1. Project Limits - Total On-Street Parking Spaces Impacted,,
+a. Number Spaces,7,7
+b. Linear Feet,140,140
+2. Parking Spaces Impacted on Side Street Proposed for Staging and other construction purposes,,
+a. Number Spaces,0,0
+b. Linear Feet,0,0

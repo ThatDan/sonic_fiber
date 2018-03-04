@@ -1,0 +1,109 @@
+"EmergencyConfirmationNumberConditions24 Hour / 7 Day Contact:7077915391Service Address/Project:Sidewalk RepairConstruction Start DateStart Date10/27/2015Permit expires on:11/06/2015PurposeSidewalk/CurbType of facility:Excavation ReasonRepair SidewalkExcavation Reason DescriptionMethod:Open Cut: SawcutTrackingNumber1TrackingNumber2Project Size192InspectionThis permit is invalid until the permittee contacts DPWat 554-5870 to activate the permit and schedule aninspection at least 72 hours prior to work.  Failure tocomply with the stated conditions will render this permitnull and void."
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,22ND AVE,LINCOLN WAY,IRVING ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+"",Total,,,,,0,16,0,
+2,23RD AVE,LINCOLN WAY,IRVING ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+"",Total,,,,,0,16,0,
+3,24TH AVE,LINCOLN WAY,IRVING ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+4,,QUINTARA ST,RIVERA ST,Both,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+"",Total,,,,,0,32,0,
+5,25TH AVE,LINCOLN WAY,IRVING ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+6,,QUINTARA ST,RIVERA ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+7,25TH AVE,SANTIAGO ST,TARAVAL ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+"",Total,,,,,0,48,0,
+8,26TH AVE,LINCOLN WAY,IRVING ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+9,,QUINTARA ST,RIVERA ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,10,
+12,,SANTIAGO ST,TARAVAL ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+"",Total,,,,,0,48,10,
+11,27TH AVE,LINCOLN WAY,IRVING ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,0,
+10,,QUINTARA ST,RIVERA ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,16,10,
+"",Total,,,,,0,32,10,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+22ND AVE,,,,,,
+"",LINCOLN WAY,IRVING ST -,"Major Muni Route-- Clear streetby 3 PM in CommercialDistricts, by 4 PM in non-Commercial Districts.",,,
+"",LINCOLN WAY,IRVING ST -,Parking Meters Installed,,,
+"",LINCOLN WAY,IRVING ST -,"Banners are allowed on thisstreet",,,
+23RD AVE,,,,,,
+"",LINCOLN WAY,IRVING ST -,"Major Muni Route-- Clear streetby 3 PM in CommercialDistricts, by 4 PM in non-Commercial Districts.",,,
+"",LINCOLN WAY,IRVING ST -,Parking Meters Installed,,,
+"",LINCOLN WAY,IRVING ST -,"Banners are allowed on thisstreet",,,
+"",LINCOLN WAY,IRVING ST -,"ASAP Sidewalk RepairScheduled","ASAP WorkOrder",LC General -,
+"",LINCOLN WAY,IRVING ST -,Proposed Paving.,PAVING,"Brian DeGuzman -brian.deguzman@sfdpw.org",Jan 22 2018-Feb 26 2019
+24TH AVE,,,,,,
+"",LINCOLN WAY,IRVING ST -,Parking Meters Installed,,,
+"",QUINTARA ST,RIVERA ST -,MFF Allowed,,,
+"",QUINTARA ST,RIVERA ST -,MFF Restricted near schools,,,
+"",LINCOLN WAY,IRVING ST -,"Banners are allowed on thisstreet",,,
+"",QUINTARA ST,RIVERA ST -,"Banners are allowed on thisstreet",,,
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",15CN-0233,"415-637-9698 -415-637-9698",
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",16CN-0036,"415-688-0187 -415-688-0187",
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",16ECN-0625,"415-695-3500 -415-695-3500",Aug 16 2016-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",16ECN-0671,"415-695-3500 -415-695-3500",Aug 25 2016-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",17ECN-0003,"415-695-3500 -415-695-3500",Dec 30 2016-
+25TH AVE,,,,,,
+"",LINCOLN WAY,IRVING ST -,Parking Meters Installed,,,
+"",QUINTARA ST,RIVERA ST -,MFF Allowed,,,
+"",QUINTARA ST,RIVERA ST -,MFF Restricted near schools,,,
+"",SANTIAGO ST,TARAVAL ST -,MFF Allowed,,,
+"",SANTIAGO ST,TARAVAL ST -,MFF Restricted near schools,,,
+"",LINCOLN WAY,IRVING ST -,"Banners are allowed on thisstreet",,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",11SMF-0021,"Refer to Agent -Refer to Agent",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",11SMF-0092,"Refer to Agent -Refer to Agent",
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",14CN-0243,"650-892-4992 -650-892-4992",
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",14ECN-0999,"800-743-5000 -800-743-5000",Sep  6 2014-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",15ECN-1003,"1-415-695-3500- 1-415-695-3500",Oct 20 2015-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",16ECN-0283,"415-695-3500 -415-695-3500",Apr 20 2016-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",16ECN-0495,"415-695-3500 -415-695-3500",Jul 11 2016-
+"",SANTIAGO ST,TARAVAL ST -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Dec 10 2018-Jul  6 2021
+"",QUINTARA ST,RIVERA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Lesley Wong -lesley.wong@sfdpw.org",Jun 30 2027-Mar 16 2028
+"",SANTIAGO ST,TARAVAL ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+26TH AVE,,,,,,
+"",LINCOLN WAY,IRVING ST -,Parking Meters Installed,,,
+"",QUINTARA ST,RIVERA ST -,MFF Allowed,,,
+"",QUINTARA ST,RIVERA ST -,MFF Restricted near schools,,,
+"",SANTIAGO ST,TARAVAL ST -,MFF Allowed,,,
+"",SANTIAGO ST,TARAVAL ST -,MFF Restricted near schools,,,
+"",LINCOLN WAY,IRVING ST -,"Banners are allowed on thisstreet",,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",14ECN-0554,"800-743-5000 -800-743-5000",May 13 2014-
+"",LINCOLN WAY,IRVING ST -,"Please see special pavingrequirements for MoratoriumStreets.",2979J,,Dec  7 2017-Dec  7 2022
+"",LINCOLN WAY,IRVING ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Kaho Kong -Kaho.Kong@sfdpw.org",Oct 24 2017-Oct 25 2018
+"",LINCOLN WAY,IRVING ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"",SANTIAGO ST,TARAVAL ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",LC General -,
+27TH AVE,,,,,,
+"",LINCOLN WAY,IRVING ST -,Parking Meters Installed,,,
+"",QUINTARA ST,RIVERA ST -,MFF Allowed,,,
+"",QUINTARA ST,RIVERA ST -,MFF Restricted near schools,,,
+"",LINCOLN WAY,IRVING ST -,"Conflict with existing Street UsePermit.",16MSE-0261,"Refer to Agent -Refer to Agent",
+"",LINCOLN WAY,IRVING ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:",
+"",
+6TH AVE: LINCOLN WAY IRVING ST (1477000) - East,
+Asphalt Square Footage: 0,Concrete Square Footage: 16
+Moratorium Start Date: 12/7/2017,Moratorium End Date: 12/7/2022
+Date Service Requested: 1/1/1900,
+"",
+Property Owner Name:,Property Owner Phone:
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Concrete Square Footage: 16
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium Start Date: 12/7/2017
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Date Service Requested: 1/1/1900
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium End Date: 12/7/2022
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Phone:
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Asphalt Square Footage: 0
+"ApprovedDenied6TH AVE: LINCOLN WAY IRVING ST (1477000) - EastAsphalt Square Footage: 0Concrete Square Footage: 16Moratorium Start Date: 12/7/2017Moratorium End Date: 12/7/2022Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Name:

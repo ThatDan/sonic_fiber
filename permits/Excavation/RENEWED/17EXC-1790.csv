@@ -1,0 +1,73 @@
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,CYPRESS ST,25TH ST,26TH ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,
+"",Total,,,,,0,9,0,
+5,HARRISON ST,21ST ST,22ND ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,
+6,,22ND ST,23RD ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,
+4,,PRECITA AVE,NORWICH ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,
+"",Total,,,,,0,27,0,
+2,LUCKY ST,25TH ST,26TH ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,
+"",Total,,,,,0,9,0,
+3,TREAT AVE,24TH ST,25TH ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,9,0,
+"",Total,,,,,0,9,0,
+Job #,Activity,Contact,
+permit,Dates,Agency,Contact,
+17TOC-1557,"4/10/2017 07:00AM - 4/14/201705:00PM","Sonic Telecom, LLC","Joshua Mackey JoshMackey 707-791-5618josh.mackey@sonic.com",
+StreetSpace,,,,
+Your Notes:,,,,
+Streets:,"VIRGIL ST: 25TH ST to 26TH ST (1 - 99),SHOTWELL ST: 26TH ST to CESAR CHAVEZ ST (1200 -1299),SHOTWELL ST: 25TH ST to 26TH ST (1100 - 1199),SHOTWELL ST: 24TH ST to 25TH ST (1000 -1099),SHOTWELL ST: 23RD ST to 24TH ST (900 - 999),SHOTWELL ST: 22ND ST to 23RD ST (800 -899),SHOTWELL ST: 21ST ST to 22ND ST (700 - 799),SHOTWELL ST: 20TH ST to 21ST ST (600 -699),HORACE ST: 25TH ST to 26TH ST (1 - 99),CYPRESS ST: 25TH ST to 26TH ST (100 - 199),CYPRESSST: 24TH ST to 25TH ST (1 - 99)",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+CYPRESS ST,,,,,,
+"",25TH ST,26TH ST -,MFF Allowed,,,
+"HARRISONST",,,,,,
+"",21ST ST,22ND ST -,":  Bike counter or bikebarometer. Excavating partiesare responsible for any damageto these facilities incurred bytheir excavation activity. Formore information, or acomplete updated list of bikecounter locations, pleasecontact Jeffrey Banks of SFMTAat (415) 701-5331 orjeffrey.banks@sfmta.com.",,,
+"",21ST ST,22ND ST -,MFF Allowed,,,
+"",21ST ST,22ND ST -,MFF Restricted near schools,,,
+"",22ND ST,23RD ST -,MFF Restricted near schools,,,
+"",21ST ST,22ND ST -,"Banners are allowed on thisstreet",,,
+"",21ST ST,22ND ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",22ND ST,23RD ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",22ND ST,23RD ST -,"Conflict with existing Street UsePermit.",12V-0009,"Refer to Agent -Refer to Agent",
+"",PRECITA AVE,NORWICH ST -,"Conflict with existing Street UsePermit.",15ECN-1197,"415-695-3500 -415-695-3500",Dec 14 2015-
+"",PRECITA AVE,NORWICH ST -,"Conflict with existing Street UsePermit.",16ECN-0744,"Refer to Agent415-550-4900 -415-550-4900",Sep 19 2016-
+"",22ND ST,23RD ST -,"Conflict with existing Street UsePermit.",16WR-0320,"Joseph Camicia,415-722-1183 -415-377-7826",
+"",21ST ST,22ND ST -,"Conflict with existing Street UsePermit.",17MFF-0164,"Refer to Agent -Refer to Agent",Mar 16 2017-Mar 15 2018
+"",22ND ST,23RD ST -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Oct 31 2016-Oct 30 2018
+"",PRECITA AVE,NORWICH ST -,Proposed Paving.,PAVING,"Richard Lee -richard.lee@sfdpw.org",Dec 17 2020-Dec 17 2021
+"",21ST ST,22ND ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"",22ND ST,23RD ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"StreetName",From St,To St,Message,Job,Contact,Dates
+LUCKY ST,,,,,,
+"",25TH ST,26TH ST -,"Conflict with existing Street UsePermit.",17CN-0034,"Refer to Agent -Refer to Agent",
+"",25TH ST,26TH ST -,"Please see special pavingrequirements for MoratoriumStreets.",2635J,,Oct  1 2015-Oct  1 2020
+TREAT AVE,,,,,,
+"",24TH ST,25TH ST -,Parking Meters Installed,,,
+"",24TH ST,25TH ST -,"Banners are allowed on thisstreet",,,
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",13SMF-0076,"Refer to Agent -Refer to Agent",
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:",
+"",
+UCKY ST: 25TH ST 26TH ST (8530000   ) - West,
+Asphalt Square Footage: 0,Concrete Square Footage: 9
+Moratorium Start Date: 10/1/2015,Moratorium End Date: 10/1/2020
+Date Service Requested: 1/1/1900,
+"",
+Property Owner Name:,Property Owner Phone:
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Concrete Square Footage: 9
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium Start Date: 10/1/2015
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Date Service Requested: 1/1/1900
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium End Date: 10/1/2020
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Phone:
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Asphalt Square Footage: 0
+"ApprovedDeniedUCKY ST: 25TH ST 26TH ST (8530000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 9Moratorium Start Date: 10/1/2015Moratorium End Date: 10/1/2020Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Name:

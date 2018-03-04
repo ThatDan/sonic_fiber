@@ -1,0 +1,62 @@
+"ConditionsAll existing traffic and parking controls and restrictionsshall apply without a Special Traffic Permit issued bySFMTA. Please check Blue Book for traffic restrictions.To obtain a Blue Book, contact SFMTA at 415-701-4673.Pursuant to Article 29 of the San Francisco PoliceCode, a Night Noise Permit for operation in the PublicRight-of-Way shall be required for work that createsany noise 5dBA above the ambient noise level of thatarea at the nearest property plane.No noise permitted between the hours of 7:00PM and7:00AM.Event/Operation:Roving OperationPermit Linear Footage40Elements of OccupancyLine truck roving from utility pole to utility pole placingaerial strand and fiber optic cable.  Roving work not toexceed approximately 30 minutes at each location.From:3/20/2017 07:00AMStart Time07:00AMTo:3/31/2017 05:00PMEnd Time05:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, followthe tow-away sign activation and photo uploadprocess.  To tow a vehicle call the Tow Desk at (415)553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours07:00AM Thru 05:00PMMeter Segment(s)Night NoiseWork Scope"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+7,BARTLETT ST,24TH ST,25TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+8,,25TH ST,26TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,26TH ST,"CESARCHAVEZ ST",West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+1,FAIR OAKS ST,25TH ST,26TH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+5,ORANGE ALY,25TH ST,26TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+9,OSAGE ALY,25TH ST,26TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+2,SAN JOSE AVE,24TH ST,25TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,25TH ST,JURI ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,JURI ST,26TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,
+permit,Dates,Agency,Contact,
+17EXC-1371,03/27/2017 - 03/31/2017,"Sonic Telecom, LLC","Joshua Mackey (707-791-5618)email:josh.mackey@sonic.com",
+1609-19&29,,,,
+Your Notes:,,,,
+Streets:,"OSAGE ALY: 25TH ST to 26TH ST (200 - 299),ORANGE ALY: END to 24TH ST (1 - 49),BARTLETT ST:24TH ST to 25TH ST (300 - 399),26TH ST: HAMPSHIRE ST to YORK ST (2800 - 2899)",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"BARTLETTST",,,,,,
+"",24TH ST,25TH ST -,MFF Allowed,,,
+"",24TH ST,25TH ST -,MFF Restricted near schools,,,
+"",25TH ST,26TH ST -,MFF Allowed,,,
+"",24TH ST,25TH ST -,"Banners are allowed on thisstreet",,,
+"",26TH ST,"CESAR CHAVEZ ST-","Banners are allowed on thisstreet",,,
+"",26TH ST,"CESAR CHAVEZ ST-","Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",25TH ST,26TH ST -,"Conflict with existing Street UsePermit.",13ECN-0823,"800-743-5000 -800-743-5000",Jul 30 2013-
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",14ECN-1195,"800-743-5000 -800-743-5000",Oct 30 2014-
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",16CN-0083,"Refer to Agent -Refer to Agent",
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",16ECN-0054,"415-695-3500 -415-695-3500",Jan 15 2016-
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",18SC-0181,"201-913-4094 -201-913-4094",Feb 26 2018-Feb 28 2018
+"",26TH ST,"CESAR CHAVEZ ST-",Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Oct 31 2016-Oct 30 2018
+"FAIR OAKSST",,,,,,
+"",25TH ST,26TH ST -,Proposed Paving.,PAVING,"Allison Nguyen -Allison.Nguyen@sfdpw.org",Oct 31 2016-Oct 30 2018
+"ORANGEALY",,,,,,
+"",25TH ST,26TH ST -,MFF Allowed,,,
+OSAGE ALY,,,,,,
+"",25TH ST,26TH ST -,MFF Allowed,,,
+"",25TH ST,26TH ST -,"Please see special pavingrequirements for MoratoriumStreets.",2424J,,Apr 22 2015-Apr 22 2020
+"SAN JOSEAVE",,,,,,
+"",24TH ST,25TH ST -,MFF Allowed,,,
+"",24TH ST,25TH ST -,MFF Restricted near schools,,,
+"",25TH ST,JURI ST -,MFF Allowed,,,
+"",JURI ST,26TH ST -,MFF Allowed,,,
+"",24TH ST,25TH ST -,"DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:EAST 7AM - 9AM 4PM - 6PMMONDAY THROUGH FRIDAY //WEST 7AM - 9AM 4PM - 6PMMONDAY THROUGH FRIDAY",,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",25TH ST,JURI ST -,"DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:EAST 7AM - 9AM 4PM - 6PMMONDAY THROUGH FRIDAY //WEST 7AM - 9AM 4PM - 6PMMONDAY THROUGH FRIDAY",,,
+"",JURI ST,26TH ST -,"DPT Blue Book TrafficRestriction. Time of day duringwhich lanes must be kept clear:EAST 7AM - 9AM 4PM - 6PMMONDAY THROUGH FRIDAY //WEST 7AM - 9AM 4PM - 6PMMONDAY THROUGH FRIDAY",,,
+"",JURI ST,26TH ST -,"Conflict with existing Street UsePermit.",12ECN-1188,"Refer toAgent5504900 -Refer toAgent5504900",Dec 13 2012-
+"",JURI ST,26TH ST -,"Conflict with existing Street UsePermit.",13ECN-0878,"800-743-5000 -800-743-5000",Aug 19 2013-
+"",JURI ST,26TH ST -,"Conflict with existing Street UsePermit.",17CN-0312,"Refer to Agent -Refer to Agent",
+"",24TH ST,25TH ST -,"Conflict with existing Street UsePermit.",17CN-0320,"Refer to Agent -Refer to Agent",
+"",JURI ST,26TH ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic","Lesley Wong -lesley.wong@sfdpw.org",Oct  8 2024-Jun 25 2025
+"",24TH ST,25TH ST -,Proposed Excavation.,SF PUC Water,"Heather Rhee -hrhee@sfwater.org",Apr  7 2018-Oct  4 2018
+"",25TH ST,JURI ST -,Proposed Excavation.,SF PUC Water,"Heather Rhee -hrhee@sfwater.org",Apr  7 2018-Oct  4 2018
+"",JURI ST,26TH ST -,Proposed Excavation.,SF PUC Water,"Heather Rhee -hrhee@sfwater.org",Apr  7 2018-Oct  4 2018
+"",24TH ST,25TH ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder",,

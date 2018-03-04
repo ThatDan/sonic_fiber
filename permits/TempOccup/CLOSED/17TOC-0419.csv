@@ -1,0 +1,97 @@
+"ConditionsEvent/Operation:RovingPermit Linear Footage40Elements of OccupancyLine truck roving from utility pole to utility pole, placingaerial strand and fiber optics.  Roving work not toexceed approximately 30 minutes at each location.From:2/6/2017 07:00AMStart Time7:00AMTo:2/10/2017 05:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, followthe tow-away sign activation and photo uploadprocess.  To tow a vehicle call the Tow Desk at (415)553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+9,15TH ST,HARRISON ST,FOLSOM ST,South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+2,,FOLSOM ST,"SHOTWELLST",North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+8,,FOLSOM ST,"SHOTWELLST",South,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+3,,SHOTWELL ST,"SOUTH VANNESS AVE",North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+4,,"SOUTH VANNESS AVE",NATOMA ST,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+5,,NATOMA ST,CAPP ST,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+6,,CAPP ST,MINNA ST,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+7,15TH ST,MINNA ST,MISSION ST,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+1,,MISSION ST,WIESE ST,North,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+10,MINNA ST,14TH ST,15TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+11,NATOMA ST,14TH ST,15TH ST,East,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+12,SHOTWELL ST,14TH ST,15TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+13,,15TH ST,16TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+14,,16TH ST,17TH ST,West,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,0,
+"",Total,,,,,0,0,0,
+Job #,Activity,Contact,,
+"","- Bike corral present.  The Contractor shall contact Ryan Dodge of theSFMTA at ryan.dodge@sfmta.com if an on-street bicycle parking corralmay potentially conflict with the Contractor’s work or if theContractor’s work may potentially damage the on-street bicycle parkingcorral. Ryan Dodge will provide details and cost estimates payable bythe Contractor if removal and re-installation is required.",,,
+Your Notes:,,,,
+Streets:,15TH ST / FOLSOM ST - SHOTWELL ST -,,,
+16EXC-7512,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","1-415-695-3500 - 1-415-695-3500",,
+Your Notes:,,,,
+Streets:,SHOTWELL ST / 14TH ST - 15TH ST -,,,
+17EXC-0134,"Phoenix Electric Company - Conflict with existing excavation permit.  Itis mandatory that you coordinate all work for joint paving.","4156713858 -4156713858",,
+Your Notes:,,,,
+Streets:,15TH ST / SHOTWELL ST - SOUTH VAN NESS AVE -,,,
+17EXC-0322,"SBC - Pacific Bell Engineering - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","MIchael Miracle 925-381-5549 - (925) 823 -0955",,
+Your Notes:,,,,
+Streets:,SHOTWELL ST / 15TH ST - 16TH ST -,,,
+"",
+"",
+"",
+"",
+""
+""
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+15TH ST,,,,,,
+"",CAPP ST,MINNA ST -,"Banners are allowed on thisstreet",,,
+"",HARRISON ST,FOLSOM ST -,"Banners are allowed on thisstreet",,,
+"",MINNA ST,MISSION ST -,"Banners are allowed on thisstreet",,,
+"",MINNA ST,MISSION ST -,"Red light photo enforcementequipment located nearintersection.  Excavating partiesare responsible for any damageto these facilities incurred bytheir excavation activity.  Formore information, contactDavid Valle-Schwenk of DPT at415-554-2366.",,,
+"",MISSION ST,WIESE ST -,"Banners are allowed on thisstreet",,,
+"",MISSION ST,WIESE ST -,"Red light photo enforcementequipment located nearintersection.  Excavating partiesare responsible for any damageto these facilities incurred bytheir excavation activity.  Formore information, contactDavid Valle-Schwenk of DPT at415-554-2366.",,,
+"",SHOTWELL ST,"SOUTH VAN NESSAVE -","Banners are allowed on thisstreet",,,
+"","SOUTH VAN NESSAVE",NATOMA ST -,"Banners are allowed on thisstreet",,,
+"",FOLSOM ST,SHOTWELL ST -,"Conflict with existing Street UsePermit.",12MSE-0077,"Refer to Agent -Refer to Agent",
+"","SOUTH VAN NESSAVE",NATOMA ST -,"Conflict with existing Street UsePermit.",12MSE-0495,"Refer to Agent -Refer to Agent",
+"",SHOTWELL ST,"SOUTH VAN NESSAVE -","Conflict with existing Street UsePermit.",13ECN-0947,"800-743-5000 -800-743-5000",Sep  7 2013-
+"",NATOMA ST,CAPP ST -,"Conflict with existing Street UsePermit.",13MSE-0046,"Refer to Agent -Refer to Agent",
+"",NATOMA ST,CAPP ST -,"Conflict with existing Street UsePermit.",13SMF-0088,"Refer to Agent -Refer to Agent",
+"",FOLSOM ST,SHOTWELL ST -,"Conflict with existing Street UsePermit.",14MSE-0179,"Refer to Agent -Refer to Agent",
+"",SHOTWELL ST,"SOUTH VAN NESSAVE -","Conflict with existing Street UsePermit.",15IE-0212,"Refer to Agent -Refer to Agent",
+"","SOUTH VAN NESSAVE",NATOMA ST -,"Conflict with existing Street UsePermit.",15MSE-0708,"415-359-5786 -415-359-5786",
+"",MISSION ST,WIESE ST -,"Conflict with existing Street UsePermit.",16ECN-0398,"415-695-3500 -415-695-3500",Jun  7 2016-
+"",FOLSOM ST,SHOTWELL ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Apr  6 2012-Apr  6 2017
+"",SHOTWELL ST,"SOUTH VAN NESSAVE -","Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Apr  6 2012-Apr  6 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",CAPP ST,MINNA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Jul 11 2012-Jul 11 2017
+"",MINNA ST,MISSION ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Jul 11 2012-Jul 11 2017
+"",NATOMA ST,CAPP ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Jul 11 2012-Jul 11 2017
+"","SOUTH VAN NESSAVE",NATOMA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Jul 11 2012-Jul 11 2017
+"",CAPP ST,MINNA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Chung Linh -,Oct 31 2018-Apr 29 2022
+"",MINNA ST,MISSION ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Chung Linh -,Oct 31 2018-Apr 29 2022
+"",NATOMA ST,CAPP ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Chung Linh -,Oct 31 2018-Apr 29 2022
+"",SHOTWELL ST,"SOUTH VAN NESSAVE -",Proposed Excavation.,"SF DPW IDC -Hydraulic",Chung Linh -,Oct 31 2018-Apr 29 2022
+"","SOUTH VAN NESSAVE",NATOMA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Chung Linh -,Oct 31 2018-Apr 29 2022
+MINNA ST,,,,,,
+"",14TH ST,15TH ST -,"Banners are allowed on thisstreet",,,
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",14MSE-0078,"510-763-0411 -510-763-0411",
+NATOMA ST,,,,,,
+"",14TH ST,15TH ST -,"Banners are allowed on thisstreet",,,
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",15ECN-1040,"Refer to Agent415-550-4900 -415-550-4900",Nov  5 2015-
+"",14TH ST,15TH ST -,"Please see special pavingrequirements for MoratoriumStreets.",1847J,,May 15 2012-May 15 2017
+"SHOTWELLST",,,,,,
+"",14TH ST,15TH ST -,"Banners are allowed on thisstreet",,,
+"",15TH ST,16TH ST -,"Banners are allowed on thisstreet",,,
+"",16TH ST,17TH ST -,"Banners are allowed on thisstreet",,,
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",14ECN-0452,"800-743-5000 -800-743-5000",Apr 17 2014-
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",15ECN-0698,"415-695-3500 -415-695-3500",Jul 14 2015-
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",15IE-0212,"Refer to Agent -Refer to Agent",
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",15V-0014,"Refer to Agent -Refer to Agent",
+"",16TH ST,17TH ST -,"Conflict with existing Street UsePermit.",16IE-0043,"415-994-7293 -415-994-7293",
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",16MFF-0017,"Ana Goulart:650-278-0401 -Ana Goulart:650-278-0401",Mar  4 2016-Mar 15 2017
+"",14TH ST,15TH ST -,"Conflict with existing Street UsePermit.",17TOC-0172,"Gabe Eggers:(707) 326-1631- (707) 326-1631",Jan 30 2017-Feb  3 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",15TH ST,16TH ST -,"Conflict with existing Street UsePermit.",17TOC-0172,"Gabe Eggers:(707) 326-1631- (707) 326-1631",Jan 30 2017-Feb  3 2017
+"",16TH ST,17TH ST -,"Conflict with existing Street UsePermit.",17TOC-0172,"Gabe Eggers:(707) 326-1631- (707) 326-1631",Jan 30 2017-Feb  3 2017

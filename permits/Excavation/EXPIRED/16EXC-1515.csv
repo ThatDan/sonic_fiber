@@ -1,0 +1,274 @@
+"EmergencyConfirmationNumberConditionsThis permit is approved for sidewalk work only.24 Hour / 7 Day Contact:707-326-1631Service Address/Project:Richmond phase 2 anchorsConstruction Start DateStart Date05/30/2016Permit expires on:06/03/2016PurposeTelephoneType of facility:Excavation ReasonInstall AnchorExcavation Reason DescriptionMethod:Open Cut: SawcutTrackingNumber1TrackingNumber2Project Size180Inspection"
+Conditions,
+"===>NOTES: Per the Public Works Excavation Code:1). ‘ T ’ trench shall be the standard restoration practice for all trenches greater than 18 inches in width. The restoration of the concretebase and pavement will be equal to 1 ft. as measured from the edge of the trench;2). the minimum pavement restoration requirements (mill and fill) for trenches exceeding 25% of the length of the block shall include therestoration of all affected lanes for the entire length of the block. For streets that are not delineated by painted lanes and the width of theexcavation is less than thirteen (13) feet, the pavement restoration requirements (mill and fill) shall be for the entire length of the blockthirteen (13) feet in width;3).  for excavation in the intersection, the restoration shall be to pave all affected quadrants either with the 13 foot rule for streets withoutdelineated traffic lanes unless it is on a Muni route and for streets with multiple delineated traffic lanes in one direction, the restorationshall be limited to the affected lane(s).===>Per DPW sign specifications, all projects impacting the length of one (1) block face or more will require the installation of a projectinformation sign, for the duration of the project. The project information sign should be located at either end of the project facingoncoming vehicular traffic. For larger projects that exceed five (5) blocks, the project information sign should be place at five (5) blockintervals in both directions. The signage is intended to keep the public informed of the intent of the project, project schedule, contactinformation and allow for updates as needed.===> If concrete street, gutter or parking strip is excavated, Sonic Telecom shall remove and replace the entire concrete section fromconstruction joint to construction joint. (No new construction joint will be allowed).===>When drilling/excavating in the sidewalk area, entire sidewalk flag(s) must be replaced to adjacent score lines.===>Placement or installation of any utility facilities within the curb return area is prohibited per DPW Order No. 175,387.===>The Department of Public Works approves this permit pursuant to the following special conditions, which the Department of PublicWorks incorporates into the permit and makes a part thereof.SPECIAL PERMIT CONDITIONS:This permit is approved under the following conditions:1. All work (excavation to final paving) shall be completed within the specified duration of this permit.2. Sonic Telecom shall comply with Code Section 2.4.50(a), post and maintain notice(s) at the site of the excavation 72 hours prior to startof construction.3. Sonic Telecom shall comply with Code Section 2.4.55(b)(i)(ii) and (iii), the 120-Hour Rule.4. Sonic Telecom shall coordinate all work with other construction projects and events known or unforeseen such as to minimize theimpact of construction project on the general public and/or event(s).5. Sonic Telecom work shall be in accordance with DPT Blue Book or with any DPT approved traffic routing plans or DPT Special TrafficPermit.6. Sonic Telecom shall replace any existing traffic stripings and markings that are removed or damaged by the work activity withtemporary stripings and markings after the restoration of the pavement as specified on Section 6.2 ‘Pavement Markings’ of DPT’s ‘BlueBook’. Also, Sonic Telecom shall pay to DPT the cost of replacing the permanent pavement markings. For any questions, please call ConraMagat of DPT at (415) 701-4680.7. Sonic Telecom shall restore all trenches per the Excavation Code.8. Sonic Telecom shall remove all temporary pavement markings including USA marking on both the sidewalk and street at the conclusionof the excavation.9.  All work approved under this permit are subjected to the two (2) new standards which are for the reinforcement of the concrete buspads under DPW Order No. 181305 and for constructing reinforced concrete in new sidewalk under DPW Order No. 181306.Failure to comply with the above requirements may render this permit void and may subject Sonic Telecom to a fine or citation.",
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+1,14TH AVE,CLEMENT ST,GEARY BLVD,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+2,,ANZA ST,BALBOA ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+"",Total,,,,,0,20,20,
+3,15TH AVE,LAKE ST,"CALIFORNIAST",East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+4,,CABRILLO ST,FULTON ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+"",Total,,,,,0,20,20,
+5,16TH AVE,LAKE ST,"CALIFORNIAST",East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+6,,CABRILLO ST,FULTON ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+"",Total,,,,,0,20,20,
+7,17TH AVE,LAKE ST,"CALIFORNIAST",West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+9,17TH AVE,ANZA ST,BALBOA ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+9,,ANZA ST,BALBOA ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+"",Total,,,,,0,30,30,
+10,18TH AVE,LAKE ST,"CALIFORNIAST",East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+12,,BALBOA ST,CABRILLO ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+12,,BALBOA ST,CABRILLO ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+13,,CABRILLO ST,FULTON ST,East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,0,
+"",Total,,,,,0,40,30,
+14,19TH AVE,LAKE ST,"CALIFORNIAST",West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,0,
+"",Total,,,,,0,10,0,
+15,20TH AVE,LAKE ST,"CALIFORNIAST",East,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,0,
+"",Total,,,,,0,10,0,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+16,21ST AVE,END,LAKE ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,0,
+17,,CABRILLO ST,FULTON ST,West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,10,
+"",Total,,,,,0,20,10,
+18,22ND AVE,LAKE ST,"CALIFORNIAST",West,"RW : FalseSMC : FalseS/W Only :TrueDB: FalseBP: FalseUB: False",0,10,0,
+"",Total,,,,,0,10,0,
+Job #,Activity,Contact,,
+15EXC-5825,"Shaw Pipeline Inc. - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","Andrew Mellon (415)740-8008 - 415-716-8363",,
+Your Notes:,,,,
+Streets:,14TH AVE / CLEMENT ST - GEARY BLVD -,,,
+15EXC-6043,"Bureau of Street & Sewer Repair - Conflict with existing excavationpermit.  It is mandatory that you coordinate all work for joint paving.","Refer to Agent - Referto Agent",,
+Your Notes:,,,,
+Streets:,18TH AVE / LAKE ST - CALIFORNIA ST -,,,
+16EXC-0822,"VSS International - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","Mike Koenig (916) 524-7034 - (916)524-7034",,
+Your Notes:,,,,
+Streets:,17TH AVE / ANZA ST - BALBOA ST -,,,
+"",
+""
+""
+""
+"",
+""
+""
+"",
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+14TH AVE,,,,,,
+"",CLEMENT ST,GEARY BLVD -,"Banners are allowed on thisstreet",,,
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",13ECN-1389,"800-743-5000 -800-743-5000",Nov 21 2013-
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",13smf-0343,"Refer to Agent -Refer to Agent",
+"",ANZA ST,BALBOA ST -,"Conflict with existing Street UsePermit.",16ECN-0296,,Apr 28 2016-
+"",CLEMENT ST,GEARY BLVD -,"Conflict with existing Street UsePermit.",16ECN-0296,,Apr 28 2016-
+15TH AVE,,,,,,
+"",LAKE ST,CALIFORNIA ST -,"Blocks with Bicycle Routedesignations require specialattention.  For details seeSection 10 of DPT's Blue Bookand Section 6.3 of DPW's OrderNo. 171.442.",,,
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",11WR-0070,"Refer to Agent -Refer to Agent",
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",13ECN-0058,"800-743-5000 -800-743-5000",Jan  7 2013-
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",13ECN-0958,"800-743-5000 -800-743-5000",Sep 10 2013-
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",13ECN-1109,"800-743-5000 -800-743-5000",Oct  9 2013-
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",13ECN-1498,"800-743-5000 -800-743-5000",Dec  6 2013-
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",15ECN-0814,"415-695-3500 -415-695-3500",Aug 14 2015-
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",15ECN-0821,"415-695-3500 -415-695-3500",Aug 14 2015-
+"",CABRILLO ST,FULTON ST -,"Please see special pavingrequirements for MoratoriumStreets.",1680J,,Jan 25 2012-Jan 25 2017
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",16CN-0071,"Refer to Agent -Refer to Agent",
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",16TOC-2683,"925-478-8058 -925-478-8058",May  6 2016-May  6 2016
+"",LAKE ST,CALIFORNIA ST -,"Please see special pavingrequirements for MoratoriumStreets.",2091J,,Oct 22 2014-Oct 22 2019
+16TH AVE,,,,,,
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",13ECN-0057,"800-743-5000 -800-743-5000",Jan  7 2013-
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",16CN-0031,"Refer to Agent -Refer to Agent",
+"",LAKE ST,CALIFORNIA ST -,"Please see special pavingrequirements for MoratoriumStreets.",BSSR,,Apr  4 2012-Apr  4 2017
+"",LAKE ST,CALIFORNIA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",Ya Jing Huang -,Sep 30 2016-Aug 30 2018
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",CABRILLO ST,FULTON ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",LAKE ST,CALIFORNIA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+17TH AVE,,,,,,
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",15CN-0036,"Refer to Agent -Refer to Agent",
+"",ANZA ST,BALBOA ST -,Proposed Paving.,PAVING,Paul Barradas -,Mar 23 2015-May 15 2016
+18TH AVE,,,,,,
+"",BALBOA ST,CABRILLO ST -,"Banners are allowed on thisstreet",,,
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",12ECN-1030,"800-743-5000 -800-743-5000",Oct  2 2012-
+"",BALBOA ST,CABRILLO ST -,"Conflict with existing Street UsePermit.",16TOC-2683,"925-478-8058 -925-478-8058",May  6 2016-May  6 2016
+"",BALBOA ST,CABRILLO ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2015-Jun 30 2016
+"",BALBOA ST,CABRILLO ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"",CABRILLO ST,FULTON ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",LAKE ST,CALIFORNIA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+19TH AVE,,,,,,
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",15B-0018,"Heather Cann:(415) 431-2950- (415) 431-2950",Apr 25 2015-Apr 25 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",15B-0043,"Refer to Agent -Refer to Agent",May  8 2015-May  8 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",15B-0059,"(415) 431-2950- (415) 431-2950",Jun 17 2015-Jun 17 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",15B-0065,"Refer to Agent -Refer to Agent",Aug 24 2015-May 31 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",15B-0073,"(415) 431-2950- (415) 431-2950",Aug  5 2015-Aug  5 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",15B-0083,"Heather Cann:(415) 431-2950- (415) 431-2950",Aug 24 2015-Aug 24 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",15B-0109,"Refer to Agent -Refer to Agent",Oct 21 2015-Oct 21 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",15B-0131,"Refer to Agent -Refer to Agent",Feb 15 2016-May  9 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",16B-0003,"Refer to Agent -Refer to Agent",Feb 15 2016-May  9 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",16B-0004,"Refer to Agent -Refer to Agent",Feb 15 2016-May  9 2016
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",16B-0045,"Heather Cann415-431-2950 -Heather Cann415-431-2950",Apr 25 2016-Apr 25 2017
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",16B-0051,"(415) 431-2950- (415) 431-2950",May 11 2016-May 11 2017
+"",LAKE ST,CALIFORNIA ST -,"Please see special pavingrequirements for MoratoriumStreets.",2091J,,Oct 22 2014-Oct 22 2019
+"",LAKE ST,CALIFORNIA ST -,Proposed Excavation.,"SF CTA -CountyTransportation Authority",Seonjoo Kim -,Jan  1 2020-Dec 31 2020
+20TH AVE,,,,,,
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",12ECN-0670,"800-743-5000 -800-743-5000",Jun  6 2012-
+"",LAKE ST,CALIFORNIA ST -,Proposed Paving.,PAVING,Isabel Liang -,Sep  6 2016-Feb  6 2017
+"",LAKE ST,CALIFORNIA ST -,Proposed Excavation.,"SF DPW IDC -Hydraulic",John Moala -,Sep  6 2016-Feb  6 2017
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",LAKE ST,CALIFORNIA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+21ST AVE,,,,,,
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",13ECN-1492,"800-743-5000 -800-743-5000",Dec  4 2013-
+"",CABRILLO ST,FULTON ST -,"Conflict with existing Street UsePermit.",16TOC-2683,"925-478-8058 -925-478-8058",May  6 2016-May  6 2016
+"",CABRILLO ST,FULTON ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  3 2017-Jun 29 2018
+"",END,LAKE ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+22ND AVE,,,,,,
+"",LAKE ST,CALIFORNIA ST -,"Banners are allowed on thisstreet",,,
+"",LAKE ST,CALIFORNIA ST -,"Conflict with existing Street UsePermit.",16TC-0014,"Refer to Agent -Refer to Agent",Jan 16 2016-Jan 15 2017
+"",LAKE ST,CALIFORNIA ST -,"Please see special pavingrequirements for MoratoriumStreets.",1787J,,Oct  7 2011-Oct  7 2016
+"",LAKE ST,CALIFORNIA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium End Date: 1/25/2017
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Date Service Requested: 1/1/1900
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium Start Date: 1/25/2012
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Name:
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Asphalt Square Footage: 0
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:",
+"",
+5TH AVE: CABRILLO ST FULTON ST (612000    ) - East,
+Asphalt Square Footage: 0,Concrete Square Footage: 10
+Moratorium Start Date: 1/25/2012,Moratorium End Date: 1/25/2017
+Date Service Requested: 1/1/1900,
+"",
+Property Owner Name:,Property Owner Phone:
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Concrete Square Footage: 10
+"ApprovedDenied5TH AVE: CABRILLO ST FULTON ST (612000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 1/25/2012Moratorium End Date: 1/25/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Phone:
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:",
+"",
+5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - East,
+Asphalt Square Footage: 0,Concrete Square Footage: 10
+Moratorium Start Date: 10/22/2014,Moratorium End Date: 10/22/2019
+Date Service Requested: 1/1/1900,
+"",
+Property Owner Name:,Property Owner Phone:
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Asphalt Square Footage: 0
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Name:
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium End Date: 10/22/2019
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Concrete Square Footage: 10
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium Start Date: 10/22/2014
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Phone:
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Date Service Requested: 1/1/1900
+"ApprovedDenied5TH AVE: LAKE ST CALIFORNIA ST (605000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Phone:
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Asphalt Square Footage: 0
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Name:
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium Start Date: 4/4/2012
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium End Date: 4/4/2017
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:",
+"",
+6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - East,
+Asphalt Square Footage: 0,Concrete Square Footage: 10
+Moratorium Start Date: 4/4/2012,Moratorium End Date: 4/4/2017
+Date Service Requested: 1/1/1900,
+"",
+Property Owner Name:,Property Owner Phone:
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Date Service Requested: 1/1/1900
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Concrete Square Footage: 10
+"ApprovedDenied6TH AVE: LAKE ST CALIFORNIA ST (670000    ) - EastAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 4/4/2012Moratorium End Date: 4/4/2017Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Date Service Requested: 1/1/1900
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium Start Date: 10/22/2014
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium End Date: 10/22/2019
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Phone:
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Name:
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:",
+"",
+9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - West,
+Asphalt Square Footage: 0,Concrete Square Footage: 10
+Moratorium Start Date: 10/22/2014,Moratorium End Date: 10/22/2019
+Date Service Requested: 1/1/1900,
+"",
+Property Owner Name:,Property Owner Phone:
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Concrete Square Footage: 10
+"ApprovedDenied9TH AVE: LAKE ST CALIFORNIA ST (902000    ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/22/2014Moratorium End Date: 10/22/2019Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Asphalt Square Footage: 0
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:",
+"",
+2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - West,
+Asphalt Square Footage: 0,Concrete Square Footage: 10
+Moratorium Start Date: 10/7/2011,Moratorium End Date: 10/7/2016
+Date Service Requested: 1/1/1900,
+"",
+Property Owner Name:,Property Owner Phone:
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Name:
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Date Service Requested: 1/1/1900
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Asphalt Square Footage: 0
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium Start Date: 10/7/2011
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Property Owner Phone:
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Concrete Square Footage: 10
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+Moratorium End Date: 10/7/2016
+"ApprovedDenied2ND AVE: LAKE ST CALIFORNIA ST (1132000   ) - WestAsphalt Square Footage: 0Concrete Square Footage: 10Moratorium Start Date: 10/7/2011Moratorium End Date: 10/7/2016Date Service Requested: 1/1/1900Property Owner Name:Property Owner Phone:"
+""
+"",Existing,Impacted
+1. Project Limits - Total On-Street Parking Spaces Impacted,,
+a. Number Spaces,0,3
+b. Linear Feet,0,60
+2. Parking Spaces Impacted on Side Street Proposed for Staging and other construction purposes,,
+a. Number Spaces,0,0
+b. Linear Feet,0,0

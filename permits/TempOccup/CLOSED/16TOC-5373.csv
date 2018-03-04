@@ -1,0 +1,72 @@
+"ConditionsRoving works.Event/Operation:Permit Linear Footage5990Elements of OccupancyMoving from utility pole to utility pole placing aerialstrand and fiber optic cable. Work will not exceed30min per location.From:9/12/2016 7:00AMStart Time7:00AMTo:9/16/2016 5:00PMEnd Time5:00PMNeed to call for InspectionNeed to post tow-away signTo activate and register this permit for towing, call(415) 554-5824 a minimum of 72 hours prior tooccupancy.  To tow a vehicle call the Tow Desk at(415) 553-1200.Special Traffic permit requiredCALL FOR Special traffic permit MAY BE required(Please check DPT Blue Book for any trafficrestrictions; to obtain a ""Blue Book"", please contactMTA at (415) 701-4673).Food:NOther:Performing Arts:NStreet Space Hours7:00AM Thru 5:00PMMeter Segment(s)Night Noise"
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+9,16TH AVE,PACHECO ST,QUINTARA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+10,,QUINTARA ST,RIVERA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+"",Total,,,,,0,0,40,
+2,17TH AVE,PACHECO ST,QUINTARA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+3,,QUINTARA ST,RIVERA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+4,,RIVERA ST,SANTIAGO ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+5,,SANTIAGO ST,TARAVAL ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+6,,TARAVAL ST,ULLOA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+ID,Street Name,From St,To St,Sides,*Other,Asphalt,Concrete,"StreetSpaceFeet","SidewalkFeet"
+7,17TH AVE,ULLOA ST,VICENTE ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+8,,VICENTE ST,WAWONA ST,Even,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+"",Total,,,,,0,0,140,
+1,18TH AVE,VICENTE ST,WAWONA ST,Odd,"RW : FalseSMC : FalseS/W Only :FalseDB: FalseBP: FalseUB: False",0,0,20,
+"",Total,,,,,0,0,20,
+Job #,Activity,Contact,,
+16EXC-4455,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,18TH AVE / VICENTE ST - WAWONA ST -,,,
+16EXC-5547,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,17TH AVE / QUINTARA ST - RIVERA ST -,,,
+16EXC-5548,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,17TH AVE / RIVERA ST - SANTIAGO ST -,,,
+16EXC-5549,"Pacific Gas & Electric - Conflict with existing excavation permit.  It ismandatory that you coordinate all work for joint paving.","415-695-3500 - 415-695-3500",,
+Your Notes:,,,,
+Streets:,17TH AVE / SANTIAGO ST - TARAVAL ST -,,,
+"",
+"",
+"",
+"",
+""
+""
+permit,Dates,Agency,Contact,
+"",,,,
+"",,,,
+Your Notes:,,,,
+Streets:,,,,
+"StreetName",From St,To St,Message,Job,Contact,Dates
+16TH AVE,,,,,,
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",14ECN-1188,"800-743-5000 -800-743-5000",Oct 28 2014-
+"",PACHECO ST,QUINTARA ST -,"Please see special pavingrequirements for MoratoriumStreets.",2506J,,Jul 18 2014-Jul 18 2019
+"",QUINTARA ST,RIVERA ST -,"Sidewalk Paving to be done bySIRP Process","SIRP WorkOrder","EmpireEngineering &Construction Co.-",
+"",PACHECO ST,QUINTARA ST -,"Prior to construction, all CCSFsurvey monuments shall bereferenced by a licensed LandSurveyor on a Corner Record ora Record of Survey if anyconstruction will take placewithin 10 ft of a monument. Forany questions, please emailMonument.Preservation@sfdpw.org or call 415-554-5827.Note, all survey monumentsshall be preserved per state lawand disturbance of a surveymonument may be a crime.","Stone orConcreteMonument",,
+17TH AVE,,,,,,
+"",SANTIAGO ST,TARAVAL ST -,"Banners are allowed on thisstreet",,,
+"",TARAVAL ST,ULLOA ST -,"Banners are allowed on thisstreet",,,
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",12ECN-1098,"800-743-5000 -800-743-5000",Oct 31 2012-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",13ECN-0073,"Refer to Agent -Refer to Agent",Jan 22 2013-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",13ECN-0079,"800-743-5000 -800-743-5000",Jan 11 2013-
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",13ECN-0181,"Refer to Agent -Refer to Agent",Feb 27 2013-
+"",RIVERA ST,SANTIAGO ST -,"Conflict with existing Street UsePermit.",13ECN-1117,"800-743-5000 -800-743-5000",Oct  9 2013-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",13ECN-1117,"800-743-5000 -800-743-5000",Oct  9 2013-
+"",QUINTARA ST,RIVERA ST -,"Conflict with existing Street UsePermit.",13ECN-1166,"800-743-5000 -800-743-5000",Oct 17 2013-
+"",ULLOA ST,VICENTE ST -,"Conflict with existing Street UsePermit.",14ECN-0689,"800-743-5000 -800-743-5000",Jun 12 2014-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",15CN-0138,"Refer to Agent -Refer to Agent",
+"",PACHECO ST,QUINTARA ST -,"Conflict with existing Street UsePermit.",15ECN-1154,"415-695-3500 -415-695-3500",Dec  3 2015-
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",15SW-0040,"Refer to Agent -Refer to Agent",
+"",SANTIAGO ST,TARAVAL ST -,"Conflict with existing Street UsePermit.",16ECN-0181,"Refer to Agent415-550-4900 -415-550-4900",Mar  2 2016-
+"",QUINTARA ST,RIVERA ST -,"Please see special pavingrequirements for MoratoriumStreets.",2506J,,Jun  1 2015-Jun  1 2020
+"StreetName",From St,To St,Message,Job,Contact,Dates
+"",PACHECO ST,QUINTARA ST -,Proposed Paving.,PAVING,Richard Lee -,Nov 10 2018-May 11 2019
+"",SANTIAGO ST,TARAVAL ST -,Proposed Paving.,PAVING,Richard Lee -,Nov 10 2018-May 11 2019
+"",TARAVAL ST,ULLOA ST -,Proposed Paving.,PAVING,Richard Lee -,Nov 10 2018-May 11 2019
+"",RIVERA ST,SANTIAGO ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+"",SANTIAGO ST,TARAVAL ST -,Proposed Excavation.,PG&E,"AlessandroBettucchi -",Jan  1 2017-Dec 31 2017
+18TH AVE,,,,,,
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",14ECN-1170,"800-743-5000 -800-743-5000",Oct 21 2014-
+"",VICENTE ST,WAWONA ST -,"Conflict with existing Street UsePermit.",15ECN-1145,"415-695-3500 -415-695-3500",Dec  2 2015-
+"",VICENTE ST,WAWONA ST -,Proposed Paving.,PAVING,Edmund Lee -,Jul  1 2016-Jun 30 2017
